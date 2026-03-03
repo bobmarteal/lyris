@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<trackingsummarydata>
+    <dns_temps>0</dns_temps>
+    <bad_doms>0</bad_doms>
+    <bounces>0</bounces>
+    <invalids>0</invalids>
+    <mes_missings>0</mes_missings>
+    <expirations>0</expirations>
+    <skips>0</skips>
+    <aborts>0</aborts>
+    <paused>0</paused>
+    <mailed>4788</mailed>
+    <received>4787</received>
+    <soft_fails>1</soft_fails>
+    <hard_fails>0</hard_fails>
+    <active>0</active>
+    <unique_opens>3599</unique_opens>
+    <opens>5998</opens>
+    <new_members>0</new_members>
+    <unsubs>0</unsubs>
+    <total_clicks>260</total_clicks>
+    <unique_clicks>178</unique_clicks>
+    <trans>0</trans>
+    <unique_trans>0</unique_trans>
+    <streams>0</streams>
+    <unique_streams>0</unique_streams>
+    <trans_amt>0</trans_amt>
+    <units>0</units>
+    <complaints>0</complaints>
+    <successes>4787</successes>
+    <immediate_transients>0</immediate_transients>
+    <internal_stops>0</internal_stops>
+    <final_technicals>1</final_technicals>
+    <unknowns>0</unknowns>
+    <invalid_users>0</invalid_users>
+    <blocked_contents>0</blocked_contents>
+    <likely_blocked>0</likely_blocked>
+    <dbversion>1203008</dbversion>
+    <start_date>2025-12-15 09:37:29</start_date>
+    <finish_date>2025-12-15 09:38:30</finish_date>
+    <subject>This week in A&amp;S: Our top stories of 2025</subject>
+    <type>list</type>
+    <subset />
+    <list>as-students-update-l</list>
+    <title>FSSG - 12/15/25</title>
+    <urls>
+        <opens>158</opens>
+        <uniqueopens>124</uniqueopens>
+        <url>https://as.cornell.edu/news/celebrating-journey-our-december-grads?&amp;utm_campaign=newsletter&amp;utm_source=weekly-newsletter-121525</url>
+        <page_title>Celebrating the journey with our December A&amp;S grads</page_title>
+        <page_summary>December graduates walk the stage this month, so we sat down for a talk with three A&amp;S grads who’ve taken different pathways through Cornell.</page_summary>
+        <opens>19</opens>
+        <uniqueopens>17</uniqueopens>
+        <url>https://as.cornell.edu/news/launches-cornell-los-angeles-semester-study-away?utm_medium=email&amp;utm_content=header-link?&amp;utm_campaign=newsletter&amp;utm_source=weekly-newsletter-121525</url>
+        <page_title>A&amp;S launches Cornell in Los Angeles semester study away</page_title>
+        <page_summary>The program will place students in Hollywood for a semester of coursework, networking, and cultural immersion.</page_summary>
+        <opens>11</opens>
+        <uniqueopens>9</uniqueopens>
+        <url>https://as.cornell.edu/news/behavioral-economics-born-cornell-embraced-policymakers?utm_medium=email&amp;utm_content=header-link?&amp;utm_campaign=newsletter&amp;utm_source=weekly-newsletter-121525</url>
+        <page_title>Behavioral economics: Born at Cornell, embraced by policymakers</page_title>
+        <page_summary>Economists and psychologists work together to understand how human behavior impacts people's decision-making in the marketplace.</page_summary>
+        <opens>10</opens>
+        <uniqueopens>9</uniqueopens>
+        <url>https://as.cornell.edu/news/cornell-ibm-collaboration-advances-quantum-computing?utm_medium=email&amp;utm_content=header-link?&amp;utm_campaign=newsletter&amp;utm_source=weekly-newsletter-121525</url>
+        <page_title>Cornell–IBM collaboration advances quantum computing</page_title>
+        <page_summary>The researchers achieved two major breakthroughs, taking a step toward universal topological quantum computing (fault tolerant computing).</page_summary>
+        <opens>10</opens>
+        <uniqueopens>9</uniqueopens>
+        <url>https://as.cornell.edu/news/new-course-encourages-students-embrace-disagreement?utm_medium=email&amp;utm_content=header-link?&amp;utm_campaign=newsletter&amp;utm_source=weekly-newsletter-121525</url>
+        <page_title>New course encourages students to embrace disagreement</page_title>
+        <page_summary>A new course being offered will give students the chance to consider some of the most polarizing issues in our world today.</page_summary>
+        <opens>11</opens>
+        <uniqueopens>8</uniqueopens>
+        <url>https://as.cornell.edu/news/cornell-chemists-tackle-climate-change?utm_medium=email&amp;utm_content=header-link?&amp;utm_campaign=newsletter&amp;utm_source=weekly-newsletter-121525</url>
+        <page_title>Cornell chemists tackle climate change</page_title>
+        <page_summary>Innovative and far-reaching discoveries such as better electric batteries, carbon capture technologies, renewable plastics and improvements in solar cells are just a few of their research areas.</page_summary>
+        <opens>8</opens>
+        <uniqueopens>7</uniqueopens>
+        <url>https://as.cornell.edu/news/war-love-and-loyalty-iliad-ithaca-march-12-13?utm_medium=email&amp;utm_content=header-link?&amp;utm_campaign=newsletter&amp;utm_source=weekly-newsletter-121525</url>
+        <page_title>War, love and loyalty: The ‘Iliad’ in Ithaca on March 12-13</page_title>
+        <page_summary>An event with translator Emily Wilson and a daylong community reading of portions of Homer’s epic poem highlighted the Arts Unplugged event.</page_summary>
+        <opens>7</opens>
+        <uniqueopens>7</uniqueopens>
+        <url>https://as.cornell.edu/news/center-historical-keyboards-boosted-5-million-gift?utm_medium=email&amp;utm_content=header-link?&amp;utm_campaign=newsletter&amp;utm_source=weekly-newsletter-121525</url>
+        <page_title>Center for Historical Keyboards boosted by $5 million gift</page_title>
+        <page_summary>The gift will secure the future of the center's museum-quality holdings, as well as a rich program of concerts, festivals and educational offerings.</page_summary>
+        <opens>6</opens>
+        <uniqueopens>6</uniqueopens>
+        <url>https://as.cornell.edu/news/national-science-foundation-announces-cornell-led-ai-materials-institute?utm_medium=email&amp;utm_content=header-link?&amp;utm_campaign=newsletter&amp;utm_source=weekly-newsletter-121525</url>
+        <page_title>National Science Foundation announces Cornell-led AI Materials Institute</page_title>
+        <page_summary>The NSF, in partnership with Intel, will invest $20 million over five years.</page_summary>
+        <opens>5</opens>
+        <uniqueopens>5</uniqueopens>
+        <url>https://as.cornell.edu/news/nobel-laureate-shares-research-exploring-origins-life?utm_medium=email&amp;utm_content=header-link?&amp;utm_campaign=newsletter&amp;utm_source=weekly-newsletter-121525</url>
+        <page_title>Nobel laureate shares research exploring the origins of life</page_title>
+        <page_summary>Jack Szostak, Ph.D. ’77, shared decades of research into one of biology’s most puzzling mysteries – the origins of life – during the 2025 Ef Racker Lecture.</page_summary>
+    </urls>
+</trackingsummarydata>

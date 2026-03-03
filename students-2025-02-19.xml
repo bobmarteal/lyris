@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<trackingsummarydata>
+    <dns_temps>0</dns_temps>
+    <bad_doms>0</bad_doms>
+    <bounces>0</bounces>
+    <invalids>0</invalids>
+    <mes_missings>0</mes_missings>
+    <expirations>0</expirations>
+    <skips>0</skips>
+    <aborts>0</aborts>
+    <paused>0</paused>
+    <mailed>4611</mailed>
+    <received>4610</received>
+    <soft_fails>1</soft_fails>
+    <hard_fails>0</hard_fails>
+    <active>0</active>
+    <unique_opens>3725</unique_opens>
+    <opens>7055</opens>
+    <new_members>0</new_members>
+    <unsubs>0</unsubs>
+    <total_clicks>85</total_clicks>
+    <unique_clicks>54</unique_clicks>
+    <trans>0</trans>
+    <unique_trans>0</unique_trans>
+    <streams>0</streams>
+    <unique_streams>0</unique_streams>
+    <trans_amt>0</trans_amt>
+    <units>0</units>
+    <complaints>0</complaints>
+    <successes>4610</successes>
+    <immediate_transients>0</immediate_transients>
+    <internal_stops>0</internal_stops>
+    <final_technicals>1</final_technicals>
+    <unknowns>0</unknowns>
+    <invalid_users>0</invalid_users>
+    <blocked_contents>0</blocked_contents>
+    <likely_blocked>0</likely_blocked>
+    <dbversion>1203008</dbversion>
+    <start_date>2025-02-19 09:03:30</start_date>
+    <finish_date>2025-02-19 09:04:19</finish_date>
+    <subject>Sojourner Truth, mental health care and things that go clickety-clack</subject>
+    <type>list</type>
+    <subset />
+    <list>as-students-update-l</list>
+    <title>FSSG - 02/19/25</title>
+    <urls>
+        <opens>12</opens>
+        <uniqueopens>10</uniqueopens>
+        <url>https://events.cornell.edu/event/cornell-concert-series-presents-jonathan-biss</url>
+        <page_title>Cornell Concert Series presents: Pianist Jonathan Biss - Cornell</page_title>
+        <page_summary>Praised as “a superb pianist and also an eloquent and insightful music writer” ( The Boston Globe) with “impeccable taste and a formidable technique” (The New Yorker), Biss has appeared internationally as a soloist with the Los Angeles and New Yor...</page_summary>
+        <opens>9</opens>
+        <uniqueopens>7</uniqueopens>
+        <url>https://news.cornell.edu/stories/2025/02/key-some-nations-public-support-mental-health-care</url>
+        <page_title>The key to some nations’ public support for mental health care | Cornell Chronicle</page_title>
+        <page_summary>In a new book, Isabel Perera explains why after deinstitutionalization, some affluent democracies failed to provide adequate services for the severely mental ill while others expanded care.</page_summary>
+        <opens>8</opens>
+        <uniqueopens>7</uniqueopens>
+        <url>https://events.cornell.edu/search/events?days=8&amp;experience=&amp;order=date&amp;search=casfeatured</url>
+        <page_title>Events - Cornell</page_title>
+        <page_summary>Cornell events updated every day. Powered by the Localist Community Event Platform</page_summary>
+        <opens>6</opens>
+        <uniqueopens>5</uniqueopens>
+        <url>https://www.bbc.co.uk/sounds/play/m0027kzs</url>
+        <page_title>You're Dead to Me - Sojourner Truth: American abolitionist, suffragist, preacher - BBC Sounds</page_title>
+        <page_summary>Join Greg and his guests in 19th-Century America to learn about Sojourner Truth.</page_summary>
+        <opens>8</opens>
+        <uniqueopens>4</uniqueopens>
+        <url>https://info.cornell.edu/executive-orders/</url>
+        <page_title>Choose Your Campus Location to Sign In to Brand Cornell</page_title>
+        <page_summary>Not Available</page_summary>
+        <opens>4</opens>
+        <uniqueopens>4</uniqueopens>
+        <url>https://www.nytimes.com/2025/02/08/world/canada/us-canada-relations-trump-tariffs.html</url>
+        <page_title>Not Available</page_title>
+        <page_summary>Not Available</page_summary>
+        <opens>4</opens>
+        <uniqueopens>4</uniqueopens>
+        <url>https://news.cornell.edu/stories/2025/02/protein-shuttling-mechanism-helps-bacteria-pump-out-antibiotics</url>
+        <page_title>Protein shuttling mechanism helps bacteria pump out antibiotics | Cornell Chronicle</page_title>
+        <page_summary>A Cornell-led collaboration uncovered the equipment that enables bacteria to survive exposure to antibiotics: a shuttling mechanism that helps a complex of proteins pump out a wide spectrum of antibiotics from the cell.</page_summary>
+        <opens>4</opens>
+        <uniqueopens>4</uniqueopens>
+        <url>https://government.cornell.edu/isabel-m-perera?&amp;utm_campaign=newsletter&amp;utm_source=fssg-newsletter-2-19-25</url>
+        <page_title>Isabel M. Perera | Department of Government</page_title>
+        <page_summary>Not Available</page_summary>
+        <opens>5</opens>
+        <uniqueopens>3</uniqueopens>
+        <url>https://events.cornell.edu/event/2025-rabinor-lectures-in-american-studies-stephanie-canizales</url>
+        <page_title>2025 Rabinor Lectures in American Studies, Stephanie Canizales - Cornell</page_title>
+        <page_summary>Sin Padres, Ni Papeles: Unaccompanied Migrant Youth Coming of Age in the United States
+
+Each year, thousands of youth endure harrowing unaccompanied and undocumented migrations across Central America and Mexico to the United States in pursuit of a...</page_summary>
+        <opens>4</opens>
+        <uniqueopens>3</uniqueopens>
+        <url>https://pma.cornell.edu/samantha-noelle-sheppard?&amp;utm_campaign=newsletter&amp;utm_source=fssg-newsletter-2-19-25</url>
+        <page_title>Samantha Noelle Sheppard | Performing and Media Arts</page_title>
+        <page_summary>Not Available</page_summary>
+    </urls>
+</trackingsummarydata>
