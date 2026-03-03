@@ -4,3 +4,4 @@ mailingoverview_urls.csv
 .DS_Store
 __pycache__/
 *.pyc
+CLAUDE.md
