@@ -233,6 +233,7 @@
     .url-table a { color: #2563eb; text-decoration: none; }
     .url-table a:hover { text-decoration: underline; }
     .url-display { font-size: 0.8rem; color: #aaa; margin-top: 0.1rem; word-break: break-all; }
+    .url-summary { font-size: 0.85rem; color: #777; margin-top: 0.2rem; line-height: 1.45; }
 
     /* ── Misc ────────────────────────────────────────────────────────────── */
     .empty {
@@ -344,13 +345,15 @@
 
   function renderDetail(m) {
     const urlRows = m.urls.map((u, i) => {
-      const hasTitle = u.page_title && u.page_title !== 'Not Available';
-      const linkLabel = hasTitle ? esc(u.page_title) : esc(u.display);
-      const subLabel  = hasTitle ? `<div class="url-display">${esc(u.display)}</div>` : '';
+      const hasTitle   = u.page_title   && u.page_title   !== 'Not Available';
+      const hasSummary = u.page_summary && u.page_summary !== 'Not Available';
+      const linkLabel  = hasTitle ? esc(u.page_title) : esc(u.display);
+      const subLabel   = hasTitle   ? `<div class="url-display">${esc(u.display)}</div>` : '';
+      const summaryLine = hasSummary ? `<div class="url-summary">${esc(u.page_summary)}</div>` : '';
       return `
         <tr>
           <td class="rank">${i + 1}</td>
-          <td><a href="${esc(u.url)}" target="_blank" rel="noopener">${linkLabel}</a>${subLabel}</td>
+          <td><a href="${esc(u.url)}" target="_blank" rel="noopener">${linkLabel}</a>${subLabel}${summaryLine}</td>
           <td class="clicks">${u.total_clicks}</td>
           <td class="num">${u.unique_clicks}</td>
         </tr>`;

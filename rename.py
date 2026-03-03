@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-rename.py — Rename raw Lyris XML exports and enrich URLs with page titles.
+rename.py — Rename raw Lyris XML exports and enrich URLs with page titles and summaries.
 
 Usage: python rename.py [directory]
 
 Two steps:
   1. Rename any .html / .xml.html Lyris exports to type-YYYY-MM-DD.xml
-  2. Fetch HTML <title> for any URL missing a <page_title> in any XML file
+  2. Fetch HTML <title> and meta description for any URL missing enrichment in any XML file
 """
 
 import os
@@ -22,19 +22,29 @@ ALREADY_NAMED = re.compile(r'^([a-z]+)-\d{4}-\d{2}-\d{2}\.xml$')
 
 
 # ---------------------------------------------------------------------------
-# Page title fetching
+# Page info fetching
 # ---------------------------------------------------------------------------
 
-class TitleParser(HTMLParser):
+class PageInfoParser(HTMLParser):
     def __init__(self):
         super().__init__()
         self.title = None
+        self.summary = None
         self._in_title = False
 
     def handle_starttag(self, tag, attrs):
         if tag == 'title':
             self._in_title = True
             self.title = ''
+        elif tag == 'meta':
+            attrs_dict = dict(attrs)
+            content = attrs_dict.get('content', '').strip()
+            prop = attrs_dict.get('property', '').lower()
+            name = attrs_dict.get('name', '').lower()
+            if prop == 'og:description' and content:
+                self.summary = content
+            elif name == 'description' and content and not self.summary:
+                self.summary = content
 
     def handle_endtag(self, tag):
         if tag == 'title':
@@ -45,25 +55,28 @@ class TitleParser(HTMLParser):
             self.title = (self.title or '') + data
 
 
-def fetch_page_title(url, timeout=8):
-    """Fetch a URL and return its HTML <title>, or 'Not Available' on any failure."""
+def fetch_page_info(url, timeout=8):
+    """Fetch a URL and return (title, summary), or ('Not Available', 'Not Available') on failure."""
     try:
         req = urllib.request.Request(url, headers={
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)'
         })
         with urllib.request.urlopen(req, timeout=timeout) as resp:
             if resp.status != 200:
-                return 'Not Available'
+                return 'Not Available', 'Not Available'
             content_type = resp.headers.get('Content-Type', '')
             if 'html' not in content_type.lower():
-                return 'Not Available'
+                return 'Not Available', 'Not Available'
             html = resp.read(32768).decode('utf-8', errors='ignore')
-        parser = TitleParser()
+        parser = PageInfoParser()
         parser.feed(html)
-        title = (parser.title or '').strip()
-        return title if title else 'Not Available'
+        title = (parser.title or '').strip() or 'Not Available'
+        summary = (parser.summary or '').strip()
+        if len(summary) > 250:
+            summary = summary[:247] + '...'
+        return title, summary or 'Not Available'
     except Exception:
-        return 'Not Available'
+        return 'Not Available', 'Not Available'
 
 
 # ---------------------------------------------------------------------------
@@ -111,8 +124,8 @@ def derive_type(list_val):
 
 def enrich_xml_file(filepath):
     """
-    Add <page_title> after each <url> in the file if not already present.
-    Rewrites the file as clean XML. Returns count of titles fetched.
+    Add <page_title> and <page_summary> after each <url> if not already present.
+    Rewrites the file as clean XML. Returns count of URLs enriched.
     """
     root = extract_xml_root(filepath)
     if root is None:
@@ -122,7 +135,7 @@ def enrich_xml_file(filepath):
     if urls_el is None:
         return 0
 
-    # Already fully enriched?
+    # Already has titles — summaries handled by enrich_summaries_file
     if urls_el.find('page_title') is not None:
         return 0
 
@@ -131,23 +144,85 @@ def enrich_xml_file(filepath):
     if not url_indices:
         return 0
 
-    # Fetch titles (forward order, with polite delay)
+    # Fetch titles and summaries (forward order, with polite delay)
     fetched = []
     for idx in url_indices:
         raw_url = (children[idx].text or '').strip()
         print(f'      → {raw_url[:75]}')
-        title = fetch_page_title(raw_url) if raw_url else 'Not Available'
+        if raw_url:
+            title, summary = fetch_page_info(raw_url)
+        else:
+            title, summary = 'Not Available', 'Not Available'
         print(f'         {title[:75]}')
-        fetched.append((idx, title))
+        fetched.append((idx, title, summary))
         time.sleep(0.4)
 
-    # Insert <page_title> after each <url> — reverse order preserves indices
-    for idx, title in reversed(fetched):
+    # Insert <page_title> and <page_summary> after each <url> — reverse order preserves indices
+    for idx, title, summary in reversed(fetched):
+        summary_el = ET.Element('page_summary')
+        summary_el.text = summary
         title_el = ET.Element('page_title')
         title_el.text = title
         urls_el.insert(idx + 1, title_el)
+        urls_el.insert(idx + 2, summary_el)
 
     # Write clean XML (replaces HTML-wrapped original)
+    ET.indent(root, space='    ')
+    ET.ElementTree(root).write(filepath, encoding='utf-8', xml_declaration=True)
+    return len(fetched)
+
+
+def enrich_summaries_file(filepath):
+    """
+    Add <page_summary> to files that already have <page_title> but lack summaries.
+    Returns count of summaries fetched.
+    """
+    root = extract_xml_root(filepath)
+    if root is None:
+        return 0
+
+    urls_el = root.find('urls')
+    if urls_el is None:
+        return 0
+
+    children = list(urls_el)
+
+    # Find URL elements whose page_title has no following page_summary
+    to_fetch = []  # list of (title_child_index, raw_url)
+    for i, el in enumerate(children):
+        if el.tag != 'url':
+            continue
+        raw_url = (el.text or '').strip()
+        title_idx = None
+        has_summary = False
+        for j in range(i + 1, len(children)):
+            if children[j].tag == 'url':
+                break
+            if children[j].tag == 'page_title':
+                title_idx = j
+            if children[j].tag == 'page_summary':
+                has_summary = True
+        if title_idx is not None and not has_summary:
+            to_fetch.append((title_idx, raw_url))
+
+    if not to_fetch:
+        return 0
+
+    # Fetch summaries (forward order, with polite delay)
+    fetched = []
+    for title_idx, raw_url in to_fetch:
+        print(f'      → {raw_url[:75]}')
+        _, summary = fetch_page_info(raw_url) if raw_url else ('', 'Not Available')
+        print(f'         {summary[:75]}')
+        fetched.append((title_idx, summary))
+        time.sleep(0.4)
+
+    # Insert <page_summary> after each <page_title> — reverse order preserves indices
+    for title_idx, summary in reversed(fetched):
+        summary_el = ET.Element('page_summary')
+        summary_el.text = summary
+        urls_el.insert(title_idx + 1, summary_el)
+
     ET.indent(root, space='    ')
     ET.ElementTree(root).write(filepath, encoding='utf-8', xml_declaration=True)
     return len(fetched)
@@ -200,7 +275,7 @@ def main():
     else:
         print('No files to rename.')
 
-    duplicates   = [(n, r) for n, r in skipped if r.startswith('DUPLICATE')]
+    duplicates    = [(n, r) for n, r in skipped if r.startswith('DUPLICATE')]
     other_skipped = [(n, r) for n, r in skipped if not r.startswith('DUPLICATE')]
 
     if duplicates:
@@ -213,30 +288,43 @@ def main():
         for name, reason in other_skipped:
             print(f'  {name}  ({reason})')
 
-    # ── Step 2: Enrich all XML files with page titles ────────────────────────
+    # ── Step 2: Enrich all XML files with page titles and summaries ───────────
     xml_files = sorted([
         f for f in os.listdir(directory)
         if ALREADY_NAMED.match(f) and os.path.isfile(os.path.join(directory, f))
     ])
 
-    needs_enrichment = []
+    needs_titles    = []
+    needs_summaries = []
     for filename in xml_files:
         root = extract_xml_root(os.path.join(directory, filename))
         if root is None:
             continue
         urls_el = root.find('urls')
-        if urls_el is not None and urls_el.find('page_title') is None:
-            needs_enrichment.append(filename)
+        if urls_el is None:
+            continue
+        if urls_el.find('page_title') is None:
+            needs_titles.append(filename)
+        elif urls_el.find('page_summary') is None:
+            needs_summaries.append(filename)
 
-    if not needs_enrichment:
-        print('\nAll files already have page titles.')
+    if not needs_titles and not needs_summaries:
+        print('\nAll files already have page titles and summaries.')
         return
 
-    print(f'\nFetching page titles for {len(needs_enrichment)} file(s)...')
-    for filename in needs_enrichment:
-        print(f'  {filename}')
-        count = enrich_xml_file(os.path.join(directory, filename))
-        print(f'    {count} title(s) added.')
+    if needs_titles:
+        print(f'\nFetching page titles and summaries for {len(needs_titles)} file(s)...')
+        for filename in needs_titles:
+            print(f'  {filename}')
+            count = enrich_xml_file(os.path.join(directory, filename))
+            print(f'    {count} URL(s) enriched.')
+
+    if needs_summaries:
+        print(f'\nBackfilling summaries for {len(needs_summaries)} file(s)...')
+        for filename in needs_summaries:
+            print(f'  {filename}')
+            count = enrich_summaries_file(os.path.join(directory, filename))
+            print(f'    {count} summary/summaries added.')
 
 
 if __name__ == '__main__':

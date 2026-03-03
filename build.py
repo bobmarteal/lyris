@@ -103,17 +103,20 @@ def parse_xml_file(filepath, filename):
         opens_els = urls_el.findall('opens')
         uniqueopens_els = urls_el.findall('uniqueopens')
         url_els = urls_el.findall('url')
-        page_title_els = urls_el.findall('page_title')
+        page_title_els   = urls_el.findall('page_title')
+        page_summary_els = urls_el.findall('page_summary')
         for i, url_el in enumerate(url_els):
             raw_url = url_el.text.strip() if url_el.text else ''
             clicks = int(opens_els[i].text) if i < len(opens_els) and opens_els[i].text else 0
             unique = int(uniqueopens_els[i].text) if i < len(uniqueopens_els) and uniqueopens_els[i].text else 0
-            page_title = page_title_els[i].text.strip() if i < len(page_title_els) and page_title_els[i].text else None
+            page_title   = page_title_els[i].text.strip()   if i < len(page_title_els)   and page_title_els[i].text   else None
+            page_summary = page_summary_els[i].text.strip() if i < len(page_summary_els) and page_summary_els[i].text else None
             if raw_url:
                 urls.append({
                     'url': raw_url,
                     'display': clean_url_for_display(raw_url),
                     'page_title': page_title,
+                    'page_summary': page_summary,
                     'total_clicks': clicks,
                     'unique_clicks': unique,
                 })
