@@ -70,11 +70,28 @@
     .filter-group select:focus { outline: 2px solid #b31b1b; border-color: transparent; }
 
     /* pill checkboxes */
-    .pill-checks { display: flex; gap: 0.4rem; flex-wrap: wrap; }
-    .pill-check { cursor: pointer; user-select: none; }
-    .pill-check input[type="checkbox"] { display: none; }
-    .pill-check .badge { opacity: 0.28; transition: opacity 0.15s; }
+    .pill-checks { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+    .pill-check { cursor: pointer; user-select: none; display: flex; align-items: center; gap: 0.35rem; }
+    .pill-check input[type="checkbox"] { width: 1rem; height: 1rem; margin: 0; flex-shrink: 0; cursor: pointer; accent-color: #555; }
+    .pill-check .badge { opacity: 0.35; transition: opacity 0.15s; }
     .pill-check input:checked + .badge { opacity: 1; }
+
+    .no-urls { font-size: 0.9rem; color: #aaa; font-style: italic; padding: 0.5rem 0; }
+
+    .reset-btn {
+      font-size: 0.78rem;
+      font-weight: 600;
+      color: #999;
+      background: none;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      padding: 0.3rem 0.7rem;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+    .reset-btn:hover { border-color: #aaa; color: #555; }
+    .reset-btn.active { border-color: #b31b1b; color: #b31b1b; background: #fff5f5; }
+    .reset-btn.active:hover { background: #ffe8e8; }
 
     .result-count { margin-left: auto; font-size: 0.85rem; color: #888; white-space: nowrap; }
 
@@ -115,9 +132,10 @@
       color: white;
       flex-shrink: 0;
     }
-    .badge-faculty  { background: #2563eb; }
-    .badge-staff    { background: #16a34a; }
-    .badge-students { background: #ea580c; }
+    .badge-faculty         { background: #2563eb; }
+    .badge-staff           { background: #16a34a; }
+    .badge-students        { background: #ea580c; }
+    .badge-graduatestudents { background: #7c3aed; }
 
     .card-date { font-size: 0.78rem; color: #999; }
     .card-subject {
@@ -253,6 +271,7 @@
         <label class="pill-check"><input type="checkbox" name="filter-semester" value="Fall" checked><span class="badge" style="background:#0891b2">Fall</span></label>
       </div>
     </div>
+    <button class="reset-btn" id="reset-btn" onclick="resetFilters()">Reset</button>
     <div class="result-count" id="result-count"></div>
   </div>
   <div class="cards" id="cards"></div>
@@ -351,7 +370,10 @@
           </thead>
           <tbody>${urlRows}</tbody>
         </table>
-      </div>` : '';
+      </div>` : `
+      <div class="detail-urls">
+        <p class="no-urls">No URLs recorded for this campaign.</p>
+      </div>`;
 
     return `
       <div class="detail-card">
@@ -436,6 +458,24 @@
       filtered.length === total
         ? `${total} mailing${total !== 1 ? 's' : ''}`
         : `Showing ${filtered.length} of ${total}`;
+    updateResetBtn();
+  }
+
+  function isFiltersDirty() {
+    const anyTypeUnchecked = [...document.querySelectorAll('input[name="filter-type"]')].some(el => !el.checked);
+    const anySemUnchecked  = [...document.querySelectorAll('input[name="filter-semester"]')].some(el => !el.checked);
+    const yearSet = document.getElementById('filter-year').value !== '';
+    return anyTypeUnchecked || anySemUnchecked || yearSet;
+  }
+
+  function updateResetBtn() {
+    document.getElementById('reset-btn').classList.toggle('active', isFiltersDirty());
+  }
+
+  function resetFilters() {
+    document.querySelectorAll('input[name="filter-type"], input[name="filter-semester"]').forEach(el => el.checked = true);
+    document.getElementById('filter-year').value = '';
+    applyFilters();
   }
 
   function populateYears() {

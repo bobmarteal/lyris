@@ -18,7 +18,7 @@ import xml.etree.ElementTree as ET
 import urllib.request
 from html.parser import HTMLParser
 
-ALREADY_NAMED = re.compile(r'^(faculty|staff|students)-\d{4}-\d{2}-\d{2}\.xml$')
+ALREADY_NAMED = re.compile(r'^([a-z]+)-\d{4}-\d{2}-\d{2}\.xml$')
 
 
 # ---------------------------------------------------------------------------
@@ -185,7 +185,7 @@ def main():
         dest = os.path.join(directory, new_name)
 
         if os.path.exists(dest):
-            skipped.append((filename, f'{new_name} already exists'))
+            skipped.append((filename, f'DUPLICATE — {new_name} already exists, file left unchanged'))
             continue
 
         shutil.copy2(filepath, os.path.join(temp_dir, filename))
@@ -200,9 +200,17 @@ def main():
     else:
         print('No files to rename.')
 
-    if skipped:
-        print(f'\nSkipped {len(skipped)} file(s):')
-        for name, reason in skipped:
+    duplicates   = [(n, r) for n, r in skipped if r.startswith('DUPLICATE')]
+    other_skipped = [(n, r) for n, r in skipped if not r.startswith('DUPLICATE')]
+
+    if duplicates:
+        print(f'\n*** DUPLICATE file(s) — already in the directory, nothing changed:')
+        for name, reason in duplicates:
+            print(f'  {name}  ({reason})')
+
+    if other_skipped:
+        print(f'\nSkipped {len(other_skipped)} file(s):')
+        for name, reason in other_skipped:
             print(f'  {name}  ({reason})')
 
     # ── Step 2: Enrich all XML files with page titles ────────────────────────

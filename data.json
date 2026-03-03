@@ -1,5 +1,181 @@
 [
   {
+    "filename": "graduatestudents-2026-03-02.xml",
+    "type": "graduatestudents",
+    "date": "2026-03-02",
+    "year": 2026,
+    "semester": "Spring",
+    "subject": "Subject line: This week in A&S: Don't miss convos with journalists, composers this week",
+    "mailed": 1449,
+    "unique_opens": 945,
+    "opens": 1440,
+    "open_rate": 65.2,
+    "unique_clicks": 26,
+    "total_clicks": 52,
+    "click_rate": 1.8,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://events.cornell.edu/event/culler-lecture-technofascism-by-zahid-chaudhary",
+        "display": "events.cornell.edu/event/culler-lecture-technofascism-by-zahid-chaudhary",
+        "page_title": "Culler Lecture in Critical Theory: \"Technofascism\" by Zahid R. Chaudhary - Cornell",
+        "total_clicks": 9,
+        "unique_clicks": 8
+      },
+      {
+        "url": "https://as.cornell.edu/news/historical-marker-commemorates-toni-morrisons-time-ithaca?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-2-26",
+        "display": "as.cornell.edu/news/historical-marker-commemorates-toni-morrisons-time-ithaca",
+        "page_title": "Historical marker commemorates Toni Morrison’s time in Ithaca",
+        "total_clicks": 6,
+        "unique_clicks": 5
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2026/02/global-hubs-researchers-probe-war-how-keep-peace",
+        "display": "news.cornell.edu/stories/2026/02/global-hubs-researchers-probe-war-how-keep-peace",
+        "page_title": "Global Hubs researchers probe war, how to keep peace | Cornell Chronicle",
+        "total_clicks": 5,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://events.cornell.edu/event/lafeber-silbey-lecture-by-philippe-sands",
+        "display": "events.cornell.edu/event/lafeber-silbey-lecture-by-philippe-sands",
+        "page_title": "LaFeber-Silbey Lecture - Philippe Sands - Cornell",
+        "total_clicks": 5,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://events.cornell.edu/event/2026-krieger-lecture-in-american-political-culture-with-cathy-cohen",
+        "display": "events.cornell.edu/event/2026-krieger-lecture-in-american-political-culture-with-cathy-cohen",
+        "page_title": "2026 Krieger Lecture in American Political Culture with Cathy Cohen - Cornell",
+        "total_clicks": 4,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2026/02/literary-critic-biodun-jeyifo-dies-80",
+        "display": "news.cornell.edu/stories/2026/02/literary-critic-biodun-jeyifo-dies-80",
+        "page_title": "Literary critic Biodun Jeyifo dies at 80 | Cornell Chronicle",
+        "total_clicks": 4,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2026/02/proteins-organize-extracellular-electron-transfer",
+        "display": "news.cornell.edu/stories/2026/02/proteins-organize-extracellular-electron-transfer",
+        "page_title": "Proteins organize for extracellular electron transfer | Cornell Chronicle",
+        "total_clicks": 3,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://givingday.cornell.edu/organizations/college-of-arts-and-sciences",
+        "display": "givingday.cornell.edu/organizations/college-of-arts-and-sciences",
+        "page_title": "Give to College of Arts & Sciences | Cornell Giving Day",
+        "total_clicks": 3,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://as.cornell.edu/news/daniel-gold-professor-asian-studies-emeritus-dies-78?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-2-26",
+        "display": "as.cornell.edu/news/daniel-gold-professor-asian-studies-emeritus-dies-78",
+        "page_title": "Daniel Gold, professor of Asian studies emeritus, dies at 78",
+        "total_clicks": 3,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://events.cornell.edu/event/on-democracy-conservatism-and-journalism-a-conversation-with-bret-stephens",
+        "display": "events.cornell.edu/event/on-democracy-conservatism-and-journalism-a-conversation-with-bret-stephens",
+        "page_title": "On Democracy, Conservatism and Journalism: A Conversation with Bret Stephens - Cornell",
+        "total_clicks": 3,
+        "unique_clicks": 2
+      }
+    ]
+  },
+  {
+    "filename": "graduatestudents-2026-02-23.xml",
+    "type": "graduatestudents",
+    "date": "2026-02-23",
+    "year": 2026,
+    "semester": "Spring",
+    "subject": "This week in A&S: Visiting journalists, composers and high-schoolers",
+    "mailed": 1449,
+    "unique_opens": 1059,
+    "opens": 1752,
+    "open_rate": 73.1,
+    "unique_clicks": 33,
+    "total_clicks": 57,
+    "click_rate": 2.3,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/news/john-life-and-times-maverick-gospel?&utm_campaign=newsletter&utm_source=weekly-newsletter-2-23-26",
+        "display": "as.cornell.edu/news/john-life-and-times-maverick-gospel",
+        "page_title": "John: The life and times of the ‘maverick’ Gospel",
+        "total_clicks": 15,
+        "unique_clicks": 11
+      },
+      {
+        "url": "https://events.cornell.edu/event/department-of-physics-colloquium-professor-paul-ginsparg-cornell-university",
+        "display": "events.cornell.edu/event/department-of-physics-colloquium-professor-paul-ginsparg-cornell-university",
+        "page_title": "Department of Physics Colloquium, Professor Paul Ginsparg, Cornell University - Cornell",
+        "total_clicks": 12,
+        "unique_clicks": 10
+      },
+      {
+        "url": "https://as.cornell.edu/news/lafeber-silbey-lecture-considers-world-without-law?&utm_campaign=newsletter&utm_source=weekly-newsletter-2-23-26",
+        "display": "as.cornell.edu/news/lafeber-silbey-lecture-considers-world-without-law",
+        "page_title": "LaFeber-Silbey Lecture considers “A World Without Law?”",
+        "total_clicks": 6,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/news/how-wwii-changed-ideas-racial-purity-japan?&utm_campaign=newsletter&utm_source=weekly-newsletter-2-23-26",
+        "display": "as.cornell.edu/news/how-wwii-changed-ideas-racial-purity-japan",
+        "page_title": "How WWII changed ideas of racial purity in Japan",
+        "total_clicks": 5,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://events.cornell.edu/event/the-eleanor-j-and-james-j-gibson-lecture-in-experimental-psychology",
+        "display": "events.cornell.edu/event/the-eleanor-j-and-james-j-gibson-lecture-in-experimental-psychology",
+        "page_title": "The Eleanor J. and James J. Gibson Lecture in Experimental Psychology - Cornell",
+        "total_clicks": 5,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://events.cornell.edu/event/aasp-wednesday-lunch-series-with-wei-gao",
+        "display": "events.cornell.edu/event/aasp-wednesday-lunch-series-with-wei-gao",
+        "page_title": "AASP Wednesday Lunch Series with Wei Gao - Cornell",
+        "total_clicks": 4,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2026/02/five-cornell-named-2026-sloan-research-fellows",
+        "display": "news.cornell.edu/stories/2026/02/five-cornell-named-2026-sloan-research-fellows",
+        "page_title": "Five from Cornell named 2026 Sloan Research Fellows | Cornell Chronicle",
+        "total_clicks": 3,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://as.cornell.edu/news/new-summer-course-spark-civic-engagement-high-schoolers?&utm_campaign=newsletter&utm_source=weekly-newsletter-2-23-26",
+        "display": "as.cornell.edu/news/new-summer-course-spark-civic-engagement-high-schoolers",
+        "page_title": "New summer course to spark civic engagement in high schoolers",
+        "total_clicks": 2,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://as.cornell.edu/public-engagement/arts-unplugged?&utm_campaign=newsletter&utm_source=weekly-newsletter-2-23-26",
+        "display": "as.cornell.edu/public-engagement/arts-unplugged",
+        "page_title": "Arts Unplugged",
+        "total_clicks": 2,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://as.cornell.edu/news/awards-and-honors?&utm_campaign=newsletter&utm_source=weekly-newsletter-2-23-26",
+        "display": "as.cornell.edu/news/awards-and-honors",
+        "page_title": "Awards and Honors",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      }
+    ]
+  },
+  {
     "filename": "faculty-2026-02-18.xml",
     "type": "faculty",
     "date": "2026-02-18",
@@ -880,6 +1056,80 @@
     ]
   },
   {
+    "filename": "faculty-2025-11-24.xml",
+    "type": "faculty",
+    "date": "2025-11-24",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Atomic dancing, student films and best wishes for break",
+    "mailed": 716,
+    "unique_opens": 443,
+    "opens": 822,
+    "open_rate": 61.9,
+    "unique_clicks": 25,
+    "total_clicks": 50,
+    "click_rate": 3.5,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://news.cornell.edu/stories/2025/11/universities-role-society-goes-beyond-education-research",
+        "display": "news.cornell.edu/stories/2025/11/universities-role-society-goes-beyond-education-research",
+        "page_title": "Universities’ role in society goes beyond education, research | Cornell Chronicle",
+        "total_clicks": 14,
+        "unique_clicks": 10
+      },
+      {
+        "url": "https://as.cornell.edu/news/portraits-honor-8-cornell-faculty-new-heroes?&utm_campaign=newsletter&utm_source=weekly-newsletter-112425",
+        "display": "as.cornell.edu/news/portraits-honor-8-cornell-faculty-new-heroes",
+        "page_title": "Portraits honor 8 Cornell faculty as ‘new heroes’",
+        "total_clicks": 11,
+        "unique_clicks": 6
+      },
+      {
+        "url": "https://government.cornell.edu/allen-r-carlson",
+        "display": "government.cornell.edu/allen-r-carlson",
+        "page_title": "Allen R. Carlson | Department of Government",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/11/light-causes-atomic-layers-do-twist",
+        "display": "news.cornell.edu/stories/2025/11/light-causes-atomic-layers-do-twist",
+        "page_title": "Light causes atomic layers to do the twist | Cornell Chronicle",
+        "total_clicks": 5,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://youtu.be/PWBMEwtSB6o?si=2R-eu1p-EBeu1d9D",
+        "display": "youtu.be/PWBMEwtSB6o?si=2R-eu1p-EBeu1d9D",
+        "page_title": "Not Available",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://www.reuters.com/world/asia-pacific/china-suspends-japanese-film-releases-diplomatic-crisis-deepens-2025-11-18/",
+        "display": "www.reuters.com/world/asia-pacific/china-suspends-japanese-film-releases-diplomatic-crisis-deepens-2025-11-18",
+        "page_title": "Not Available",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://as.cornell.edu/news/career-development-targets-resources-students-tech-fields?&utm_campaign=newsletter&utm_source=weekly-newsletter-112425",
+        "display": "as.cornell.edu/news/career-development-targets-resources-students-tech-fields",
+        "page_title": "Career Development targets resources for students in tech fields",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      },
+      {
+        "url": "https://as.cornell.edu?&utm_campaign=newsletter&utm_source=weekly-newsletter-112425",
+        "display": "as.cornell.edu",
+        "page_title": "The College of Arts & Sciences, Cornell University",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      }
+    ]
+  },
+  {
     "filename": "students-2025-11-24.xml",
     "type": "students",
     "date": "2025-11-24",
@@ -1311,5 +1561,39 @@
         "unique_clicks": 4
       }
     ]
+  },
+  {
+    "filename": "faculty-2025-03-24.xml",
+    "type": "faculty",
+    "date": "2025-03-24",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "Face pots and baby photos of the universe",
+    "mailed": 883,
+    "unique_opens": 602,
+    "opens": 1099,
+    "open_rate": 68.2,
+    "unique_clicks": 60,
+    "total_clicks": 161,
+    "click_rate": 6.8,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
+    "filename": "faculty-2025-03-17.xml",
+    "type": "faculty",
+    "date": "2025-03-17",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "A green energy story for St. Patty's Day",
+    "mailed": 883,
+    "unique_opens": 548,
+    "opens": 953,
+    "open_rate": 62.1,
+    "unique_clicks": 44,
+    "total_clicks": 94,
+    "click_rate": 5.0,
+    "unsubs": 0,
+    "urls": []
   }
 ]

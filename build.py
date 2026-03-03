@@ -13,7 +13,7 @@ from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
 
 ANALYTICS_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_FILE = os.path.join(ANALYTICS_DIR, "data.json")
-FILENAME_PATTERN = re.compile(r'^(faculty|staff|students)-(\d{4}-\d{2}-\d{2})\.xml$')
+FILENAME_PATTERN = re.compile(r'^([a-z]+)-(\d{4}-\d{2}-\d{2})\.xml$')
 
 
 def clean_url_for_display(raw_url):
