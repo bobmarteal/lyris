@@ -240,11 +240,7 @@
   <div class="filters">
     <div class="filter-group">
       <label>List</label>
-      <div class="pill-checks">
-        <label class="pill-check"><input type="checkbox" name="filter-type" value="faculty" checked><span class="badge badge-faculty">Faculty</span></label>
-        <label class="pill-check"><input type="checkbox" name="filter-type" value="staff" checked><span class="badge badge-staff">Staff</span></label>
-        <label class="pill-check"><input type="checkbox" name="filter-type" value="students" checked><span class="badge badge-students">Students</span></label>
-      </div>
+      <div class="pill-checks" id="pill-checks-type"></div>
     </div>
     <div class="filter-group">
       <label for="filter-year">Year</label>
@@ -452,6 +448,17 @@
     });
   }
 
+  function populateListPills() {
+    const types = [...new Set(allMailings.map(m => m.type))].sort();
+    const container = document.getElementById('pill-checks-type');
+    types.forEach(type => {
+      const label = document.createElement('label');
+      label.className = 'pill-check';
+      label.innerHTML = `<input type="checkbox" name="filter-type" value="${type}" checked><span class="badge badge-${type}">${cap(type)}</span>`;
+      container.appendChild(label);
+    });
+  }
+
   // ── Init ───────────────────────────────────────────────────────────────
 
   async function init() {
@@ -466,6 +473,7 @@
     }
 
     populateYears();
+    populateListPills();
     document.querySelector('.filters').addEventListener('change', applyFilters);
 
     route();
