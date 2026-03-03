@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>A&S Newsletter Analytics</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #f4f5f7;
+      color: #1a1a2e;
+      min-height: 100vh;
+    }
+
+    /* ── Header ─────────────────────────────────────────────────────────── */
+    header {
+      background: #b31b1b;
+      color: white;
+      padding: 1.25rem 2rem;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      line-height: 1.5;
+    }
+    header h1 { font-size: 1.4rem; font-weight: 600; letter-spacing: 0.01em; }
+    header p  {  margin-top: 0.2rem; }
+    .back-btn {
+      display: none;
+      background: rgba(255,255,255,0.2);
+      border: none;
+      color: white;
+      font-size: 0.9rem;
+      padding: 0.4rem 0.9rem;
+      border-radius: 4px;
+      cursor: pointer;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .back-btn:hover { background: rgba(255,255,255,0.3); }
+
+    /* ── Filters ─────────────────────────────────────────────────────────── */
+    .filters {
+      background: white;
+      border-bottom: 1px solid #e0e0e0;
+      padding: 1rem 2rem;
+      display: flex;
+      gap: 1.25rem;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .filter-group { display: flex; align-items: center; gap: 0.5rem; }
+    .filter-group label {
+      font-size: 0.78rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #666;
+    }
+    .filter-group select {
+      font-size: 0.9rem;
+      padding: 0.35rem 0.6rem;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      background: white;
+      cursor: pointer;
+      color: #1a1a2e;
+    }
+    .filter-group select:focus { outline: 2px solid #b31b1b; border-color: transparent; }
+
+    /* pill checkboxes */
+    .pill-checks { display: flex; gap: 0.4rem; flex-wrap: wrap; }
+    .pill-check { cursor: pointer; user-select: none; }
+    .pill-check input[type="checkbox"] { display: none; }
+    .pill-check .badge { opacity: 0.28; transition: opacity 0.15s; }
+    .pill-check input:checked + .badge { opacity: 1; }
+
+    .result-count { margin-left: auto; font-size: 0.85rem; color: #888; white-space: nowrap; }
+
+    /* ── Cards grid ──────────────────────────────────────────────────────── */
+    .cards {
+      padding: 1.5rem 2rem;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
+      gap: 1.25rem;
+    }
+
+    /* ── Card ────────────────────────────────────────────────────────────── */
+    .card {
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+    .card-header {
+      padding: 1rem 1.25rem 0.75rem;
+      border-bottom: 1px solid #f0f0f0;
+    }
+    .card-meta {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      margin-bottom: 0.5rem;
+    }
+    .badge {
+      font-size: 0.68rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+      padding: 0.2rem 0.55rem;
+      border-radius: 99px;
+      color: white;
+      flex-shrink: 0;
+    }
+    .badge-faculty  { background: #2563eb; }
+    .badge-staff    { background: #16a34a; }
+    .badge-students { background: #ea580c; }
+
+    .card-date { font-size: 0.78rem; color: #999; }
+    .card-subject {
+      font-size: 1rem;
+      font-weight: 600;
+      line-height: 1.35;
+      color: #1a1a2e;
+    }
+
+    .card-stats {
+      display: flex;
+      border-bottom: 1px solid #f0f0f0;
+    }
+    .stat {
+      flex: 1;
+      text-align: center;
+      padding: 0.7rem 0.5rem;
+      border-right: 1px solid #f0f0f0;
+    }
+    .stat:last-child { border-right: none; }
+    .stat-value {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: #1a1a2e;
+      line-height: 1;
+    }
+    .stat-label {
+      font-size: 0.68rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #bbb;
+      margin-top: 0.25rem;
+    }
+    .stat-value.hl { color: #b31b1b; }
+
+    .card-footer {
+      padding: 0.65rem 1.25rem;
+      display: flex;
+      justify-content: flex-end;
+    }
+    .details-link {
+      font-size: 0.82rem;
+      font-weight: 600;
+      color: #b31b1b;
+      text-decoration: none;
+    }
+    .details-link:hover { text-decoration: underline; }
+
+    /* ── Detail view ─────────────────────────────────────────────────────── */
+    #detail-view { display: none; padding: 1.5rem 2rem; }
+
+    .detail-card {
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+      overflow: hidden;
+      max-width: 860px;
+    }
+    .detail-card .card-header { border-bottom: 1px solid #f0f0f0; }
+    .detail-card .card-subject { font-size: 1.2rem; }
+
+    .detail-urls { padding: 1rem 1.25rem; }
+    .detail-urls-heading {
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+      color: #bbb;
+      margin-bottom: 0.6rem;
+    }
+    .url-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 1rem;
+    }
+    .url-table th {
+      text-align: left;
+      /* font-size: 0.68rem; */
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #ccc;
+      padding: 0.25rem 0.5rem 0.5rem;
+    }
+    .url-table th.num { text-align: right; }
+    .url-table td {
+      padding: 0.4rem 0.5rem;
+      border-top: 1px solid #f5f5f5;
+      vertical-align: middle;
+      line-height: 1.6;
+    }
+    .url-table td.rank { color: #ccc; font-size: 0.75rem; width: 1.5rem; text-align: right; }
+    .url-table td.num { text-align: right; color: #999; font-variant-numeric: tabular-nums; white-space: nowrap; }
+    .url-table td.clicks { text-align: right; font-weight: 600; color: #444; font-variant-numeric: tabular-nums; white-space: nowrap; }
+    .url-table a { color: #2563eb; text-decoration: none; }
+    .url-table a:hover { text-decoration: underline; }
+    .url-display { font-size: 0.8rem; color: #aaa; margin-top: 0.1rem; word-break: break-all; }
+
+    /* ── Misc ────────────────────────────────────────────────────────────── */
+    .empty {
+      grid-column: 1 / -1;
+      text-align: center;
+      padding: 4rem;
+      color: #bbb;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <button class="back-btn" id="back-btn" onclick="goBack()">← All Mailings</button>
+  <div>
+    <h1>A&S Newsletter Analytics</h1>
+    <p>College of Arts &amp; Sciences — Lyris Mailing Reports</p>
+  </div>
+</header>
+
+<!-- List view -->
+<div id="list-view">
+  <div class="filters">
+    <div class="filter-group">
+      <label>List</label>
+      <div class="pill-checks">
+        <label class="pill-check"><input type="checkbox" name="filter-type" value="faculty" checked><span class="badge badge-faculty">Faculty</span></label>
+        <label class="pill-check"><input type="checkbox" name="filter-type" value="staff" checked><span class="badge badge-staff">Staff</span></label>
+        <label class="pill-check"><input type="checkbox" name="filter-type" value="students" checked><span class="badge badge-students">Students</span></label>
+      </div>
+    </div>
+    <div class="filter-group">
+      <label for="filter-year">Year</label>
+      <select id="filter-year"><option value="">All</option></select>
+    </div>
+    <div class="filter-group">
+      <label>Semester</label>
+      <div class="pill-checks">
+        <label class="pill-check"><input type="checkbox" name="filter-semester" value="Spring" checked><span class="badge" style="background:#6d28d9">Spring</span></label>
+        <label class="pill-check"><input type="checkbox" name="filter-semester" value="Fall" checked><span class="badge" style="background:#0891b2">Fall</span></label>
+      </div>
+    </div>
+    <div class="result-count" id="result-count"></div>
+  </div>
+  <div class="cards" id="cards"></div>
+</div>
+
+<!-- Detail view -->
+<div id="detail-view">
+  <div id="detail-content"></div>
+</div>
+
+<script>
+  let allMailings = [];
+
+  // ── Utilities ──────────────────────────────────────────────────────────
+
+  function esc(str) {
+    return String(str ?? '')
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+
+  function formatDate(dateStr) {
+    const [y, m, d] = dateStr.split('-');
+    const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    return `${months[+m - 1]} ${+d}, ${y}`;
+  }
+
+  function cap(s) { return s.charAt(0).toUpperCase() + s.slice(1); }
+
+  function mailingId(m) { return m.filename.replace('.xml', ''); }
+
+  // ── Card (list view) ───────────────────────────────────────────────────
+
+  function renderCard(m) {
+    const id = mailingId(m);
+    return `
+      <div class="card">
+        <div class="card-header">
+          <div class="card-meta">
+            <span class="badge badge-${m.type}">${cap(m.type)}</span>
+            <span class="card-date">${formatDate(m.date)} &mdash; ${m.semester} ${m.year}</span>
+          </div>
+          <h2 class="card-subject">${esc(m.subject)}</h2>
+        </div>
+        <div class="card-stats">
+          <div class="stat">
+            <div class="stat-value">${m.mailed.toLocaleString()}</div>
+            <div class="stat-label">Sent</div>
+          </div>
+          <div class="stat">
+            <div class="stat-value hl">${m.open_rate}%</div>
+            <div class="stat-label">Open Rate</div>
+          </div>
+          <div class="stat">
+            <div class="stat-value hl">${m.click_rate}%</div>
+            <div class="stat-label">Click Rate</div>
+          </div>
+          <div class="stat">
+            <div class="stat-value">${m.unsubs}</div>
+            <div class="stat-label">Unsubs</div>
+          </div>
+        </div>
+        <div class="card-footer">
+          <a class="details-link" href="#${id}">View Details &rarr;</a>
+        </div>
+      </div>`;
+  }
+
+  // ── Detail view ────────────────────────────────────────────────────────
+
+  function renderDetail(m) {
+    const urlRows = m.urls.map((u, i) => {
+      const hasTitle = u.page_title && u.page_title !== 'Not Available';
+      const linkLabel = hasTitle ? esc(u.page_title) : esc(u.display);
+      const subLabel  = hasTitle ? `<div class="url-display">${esc(u.display)}</div>` : '';
+      return `
+        <tr>
+          <td class="rank">${i + 1}</td>
+          <td><a href="${esc(u.url)}" target="_blank" rel="noopener">${linkLabel}</a>${subLabel}</td>
+          <td class="clicks">${u.total_clicks}</td>
+          <td class="num">${u.unique_clicks}</td>
+        </tr>`;
+    }).join('');
+
+    const urlSection = m.urls.length ? `
+      <div class="detail-urls">
+        <div class="detail-urls-heading">Clicked Links</div>
+        <table class="url-table">
+          <thead>
+            <tr>
+              <th></th>
+              <th>Page</th>
+              <th class="num">Clicks</th>
+              <th class="num">Unique</th>
+            </tr>
+          </thead>
+          <tbody>${urlRows}</tbody>
+        </table>
+      </div>` : '';
+
+    return `
+      <div class="detail-card">
+        <div class="card-header">
+          <div class="card-meta">
+            <span class="badge badge-${m.type}">${cap(m.type)}</span>
+            <span class="card-date">${formatDate(m.date)} &mdash; ${m.semester} ${m.year}</span>
+          </div>
+          <h2 class="card-subject">${esc(m.subject)}</h2>
+        </div>
+        <div class="card-stats">
+          <div class="stat">
+            <div class="stat-value">${m.mailed.toLocaleString()}</div>
+            <div class="stat-label">Sent</div>
+          </div>
+          <div class="stat">
+            <div class="stat-value hl">${m.open_rate}%</div>
+            <div class="stat-label">Open Rate</div>
+          </div>
+          <div class="stat">
+            <div class="stat-value hl">${m.click_rate}%</div>
+            <div class="stat-label">Click Rate</div>
+          </div>
+          <div class="stat">
+            <div class="stat-value">${m.unsubs}</div>
+            <div class="stat-label">Unsubs</div>
+          </div>
+        </div>
+        ${urlSection}
+      </div>`;
+  }
+
+  // ── Routing ────────────────────────────────────────────────────────────
+
+  function showList() {
+    document.getElementById('list-view').style.display = '';
+    document.getElementById('detail-view').style.display = 'none';
+    document.getElementById('back-btn').style.display = 'none';
+    applyFilters();
+  }
+
+  function showDetail(id) {
+    const m = allMailings.find(x => mailingId(x) === id);
+    if (!m) { showList(); return; }
+    document.getElementById('list-view').style.display = 'none';
+    document.getElementById('detail-view').style.display = 'block';
+    document.getElementById('back-btn').style.display = 'block';
+    document.getElementById('detail-content').innerHTML = renderDetail(m);
+  }
+
+  function goBack() {
+    history.back();
+  }
+
+  window.addEventListener('hashchange', route);
+
+  function route() {
+    const id = window.location.hash.slice(1);
+    id ? showDetail(id) : showList();
+  }
+
+  // ── Filters ────────────────────────────────────────────────────────────
+
+  function applyFilters() {
+    const types     = [...document.querySelectorAll('input[name="filter-type"]:checked')].map(el => el.value);
+    const semesters = [...document.querySelectorAll('input[name="filter-semester"]:checked')].map(el => el.value);
+    const year      = document.getElementById('filter-year').value;
+
+    const filtered = allMailings.filter(m =>
+      (!types.length     || types.includes(m.type)) &&
+      (!year             || String(m.year) === year) &&
+      (!semesters.length || semesters.includes(m.semester))
+    );
+
+    const container = document.getElementById('cards');
+    container.innerHTML = filtered.length
+      ? filtered.map(renderCard).join('')
+      : '<div class="empty">No mailings match the selected filters.</div>';
+
+    const total = allMailings.length;
+    document.getElementById('result-count').textContent =
+      filtered.length === total
+        ? `${total} mailing${total !== 1 ? 's' : ''}`
+        : `Showing ${filtered.length} of ${total}`;
+  }
+
+  function populateYears() {
+    const years = [...new Set(allMailings.map(m => m.year))].sort((a, b) => b - a);
+    const sel = document.getElementById('filter-year');
+    years.forEach(y => {
+      const opt = document.createElement('option');
+      opt.value = y; opt.textContent = y;
+      sel.appendChild(opt);
+    });
+  }
+
+  // ── Init ───────────────────────────────────────────────────────────────
+
+  async function init() {
+    try {
+      const res = await fetch('data.json');
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      allMailings = await res.json();
+    } catch {
+      document.getElementById('cards').innerHTML =
+        '<div class="empty">Could not load data.json — run <code>python build.py</code> first.</div>';
+      return;
+    }
+
+    populateYears();
+    document.querySelector('.filters').addEventListener('change', applyFilters);
+
+    route();
+  }
+
+  init();
+</script>
+</body>
+</html>
