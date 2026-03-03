@@ -98,6 +98,104 @@
     ]
   },
   {
+    "filename": "faculty-2026-02-23.xml",
+    "type": "faculty",
+    "date": "2026-02-23",
+    "year": 2026,
+    "semester": "Spring",
+    "subject": "This week in A&S: Visiting journalists, composers and high-schoolers",
+    "mailed": 716,
+    "unique_opens": 460,
+    "opens": 890,
+    "open_rate": 64.2,
+    "unique_clicks": 59,
+    "total_clicks": 164,
+    "click_rate": 8.2,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/news/new-summer-course-spark-civic-engagement-high-schoolers?&utm_campaign=newsletter&utm_source=weekly-newsletter-2-23-26",
+        "display": "as.cornell.edu/news/new-summer-course-spark-civic-engagement-high-schoolers",
+        "page_title": "New summer course to spark civic engagement in high schoolers",
+        "page_summary": "A Teagle Foundation grant will help fund the course and open pathways to higher education.",
+        "total_clicks": 28,
+        "unique_clicks": 14
+      },
+      {
+        "url": "https://as.cornell.edu/news/john-life-and-times-maverick-gospel?&utm_campaign=newsletter&utm_source=weekly-newsletter-2-23-26",
+        "display": "as.cornell.edu/news/john-life-and-times-maverick-gospel",
+        "page_title": "John: The life and times of the ‘maverick’ Gospel",
+        "page_summary": "The fourth Gospel of the New Testament holds many of the Bible’s most well-known passages, but also some of its controversies.",
+        "total_clicks": 27,
+        "unique_clicks": 15
+      },
+      {
+        "url": "https://events.cornell.edu/event/department-of-physics-colloquium-professor-paul-ginsparg-cornell-university",
+        "display": "events.cornell.edu/event/department-of-physics-colloquium-professor-paul-ginsparg-cornell-university",
+        "page_title": "Department of Physics Colloquium, Professor Paul Ginsparg, Cornell University - Cornell",
+        "page_summary": "General Physics Colloquium, Professor Paul Ginsparg, Cornell University\n\nTitle:  The Rise of Slop\n\nHost:  Jennet Dickinson\n\nAbstract:  The rapid proliferation of AI-generated text, figures, code, and reviews is reshaping the ecology of research co...",
+        "total_clicks": 22,
+        "unique_clicks": 10
+      },
+      {
+        "url": "https://as.cornell.edu/news/lafeber-silbey-lecture-considers-world-without-law?&utm_campaign=newsletter&utm_source=weekly-newsletter-2-23-26",
+        "display": "as.cornell.edu/news/lafeber-silbey-lecture-considers-world-without-law",
+        "page_title": "LaFeber-Silbey Lecture considers “A World Without Law?”",
+        "page_summary": "Scholar of law Philippe Sands will give the LaFeber-Silbey Lecture in History on March 5, considering \"Lessons from History and Literature, from Nuremberg to Pinochet and Beyond.”",
+        "total_clicks": 17,
+        "unique_clicks": 9
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2026/02/five-cornell-named-2026-sloan-research-fellows",
+        "display": "news.cornell.edu/stories/2026/02/five-cornell-named-2026-sloan-research-fellows",
+        "page_title": "Five from Cornell named 2026 Sloan Research Fellows | Cornell Chronicle",
+        "page_summary": "Five Cornell faculty members are among 126 early-career researchers across North America who have won 2026 Sloan Research Fellowships from the Alfred P. Sloan Foundation.",
+        "total_clicks": 15,
+        "unique_clicks": 9
+      },
+      {
+        "url": "https://as.cornell.edu/news/awards-and-honors?&utm_campaign=newsletter&utm_source=weekly-newsletter-2-23-26",
+        "display": "as.cornell.edu/news/awards-and-honors",
+        "page_title": "Awards and Honors",
+        "page_summary": "Awards and honors received by faculty, postdocs and graduate students in the College of Arts & Sciences.",
+        "total_clicks": 12,
+        "unique_clicks": 6
+      },
+      {
+        "url": "https://as.cornell.edu/news/how-wwii-changed-ideas-racial-purity-japan?&utm_campaign=newsletter&utm_source=weekly-newsletter-2-23-26",
+        "display": "as.cornell.edu/news/how-wwii-changed-ideas-racial-purity-japan",
+        "page_title": "How WWII changed ideas of racial purity in Japan",
+        "page_summary": "The new book explores what happened to “mixed blood” children born to Japanese women and foreign soldiers.",
+        "total_clicks": 10,
+        "unique_clicks": 5
+      },
+      {
+        "url": "https://events.cornell.edu/event/dallas-morse-coors-concert-series-presents-tigran-hamasyan",
+        "display": "events.cornell.edu/event/dallas-morse-coors-concert-series-presents-tigran-hamasyan",
+        "page_title": "Dallas Morse Coors Concert Series presents Tigran Hamasyan: Manifeste - Cornell",
+        "page_summary": "Tigran Hamasyan is considered one of the most remarkable and distinctive jazz-meets-rock pianists/composers of his generation. A piano virtuoso with groove power, Hamasyan seamlessly fuses potent jazz improvisation and progressive rock with the ri...",
+        "total_clicks": 7,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://events.cornell.edu/event/chats-with-the-chair-648",
+        "display": "events.cornell.edu/event/chats-with-the-chair-648",
+        "page_title": "CANCELLED: Chats with the Chair - Cornell",
+        "page_summary": "The Chats with the Chair session scheduled for 1pm tomorrow, 2/27, HAS BEEN CANCELLED. The next session will be held on Friday, 4/10, at noon, in Room 220.\n\n\"Chats with the Chair\" invites PMA majors, minors, and those interested in the department ...",
+        "total_clicks": 7,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/public-engagement/arts-unplugged?&utm_campaign=newsletter&utm_source=weekly-newsletter-2-23-26",
+        "display": "as.cornell.edu/public-engagement/arts-unplugged",
+        "page_title": "Arts Unplugged",
+        "page_summary": "The College of Arts & Sciences’ Arts Unplugged series brings research and creative works into the public sphere for discussion and inspiration. These engaging events invite a broad audience to explore the work of scholars, faculty and creative lum...",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      }
+    ]
+  },
+  {
     "filename": "graduatestudents-2026-02-23.xml",
     "type": "graduatestudents",
     "date": "2026-02-23",
@@ -196,6 +294,104 @@
     ]
   },
   {
+    "filename": "staff-2026-02-23.xml",
+    "type": "staff",
+    "date": "2026-02-23",
+    "year": 2026,
+    "semester": "Spring",
+    "subject": "This week in A&S: Visiting journalists, composers and high-schoolers",
+    "mailed": 325,
+    "unique_opens": 171,
+    "opens": 323,
+    "open_rate": 52.6,
+    "unique_clicks": 32,
+    "total_clicks": 102,
+    "click_rate": 9.8,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-2-23-26?&utm_campaign=newsletter&utm_source=weekly-newsletter-2-23-26",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-2-23-26",
+        "page_title": "Weekly newsletter, 2-23-26",
+        "page_summary": "Not Available",
+        "total_clicks": 18,
+        "unique_clicks": 7
+      },
+      {
+        "url": "https://as.cornell.edu/news/john-life-and-times-maverick-gospel?&utm_campaign=newsletter&utm_source=weekly-newsletter-2-23-26",
+        "display": "as.cornell.edu/news/john-life-and-times-maverick-gospel",
+        "page_title": "John: The life and times of the ‘maverick’ Gospel",
+        "page_summary": "The fourth Gospel of the New Testament holds many of the Bible’s most well-known passages, but also some of its controversies.",
+        "total_clicks": 16,
+        "unique_clicks": 7
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2026/02/five-cornell-named-2026-sloan-research-fellows",
+        "display": "news.cornell.edu/stories/2026/02/five-cornell-named-2026-sloan-research-fellows",
+        "page_title": "Five from Cornell named 2026 Sloan Research Fellows | Cornell Chronicle",
+        "page_summary": "Five Cornell faculty members are among 126 early-career researchers across North America who have won 2026 Sloan Research Fellowships from the Alfred P. Sloan Foundation.",
+        "total_clicks": 15,
+        "unique_clicks": 7
+      },
+      {
+        "url": "https://as.cornell.edu/news/new-summer-course-spark-civic-engagement-high-schoolers?&utm_campaign=newsletter&utm_source=weekly-newsletter-2-23-26",
+        "display": "as.cornell.edu/news/new-summer-course-spark-civic-engagement-high-schoolers",
+        "page_title": "New summer course to spark civic engagement in high schoolers",
+        "page_summary": "A Teagle Foundation grant will help fund the course and open pathways to higher education.",
+        "total_clicks": 13,
+        "unique_clicks": 7
+      },
+      {
+        "url": "https://as.cornell.edu/news/how-wwii-changed-ideas-racial-purity-japan?&utm_campaign=newsletter&utm_source=weekly-newsletter-2-23-26",
+        "display": "as.cornell.edu/news/how-wwii-changed-ideas-racial-purity-japan",
+        "page_title": "How WWII changed ideas of racial purity in Japan",
+        "page_summary": "The new book explores what happened to “mixed blood” children born to Japanese women and foreign soldiers.",
+        "total_clicks": 10,
+        "unique_clicks": 5
+      },
+      {
+        "url": "https://events.cornell.edu/event/the-eleanor-j-and-james-j-gibson-lecture-in-experimental-psychology",
+        "display": "events.cornell.edu/event/the-eleanor-j-and-james-j-gibson-lecture-in-experimental-psychology",
+        "page_title": "The Eleanor J. and James J. Gibson Lecture in Experimental Psychology - Cornell",
+        "page_summary": "\"Learning to Look and Looking to Learn: Developmental Cascades in Infant Attention\" to be presented by Lisa Oakes, Department of Psychology, University California Davis.  This is the thirty-fifth in a series of lectures in honor of Eleanor J. Gibs...",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://as.cornell.edu/public-engagement/arts-unplugged?&utm_campaign=newsletter&utm_source=weekly-newsletter-2-23-26",
+        "display": "as.cornell.edu/public-engagement/arts-unplugged",
+        "page_title": "Arts Unplugged",
+        "page_summary": "The College of Arts & Sciences’ Arts Unplugged series brings research and creative works into the public sphere for discussion and inspiration. These engaging events invite a broad audience to explore the work of scholars, faculty and creative lum...",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://as.cornell.edu/news/bret-stephens-and-seth-klarman-conversation-march-6?&utm_campaign=newsletter&utm_source=weekly-newsletter-2-23-26",
+        "display": "as.cornell.edu/news/bret-stephens-and-seth-klarman-conversation-march-6",
+        "page_title": "Bret Stephens and Seth Klarman in conversation, March 6",
+        "page_summary": "The pair will offer a wide-ranging conversation, “On Democracy, Conservatism and Journalism.\"",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://events.cornell.edu/event/chats-with-the-chair-648",
+        "display": "events.cornell.edu/event/chats-with-the-chair-648",
+        "page_title": "CANCELLED: Chats with the Chair - Cornell",
+        "page_summary": "The Chats with the Chair session scheduled for 1pm tomorrow, 2/27, HAS BEEN CANCELLED. The next session will be held on Friday, 4/10, at noon, in Room 220.\n\n\"Chats with the Chair\" invites PMA majors, minors, and those interested in the department ...",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://events.cornell.edu/event/department-of-physics-colloquium-professor-paul-ginsparg-cornell-university",
+        "display": "events.cornell.edu/event/department-of-physics-colloquium-professor-paul-ginsparg-cornell-university",
+        "page_title": "Department of Physics Colloquium, Professor Paul Ginsparg, Cornell University - Cornell",
+        "page_summary": "General Physics Colloquium, Professor Paul Ginsparg, Cornell University\n\nTitle:  The Rise of Slop\n\nHost:  Jennet Dickinson\n\nAbstract:  The rapid proliferation of AI-generated text, figures, code, and reviews is reshaping the ecology of research co...",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      }
+    ]
+  },
+  {
     "filename": "faculty-2026-02-18.xml",
     "type": "faculty",
     "date": "2026-02-18",
@@ -290,6 +486,104 @@
         "page_summary": "The Richard Cleaveland Memorial Reading by Dante Micheaux and Alex Gilvarry\nThursday, February 19, 5 p.m.\nRhodes-Rawlings Auditorium, Klarman Hall KG70\n\nThe Spring 2026 Barbara & David Zalaznick Creative Writing Reading Series kicks off with the R...",
         "total_clicks": 2,
         "unique_clicks": 1
+      }
+    ]
+  },
+  {
+    "filename": "staff-2026-02-18.xml",
+    "type": "staff",
+    "date": "2026-02-18",
+    "year": 2026,
+    "semester": "Spring",
+    "subject": "This week in A&S: Recycling cells, small figures and scholarship winners",
+    "mailed": 328,
+    "unique_opens": 177,
+    "opens": 335,
+    "open_rate": 54.0,
+    "unique_clicks": 23,
+    "total_clicks": 66,
+    "click_rate": 7.0,
+    "unsubs": 1,
+    "urls": [
+      {
+        "url": "https://pma.cornell.edu/karen-jaime",
+        "display": "pma.cornell.edu/karen-jaime",
+        "page_title": "Karen Jaime | Performing and Media Arts",
+        "page_summary": "Not Available",
+        "total_clicks": 10,
+        "unique_clicks": 5
+      },
+      {
+        "url": "https://www.usatoday.com/story/cars/news/2026/02/15/bad-bunny-ford-truck-super-bowl/88691319007/",
+        "display": "www.usatoday.com/story/cars/news/2026/02/15/bad-bunny-ford-truck-super-bowl/88691319007",
+        "page_title": "Bad Bunny performance sparks buzz for vintage Ford truck",
+        "page_summary": "Bad Bunny featured a vintage Ford F-100 pickup last week, giving the automaker millions in free advertising as he connected with his Puerto Rican roots.",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2026/02/newly-identified-protein-interaction-helps-keep-cells-recycling-system-balance",
+        "display": "news.cornell.edu/stories/2026/02/newly-identified-protein-interaction-helps-keep-cells-recycling-system-balance",
+        "page_title": "Newly identified protein interaction helps keep cells’ recycling system in balance | Cornell Chronicle",
+        "page_summary": "Cornell researchers have discovered a new way cells regulate how they respond to stress, identifying an interaction between two proteins that helps keep a critical cellular recycling system in balance.",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2026/02/museum-installation-focuses-small-figures-large-landscapes",
+        "display": "news.cornell.edu/stories/2026/02/museum-installation-focuses-small-figures-large-landscapes",
+        "page_title": "Museum installation focuses on small figures in large landscapes | Cornell Chronicle",
+        "page_summary": "A new student-led installation at the Herbert F. Johnson Museum of Art explores how the figures, known as “staffage,” indicate scale in paintings and also tell larger stories about the art.",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-2-18-26?&utm_campaign=newsletter&utm_source=weekly-newsletter-2-18-26",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-2-18-26",
+        "page_title": "Weekly newsletter, 2-18-26",
+        "page_summary": "Not Available",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://as.cornell.edu/news/cornell-researchers-win-prize-insight-conspiracy-belief?&utm_campaign=newsletter&utm_source=weekly-newsletter-2-18-26",
+        "display": "as.cornell.edu/news/cornell-researchers-win-prize-insight-conspiracy-belief",
+        "page_title": "Cornell researchers win prize for insight into conspiracy belief",
+        "page_summary": "Gordon Pennycook and David Rand won the 2026 Newcomb Cleveland Prize from the American Association for the Advancement of Science.",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://as.cornell.edu/news/events-honor-legacy-composer-steven-stucky?&utm_campaign=newsletter&utm_source=weekly-newsletter-2-18-26",
+        "display": "as.cornell.edu/news/events-honor-legacy-composer-steven-stucky",
+        "page_title": "Events honor the legacy of composer Steven Stucky",
+        "page_summary": "The Department of Music is honoring the late Steven Stucky, Pulitzer Prize-winning composer and beloved Cornell professor, with a series of concerts.",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://as.cornell.edu/news/student-chosen-civic-engagement-scholarship?&utm_campaign=newsletter&utm_source=weekly-newsletter-2-18-26",
+        "display": "as.cornell.edu/news/student-chosen-civic-engagement-scholarship",
+        "page_title": "A&S student chosen for civic engagement scholarship",
+        "page_summary": "Katrina Greene '27 will be headed to Washington, D.C. as a John Robert Lewis Scholar, an award given by the Faith and Politics Institute.",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://www.theguardian.com/environment/2026/feb/09/global-economy-transformed-humanity-future-un-chief-antonio-guterres",
+        "display": "www.theguardian.com/environment/2026/feb/09/global-economy-transformed-humanity-future-un-chief-antonio-guterres",
+        "page_title": "Global economy must move past GDP to avoid planetary disaster, warns UN chief | United Nations | The Guardian",
+        "page_summary": "Exclusive: António Guterres says world’s accounting systems should place true value on the environment",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://as.cornell.edu/news/awards-and-honors?&utm_campaign=newsletter&utm_source=weekly-newsletter-1-20-26?&utm_campaign=newsletter&utm_source=2-2-26-newsletter?&utm_campaign=newsletter&utm_source=weekly-newsletter-2-18-26",
+        "display": "as.cornell.edu/news/awards-and-honors",
+        "page_title": "Awards and Honors",
+        "page_summary": "Awards and honors received by faculty, postdocs and graduate students in the College of Arts & Sciences.",
+        "total_clicks": 4,
+        "unique_clicks": 2
       }
     ]
   },
@@ -1176,6 +1470,692 @@
     ]
   },
   {
+    "filename": "staff-2026-01-20.xml",
+    "type": "staff",
+    "date": "2026-01-20",
+    "year": 2026,
+    "semester": "Spring",
+    "subject": "This week in A&S: Welcome to a new semester!",
+    "mailed": 328,
+    "unique_opens": 195,
+    "opens": 412,
+    "open_rate": 59.5,
+    "unique_clicks": 62,
+    "total_clicks": 205,
+    "click_rate": 18.9,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://news.cornell.edu/stories/2025/12/nick-salvatore-one-our-foremost-historians-dies-82",
+        "display": "news.cornell.edu/stories/2025/12/nick-salvatore-one-our-foremost-historians-dies-82",
+        "page_title": "Nick Salvatore, ‘one of our foremost historians,’ dies at 82 | Cornell Chronicle",
+        "page_summary": "Nick Salvatore, a professor emeritus in the ILR School, an award-winning historian and teacher and lifelong champion for working people, died on Nov. 29 in Ithaca. He was 82.",
+        "total_clicks": 45,
+        "unique_clicks": 22
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-1-20-26?&utm_campaign=newsletter&utm_source=weekly-newsletter-1-20-26",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-1-20-26",
+        "page_title": "Weekly newsletter, 1-20-26",
+        "page_summary": "Not Available",
+        "total_clicks": 34,
+        "unique_clicks": 11
+      },
+      {
+        "url": "https://classes.cornell.edu/browse/roster/SP26/class/GOVT/1109",
+        "display": "classes.cornell.edu/browse/roster/SP26/class/GOVT/1109",
+        "page_title": "Class Roster  - Spring 2026 - GOVT 1109",
+        "page_summary": "Disagreement is at the heart of the university and at the heart of democracies. In universities, scholars in every discipline engage in disagreement every day, from the nature of the outer reaches of the galaxy, to the value and meaning of differe...",
+        "total_clicks": 29,
+        "unique_clicks": 14
+      },
+      {
+        "url": "https://as.cornell.edu/news/awards-and-honors?&utm_campaign=newsletter&utm_source=weekly-newsletter-1-20-26",
+        "display": "as.cornell.edu/news/awards-and-honors",
+        "page_title": "Awards and Honors",
+        "page_summary": "Awards and honors received by faculty, postdocs and graduate students in the College of Arts & Sciences.",
+        "total_clicks": 18,
+        "unique_clicks": 7
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/12/mystery-seneca-drums-persists",
+        "display": "news.cornell.edu/stories/2025/12/mystery-seneca-drums-persists",
+        "page_title": "The mystery of the Seneca Drums persists | Cornell Chronicle",
+        "page_summary": "Researchers are plumbing the depths of the largest and deepest of New York’s Finger Lakes to explain the source of its famous booming sounds.",
+        "total_clicks": 16,
+        "unique_clicks": 8
+      },
+      {
+        "url": "https://as.cornell.edu/news/people-behind-telescope-how-specialized-expertise-supporting-science-edge-universe?&utm_campaign=newsletter&utm_source=weekly-newsletter-1-20-26",
+        "display": "as.cornell.edu/news/people-behind-telescope-how-specialized-expertise-supporting-science-edge-universe",
+        "page_title": "The people behind the telescope: How specialized expertise is supporting science at the edge of the universe",
+        "page_summary": "Behind a world-leading telescope bound for Chile is a team of engineers, machinists, electronics specialists and riggers at Cornell. Meet the specialized staff whose expertise is helping push cosmology to new frontiers.",
+        "total_clicks": 11,
+        "unique_clicks": 6
+      },
+      {
+        "url": "https://events.cornell.edu/event/cchk-salon-their-swan-songs-schubert-and-stucky-cu-music",
+        "display": "events.cornell.edu/event/cchk-salon-their-swan-songs-schubert-and-stucky-cu-music",
+        "page_title": "CCHK Salon: Their Swan Songs: Schubert and Stucky (CU Music) - Cornell",
+        "page_summary": "Pianist Xak Bjerken is joined by baritone Brian V. Sengdala for a concert of Schubert’s epic Schwanengesang as well as a performance of an unpublished song by Steven Stucky, his final work for voice entitled Out of the Cradle, Endlessly Rocking. T...",
+        "total_clicks": 10,
+        "unique_clicks": 5
+      },
+      {
+        "url": "https://as.cornell.edu/news/meszaros-elected-american-mathematical-society?&utm_campaign=newsletter&utm_source=weekly-newsletter-1-20-26",
+        "display": "as.cornell.edu/news/meszaros-elected-american-mathematical-society",
+        "page_title": "Mészáros elected to American Mathematical Society",
+        "page_summary": "Mészáros’ research focuses on algebraic and geometric combinatorics.",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/public-engagement/arts-unplugged?&utm_campaign=newsletter&utm_source=weekly-newsletter-1-20-26",
+        "display": "as.cornell.edu/public-engagement/arts-unplugged",
+        "page_title": "Arts Unplugged",
+        "page_summary": "The College of Arts & Sciences’ Arts Unplugged series brings research and creative works into the public sphere for discussion and inspiration. These engaging events invite a broad audience to explore the work of scholars, faculty and creative lum...",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://events.cornell.edu/event/projects-participation-kick-off-spring-2026",
+        "display": "events.cornell.edu/event/projects-participation-kick-off-spring-2026",
+        "page_title": "Projects & Participation Kick-off Spring 2026 - Cornell",
+        "page_summary": "Find out your role in PMA's vibrant projects and collaborations! Mark your calendar for Projects & Participation Kick-off on Wednesday, January 21 at 7:30 p.m. in the Kiplinger Theatre, Schwartz Center for the Performing Arts. \n\nJoin us for a gene...",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      }
+    ]
+  },
+  {
+    "filename": "faculty-2025-12-15.xml",
+    "type": "faculty",
+    "date": "2025-12-15",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Our top stories of 2025",
+    "mailed": 716,
+    "unique_opens": 473,
+    "opens": 947,
+    "open_rate": 66.1,
+    "unique_clicks": 81,
+    "total_clicks": 191,
+    "click_rate": 11.3,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/news/celebrating-journey-our-december-grads?&utm_campaign=newsletter&utm_source=weekly-newsletter-121525",
+        "display": "as.cornell.edu/news/celebrating-journey-our-december-grads",
+        "page_title": "Celebrating the journey with our December A&S grads",
+        "page_summary": "December graduates walk the stage this month, so we sat down for a talk with three A&S grads who’ve taken different pathways through Cornell.",
+        "total_clicks": 51,
+        "unique_clicks": 28
+      },
+      {
+        "url": "https://as.cornell.edu/news/national-science-foundation-announces-cornell-led-ai-materials-institute?utm_medium=email&utm_content=header-link?&utm_campaign=newsletter&utm_source=weekly-newsletter-121525",
+        "display": "as.cornell.edu/news/national-science-foundation-announces-cornell-led-ai-materials-institute",
+        "page_title": "National Science Foundation announces Cornell-led AI Materials Institute",
+        "page_summary": "The NSF, in partnership with Intel, will invest $20 million over five years.",
+        "total_clicks": 23,
+        "unique_clicks": 12
+      },
+      {
+        "url": "https://as.cornell.edu/news/center-historical-keyboards-boosted-5-million-gift?utm_medium=email&utm_content=header-link?&utm_campaign=newsletter&utm_source=weekly-newsletter-121525",
+        "display": "as.cornell.edu/news/center-historical-keyboards-boosted-5-million-gift",
+        "page_title": "Center for Historical Keyboards boosted by $5 million gift",
+        "page_summary": "The gift will secure the future of the center's museum-quality holdings, as well as a rich program of concerts, festivals and educational offerings.",
+        "total_clicks": 20,
+        "unique_clicks": 10
+      },
+      {
+        "url": "https://as.cornell.edu/news/launches-cornell-los-angeles-semester-study-away?utm_medium=email&utm_content=header-link?&utm_campaign=newsletter&utm_source=weekly-newsletter-121525",
+        "display": "as.cornell.edu/news/launches-cornell-los-angeles-semester-study-away",
+        "page_title": "A&S launches Cornell in Los Angeles semester study away",
+        "page_summary": "The program will place students in Hollywood for a semester of coursework, networking, and cultural immersion.",
+        "total_clicks": 15,
+        "unique_clicks": 9
+      },
+      {
+        "url": "https://as.cornell.edu/news/behavioral-economics-born-cornell-embraced-policymakers?utm_medium=email&utm_content=header-link?&utm_campaign=newsletter&utm_source=weekly-newsletter-121525",
+        "display": "as.cornell.edu/news/behavioral-economics-born-cornell-embraced-policymakers",
+        "page_title": "Behavioral economics: Born at Cornell, embraced by policymakers",
+        "page_summary": "Economists and psychologists work together to understand how human behavior impacts people's decision-making in the marketplace.",
+        "total_clicks": 15,
+        "unique_clicks": 5
+      },
+      {
+        "url": "https://as.cornell.edu/news/new-course-encourages-students-embrace-disagreement?utm_medium=email&utm_content=header-link?&utm_campaign=newsletter&utm_source=weekly-newsletter-121525",
+        "display": "as.cornell.edu/news/new-course-encourages-students-embrace-disagreement",
+        "page_title": "New course encourages students to embrace disagreement",
+        "page_summary": "A new course being offered will give students the chance to consider some of the most polarizing issues in our world today.",
+        "total_clicks": 12,
+        "unique_clicks": 7
+      },
+      {
+        "url": "https://as.cornell.edu/news/cornell-chemists-tackle-climate-change?utm_medium=email&utm_content=header-link?&utm_campaign=newsletter&utm_source=weekly-newsletter-121525",
+        "display": "as.cornell.edu/news/cornell-chemists-tackle-climate-change",
+        "page_title": "Cornell chemists tackle climate change",
+        "page_summary": "Innovative and far-reaching discoveries such as better electric batteries, carbon capture technologies, renewable plastics and improvements in solar cells are just a few of their research areas.",
+        "total_clicks": 12,
+        "unique_clicks": 6
+      },
+      {
+        "url": "https://as.cornell.edu/news/new-high-powered-telescope-reaches-chilean-peak?utm_medium=email&utm_content=header-link?&utm_campaign=newsletter&utm_source=weekly-newsletter-121525",
+        "display": "as.cornell.edu/news/new-high-powered-telescope-reaches-chilean-peak",
+        "page_title": "New high-powered telescope reaches Chilean peak",
+        "page_summary": "The first major component of the Fred Young Submillimeter Telescope (FYST) has arrived at its final home: the Cerro Chajnantor mountaintop.",
+        "total_clicks": 8,
+        "unique_clicks": 5
+      },
+      {
+        "url": "https://as.cornell.edu/news/master-storyteller-shares-secrets?utm_medium=email&utm_content=header-link?&utm_campaign=newsletter&utm_source=weekly-newsletter-121525",
+        "display": "as.cornell.edu/news/master-storyteller-shares-secrets",
+        "page_title": "Master storyteller shares secrets",
+        "page_summary": "Author and editor Sam Tanenhaus reminded listeners that politically complex, and even morally ambiguous, material makes for great storytelling.",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-121525?&utm_campaign=newsletter&utm_source=weekly-newsletter-121525",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-121525",
+        "page_title": "Weekly newsletter 121525",
+        "page_summary": "Not Available",
+        "total_clicks": 7,
+        "unique_clicks": 4
+      }
+    ]
+  },
+  {
+    "filename": "staff-2025-12-15.xml",
+    "type": "staff",
+    "date": "2025-12-15",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Our top stories of 2025",
+    "mailed": 329,
+    "unique_opens": 46,
+    "opens": 106,
+    "open_rate": 14.0,
+    "unique_clicks": 46,
+    "total_clicks": 155,
+    "click_rate": 14.0,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/news/celebrating-journey-our-december-grads?&utm_campaign=newsletter&utm_source=weekly-newsletter-121525",
+        "display": "as.cornell.edu/news/celebrating-journey-our-december-grads",
+        "page_title": "Celebrating the journey with our December A&S grads",
+        "page_summary": "December graduates walk the stage this month, so we sat down for a talk with three A&S grads who’ve taken different pathways through Cornell.",
+        "total_clicks": 61,
+        "unique_clicks": 29
+      },
+      {
+        "url": "https://as.cornell.edu/news/new-course-encourages-students-embrace-disagreement?utm_medium=email&utm_content=header-link?&utm_campaign=newsletter&utm_source=weekly-newsletter-121525",
+        "display": "as.cornell.edu/news/new-course-encourages-students-embrace-disagreement",
+        "page_title": "New course encourages students to embrace disagreement",
+        "page_summary": "A new course being offered will give students the chance to consider some of the most polarizing issues in our world today.",
+        "total_clicks": 14,
+        "unique_clicks": 6
+      },
+      {
+        "url": "https://as.cornell.edu/news/throughout-history-poets-find-inspiration-cornell?utm_medium=email&utm_content=header-link?&utm_campaign=newsletter&utm_source=weekly-newsletter-121525",
+        "display": "as.cornell.edu/news/throughout-history-poets-find-inspiration-cornell",
+        "page_title": "Throughout history, poets find inspiration at Cornell",
+        "page_summary": "Visit the Poetry Foundation website, type in “Cornell,” and you’ll find 405 results.",
+        "total_clicks": 12,
+        "unique_clicks": 6
+      },
+      {
+        "url": "https://as.cornell.edu/news/cornell-chemists-tackle-climate-change?utm_medium=email&utm_content=header-link?&utm_campaign=newsletter&utm_source=weekly-newsletter-121525",
+        "display": "as.cornell.edu/news/cornell-chemists-tackle-climate-change",
+        "page_title": "Cornell chemists tackle climate change",
+        "page_summary": "Innovative and far-reaching discoveries such as better electric batteries, carbon capture technologies, renewable plastics and improvements in solar cells are just a few of their research areas.",
+        "total_clicks": 12,
+        "unique_clicks": 6
+      },
+      {
+        "url": "https://as.cornell.edu/news/awards-and-honors?&utm_campaign=newsletter&utm_source=weekly-newsletter-121525",
+        "display": "as.cornell.edu/news/awards-and-honors",
+        "page_title": "Awards and Honors",
+        "page_summary": "Awards and honors received by faculty, postdocs and graduate students in the College of Arts & Sciences.",
+        "total_clicks": 10,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/news/center-historical-keyboards-boosted-5-million-gift?utm_medium=email&utm_content=header-link?&utm_campaign=newsletter&utm_source=weekly-newsletter-121525",
+        "display": "as.cornell.edu/news/center-historical-keyboards-boosted-5-million-gift",
+        "page_title": "Center for Historical Keyboards boosted by $5 million gift",
+        "page_summary": "The gift will secure the future of the center's museum-quality holdings, as well as a rich program of concerts, festivals and educational offerings.",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-121525?&utm_campaign=newsletter&utm_source=weekly-newsletter-121525",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-121525",
+        "page_title": "Weekly newsletter 121525",
+        "page_summary": "Not Available",
+        "total_clicks": 8,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://as.cornell.edu/news/national-science-foundation-announces-cornell-led-ai-materials-institute?utm_medium=email&utm_content=header-link?&utm_campaign=newsletter&utm_source=weekly-newsletter-121525",
+        "display": "as.cornell.edu/news/national-science-foundation-announces-cornell-led-ai-materials-institute",
+        "page_title": "National Science Foundation announces Cornell-led AI Materials Institute",
+        "page_summary": "The NSF, in partnership with Intel, will invest $20 million over five years.",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://as.cornell.edu/news/launches-cornell-los-angeles-semester-study-away?utm_medium=email&utm_content=header-link?&utm_campaign=newsletter&utm_source=weekly-newsletter-121525",
+        "display": "as.cornell.edu/news/launches-cornell-los-angeles-semester-study-away",
+        "page_title": "A&S launches Cornell in Los Angeles semester study away",
+        "page_summary": "The program will place students in Hollywood for a semester of coursework, networking, and cultural immersion.",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://as.cornell.edu/news/behavioral-economics-born-cornell-embraced-policymakers?utm_medium=email&utm_content=header-link?&utm_campaign=newsletter&utm_source=weekly-newsletter-121525",
+        "display": "as.cornell.edu/news/behavioral-economics-born-cornell-embraced-policymakers",
+        "page_title": "Behavioral economics: Born at Cornell, embraced by policymakers",
+        "page_summary": "Economists and psychologists work together to understand how human behavior impacts people's decision-making in the marketplace.",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      }
+    ]
+  },
+  {
+    "filename": "faculty-2025-12-08.xml",
+    "type": "faculty",
+    "date": "2025-12-08",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Navy honors, dirty dishes, music and film",
+    "mailed": 716,
+    "unique_opens": 451,
+    "opens": 832,
+    "open_rate": 63.0,
+    "unique_clicks": 25,
+    "total_clicks": 53,
+    "click_rate": 3.5,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://news.cornell.edu/stories/2025/12/spaceflight-tested-menstrual-cup-offers-choice-long-missions",
+        "display": "news.cornell.edu/stories/2025/12/spaceflight-tested-menstrual-cup-offers-choice-long-missions",
+        "page_title": "Spaceflight-tested menstrual cup offers choice on long missions | Cornell Chronicle",
+        "page_summary": "To equip astronauts with health choices for future missions, a Cornell postdoctoral fellow is leading research with AstroCup, a group that recently tested two menstrual cups in spaceflight as payload on an uncrewed rocket flight.",
+        "total_clicks": 12,
+        "unique_clicks": 6
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/12/grants-support-research-nexus-ai-climate-science",
+        "display": "news.cornell.edu/stories/2025/12/grants-support-research-nexus-ai-climate-science",
+        "page_title": "Grants to support research at nexus of AI, climate science | Cornell Chronicle",
+        "page_summary": "New grant funding will support eight research projects seeking to reduce AI’s energy use and integrate AI in environmental research.",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/12/ancient-dirty-dishes-reveal-decades-questionable-findings",
+        "display": "news.cornell.edu/stories/2025/12/ancient-dirty-dishes-reveal-decades-questionable-findings",
+        "page_title": "Ancient dirty dishes reveal decades of questionable findings | Cornell Chronicle",
+        "page_summary": "An interdisciplinary team of researchers determined that organic residues of plant oils are poorly preserved in calcareous soils from the Mediterranean, leading decades of archaeologists to likely misidentify olive oil in ceramic artifacts.",
+        "total_clicks": 6,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-12-8-25?&utm_campaign=newsletter&utm_source=weekly-newsletter-12-8-25",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-12-8-25",
+        "page_title": "weekly newsletter, 12-8-25",
+        "page_summary": "Not Available",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://events.cornell.edu/event/cornell-concerto-competition-finals-cu-music",
+        "display": "events.cornell.edu/event/cornell-concerto-competition-finals-cu-music",
+        "page_title": "[NEW TIME] Cornell Concerto Competition Finals (CU Music) - Cornell",
+        "page_summary": "Concerto Competition Finals: students compete for the opportunity to perform as soloists with the Cornell Symphony Orchestra, the Cornell Chamber Orchestra, and the Cornell Wind Symphony.\n\nphoto credit: Noel Heaney",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://events.cornell.edu/event/cornell-chorus-glee-club-lessons-carols-cu-music",
+        "display": "events.cornell.edu/event/cornell-chorus-glee-club-lessons-carols-cu-music",
+        "page_title": "Cornell Chorus & Glee Club: Lessons & Carols (CU Music) - Cornell",
+        "page_summary": "Cornell University Lessons and Carols sung by the Cornell University Chorus and Glee Club, interspersed with traditional readings by members of the Cornell community.\n\nNote: doors will open at 6:30pm. There is no indoor waiting area at Sage Chapel...",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://events.cornell.edu/event/student-film-screening-9501",
+        "display": "events.cornell.edu/event/student-film-screening-9501",
+        "page_title": "Student Film Screening - Cornell",
+        "page_summary": "Join the Department of Performing and Media Arts for the Student Film Screening, on Friday, December 12, at 5:00 p.m., in the Kiplinger Theatre, Schwartz Center for Performing Arts. The Student Film Screening will feature unique, empathetic, and c...",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://as.cornell.edu?&utm_campaign=newsletter&utm_source=weekly-newsletter-12-8-25",
+        "display": "as.cornell.edu",
+        "page_title": "The College of Arts & Sciences, Cornell University",
+        "page_summary": "Liberal arts college at Cornell University. A home for exploration, discovery and imagination. Undergraduate, faculty excellence in research and education. Academic diversity in the humanities, biological sciences and discipline-based education.",
+        "total_clicks": 3,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/12/cornell-navy-rotc-midshipman-earns-top-honor",
+        "display": "news.cornell.edu/stories/2025/12/cornell-navy-rotc-midshipman-earns-top-honor",
+        "page_title": "Cornell Navy ROTC midshipman earns top honor | Cornell Chronicle",
+        "page_summary": "Kylie Williamson ’26 has been named Navy/Marines Student of the Year by Navy Federal Credit Union, a top honor in the Reserve Officers Training Corps system. Williamson is the first Cornell student to win the award.",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      },
+      {
+        "url": "https://government.cornell.edu/peter-k-enns",
+        "display": "government.cornell.edu/peter-k-enns",
+        "page_title": "Peter K. Enns | Department of Government",
+        "page_summary": "Not Available",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      }
+    ]
+  },
+  {
+    "filename": "staff-2025-12-08.xml",
+    "type": "staff",
+    "date": "2025-12-08",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Navy honors, dirty dishes, music and film",
+    "mailed": 329,
+    "unique_opens": 181,
+    "opens": 321,
+    "open_rate": 55.0,
+    "unique_clicks": 29,
+    "total_clicks": 90,
+    "click_rate": 8.8,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://news.cornell.edu/stories/2025/12/grants-support-research-nexus-ai-climate-science",
+        "display": "news.cornell.edu/stories/2025/12/grants-support-research-nexus-ai-climate-science",
+        "page_title": "Grants to support research at nexus of AI, climate science | Cornell Chronicle",
+        "page_summary": "New grant funding will support eight research projects seeking to reduce AI’s energy use and integrate AI in environmental research.",
+        "total_clicks": 18,
+        "unique_clicks": 9
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-12-8-25?&utm_campaign=newsletter&utm_source=weekly-newsletter-12-8-25",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-12-8-25",
+        "page_title": "weekly newsletter, 12-8-25",
+        "page_summary": "Not Available",
+        "total_clicks": 16,
+        "unique_clicks": 8
+      },
+      {
+        "url": "https://events.cornell.edu/event/cornell-chorus-glee-club-lessons-carols-cu-music",
+        "display": "events.cornell.edu/event/cornell-chorus-glee-club-lessons-carols-cu-music",
+        "page_title": "Cornell Chorus & Glee Club: Lessons & Carols (CU Music) - Cornell",
+        "page_summary": "Cornell University Lessons and Carols sung by the Cornell University Chorus and Glee Club, interspersed with traditional readings by members of the Cornell community.\n\nNote: doors will open at 6:30pm. There is no indoor waiting area at Sage Chapel...",
+        "total_clicks": 12,
+        "unique_clicks": 6
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/12/spaceflight-tested-menstrual-cup-offers-choice-long-missions",
+        "display": "news.cornell.edu/stories/2025/12/spaceflight-tested-menstrual-cup-offers-choice-long-missions",
+        "page_title": "Spaceflight-tested menstrual cup offers choice on long missions | Cornell Chronicle",
+        "page_summary": "To equip astronauts with health choices for future missions, a Cornell postdoctoral fellow is leading research with AstroCup, a group that recently tested two menstrual cups in spaceflight as payload on an uncrewed rocket flight.",
+        "total_clicks": 10,
+        "unique_clicks": 5
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/12/cornell-navy-rotc-midshipman-earns-top-honor",
+        "display": "news.cornell.edu/stories/2025/12/cornell-navy-rotc-midshipman-earns-top-honor",
+        "page_title": "Cornell Navy ROTC midshipman earns top honor | Cornell Chronicle",
+        "page_summary": "Kylie Williamson ’26 has been named Navy/Marines Student of the Year by Navy Federal Credit Union, a top honor in the Reserve Officers Training Corps system. Williamson is the first Cornell student to win the award.",
+        "total_clicks": 10,
+        "unique_clicks": 5
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/12/ancient-dirty-dishes-reveal-decades-questionable-findings",
+        "display": "news.cornell.edu/stories/2025/12/ancient-dirty-dishes-reveal-decades-questionable-findings",
+        "page_title": "Ancient dirty dishes reveal decades of questionable findings | Cornell Chronicle",
+        "page_summary": "An interdisciplinary team of researchers determined that organic residues of plant oils are poorly preserved in calcareous soils from the Mediterranean, leading decades of archaeologists to likely misidentify olive oil in ceramic artifacts.",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://www.salon.com/2025/12/05/new-yorks-wealthy-warn-of-a-tax-exodus-after-mamdanis-win-but-the-data-says-otherwise/",
+        "display": "www.salon.com/2025/12/05/new-yorks-wealthy-warn-of-a-tax-exodus-after-mamdanis-win-but-the-data-says-otherwise",
+        "page_title": "New York’s wealthy warn of a tax exodus after Mamdani’s win – but the data says otherwise - Salon.com",
+        "page_summary": "Wealthy New Yorkers have threatened to leave the city. They aren't going anywhere.",
+        "total_clicks": 6,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://events.cornell.edu/event/student-film-screening-9501",
+        "display": "events.cornell.edu/event/student-film-screening-9501",
+        "page_title": "Student Film Screening - Cornell",
+        "page_summary": "Join the Department of Performing and Media Arts for the Student Film Screening, on Friday, December 12, at 5:00 p.m., in the Kiplinger Theatre, Schwartz Center for Performing Arts. The Student Film Screening will feature unique, empathetic, and c...",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://events.cornell.edu/event/cornell-concerto-competition-finals-cu-music",
+        "display": "events.cornell.edu/event/cornell-concerto-competition-finals-cu-music",
+        "page_title": "[NEW TIME] Cornell Concerto Competition Finals (CU Music) - Cornell",
+        "page_summary": "Concerto Competition Finals: students compete for the opportunity to perform as soloists with the Cornell Symphony Orchestra, the Cornell Chamber Orchestra, and the Cornell Wind Symphony.\n\nphoto credit: Noel Heaney",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://www.latimes.com/opinion/story/2025-12-04/supreme-court-precedent",
+        "display": "www.latimes.com/opinion/story/2025-12-04/supreme-court-precedent",
+        "page_title": "Not Available",
+        "page_summary": "The court has historically understood the perils of completely ignoring precedent and the will of the people. Chief Justice John Roberts is different.",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      }
+    ]
+  },
+  {
+    "filename": "faculty-2025-12-01.xml",
+    "type": "faculty",
+    "date": "2025-12-01",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Dean's scholars, nutcrackers and undergrad poets",
+    "mailed": 716,
+    "unique_opens": 454,
+    "opens": 937,
+    "open_rate": 63.4,
+    "unique_clicks": 54,
+    "total_clicks": 145,
+    "click_rate": 7.5,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/news/nearly-60-students-recognized-pinning-ceremony?&utm_campaign=newsletter&utm_source=weekly-newsletter-12125",
+        "display": "as.cornell.edu/news/nearly-60-students-recognized-pinning-ceremony",
+        "page_title": "Nearly 60 students recognized at pinning ceremony",
+        "page_summary": "A&S-affiliated graduate students were among nearly 60 welcomed by the Graduate School as new Dean’s Scholars at an event to honor students selected for this distinction for academic excellence, leadership, and service.",
+        "total_clicks": 42,
+        "unique_clicks": 21
+      },
+      {
+        "url": "https://as.cornell.edu/news/professor-emerita-stephanie-vaughn-writers-writer-dies-81",
+        "display": "as.cornell.edu/news/professor-emerita-stephanie-vaughn-writers-writer-dies-81",
+        "page_title": "Professor emerita Stephanie Vaughn, ‘writer’s writer,’ dies at 81",
+        "page_summary": "Vaughn taught creative writing and literature at Cornell for 39 years, retiring in 2022 as professor of literatures in English emerita.",
+        "total_clicks": 29,
+        "unique_clicks": 14
+      },
+      {
+        "url": "https://as.cornell.edu/news/professor-emeritus-howard-howland-expert-eyes-dies-92",
+        "display": "as.cornell.edu/news/professor-emeritus-howard-howland-expert-eyes-dies-92",
+        "page_title": "Professor emeritus Howard Howland, expert on eyes, dies at 92",
+        "page_summary": "Howard Howland, Ph.D. ’68, a neurophysiologist who studied the eyes of humans and animals, died Oct. 26 in Ithaca. He was 92.",
+        "total_clicks": 20,
+        "unique_clicks": 10
+      },
+      {
+        "url": "https://vivenu.com/event/cornell-symphony-orchestra-and-jazz-ensemble-pre-hi368r",
+        "display": "vivenu.com/event/cornell-symphony-orchestra-and-jazz-ensemble-pre-hi368r",
+        "page_title": "vivenu",
+        "page_summary": "Cornell Symphony Orchestra and Jazz Ensemble present The Nutcracker Suite Buy tickets for @Bailey Hall on 12/07/2025, Ithaca from vivenu. The Cornell Symphony Orchestra and Jazz Ensemble join forces to present The Nutcracker Suite x 2! Alternating...",
+        "total_clicks": 18,
+        "unique_clicks": 11
+      },
+      {
+        "url": "https://events.cornell.edu/event/cornell-chorus-glee-club-lessons-carols-cu-music-9916",
+        "display": "events.cornell.edu/event/cornell-chorus-glee-club-lessons-carols-cu-music-9916",
+        "page_title": "Cornell Chorus & Glee Club: Lessons & Carols (CU Music) - Cornell",
+        "page_summary": "Cornell University Lessons and Carols sung by the Cornell University Chorus and Glee Club, interspersed with traditional readings by members of the Cornell community.\n\nNote: doors will open at 6:30pm. There is no indoor waiting area at Sage Chapel...",
+        "total_clicks": 6,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://einaudi.cornell.edu/discover/people/joshua-chun-wah-kam",
+        "display": "einaudi.cornell.edu/discover/people/joshua-chun-wah-kam",
+        "page_title": "Joshua Chun Wah Kam | Einaudi Center",
+        "page_summary": "Degree Pursued: PhD Anticipated Degree Year: 2026 Committee chair/advisor: Chiara Formichi Discipline: Asian Studies Primary Language: Javanese, Malay, English, Chinese, Indonesian Research Countries: General Southeast Asia",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://time.com/7335647/durian-malaysia-indonesia-singapore-southeast-asia-national-fruit-food-history/",
+        "display": "time.com/7335647/durian-malaysia-indonesia-singapore-southeast-asia-national-fruit-food-history",
+        "page_title": "Not Available",
+        "page_summary": "Malaysia’s bid to make durian its national fruit has once again stoked tensions over food with neighbors—but experts offer a different perspective.",
+        "total_clicks": 6,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://lrc.cornell.edu/lingua-mater",
+        "display": "lrc.cornell.edu/lingua-mater",
+        "page_title": "Lingua Mater | Language Resource Center",
+        "page_summary": "The Lingua Mater competition invites students to translate Cornell's Alma Mater into a different language and submit a video of the performed translation. The inaugural Lingua Mater competition took place in 2018 as part of Cornell's Global Grand ...",
+        "total_clicks": 5,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://events.cornell.edu/event/dallas-morse-coors-concert-series-presents-cecile-mclorin-salvant",
+        "display": "events.cornell.edu/event/dallas-morse-coors-concert-series-presents-cecile-mclorin-salvant",
+        "page_title": "Dallas Morse Coors Concert Series: Cécile McLorin Salvant - Cornell",
+        "page_summary": "Cécile McLorin Salvant, is a composer, singer, and visual artist. The late Jessye Norman described Salvant as “a unique voice supported by an intelligence and full-fledged musicality, which light up every note she sings”. Salvant has developed a p...",
+        "total_clicks": 4,
+        "unique_clicks": 1
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-12125?&utm_campaign=newsletter&utm_source=weekly-newsletter-12125",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-12125",
+        "page_title": "weekly newsletter 12125",
+        "page_summary": "Not Available",
+        "total_clicks": 3,
+        "unique_clicks": 2
+      }
+    ]
+  },
+  {
+    "filename": "staff-2025-12-01.xml",
+    "type": "staff",
+    "date": "2025-12-01",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Dean's scholars, nutcrackers and undergrad poets",
+    "mailed": 329,
+    "unique_opens": 193,
+    "opens": 392,
+    "open_rate": 58.7,
+    "unique_clicks": 45,
+    "total_clicks": 135,
+    "click_rate": 13.7,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/news/professor-emerita-stephanie-vaughn-writers-writer-dies-81",
+        "display": "as.cornell.edu/news/professor-emerita-stephanie-vaughn-writers-writer-dies-81",
+        "page_title": "Professor emerita Stephanie Vaughn, ‘writer’s writer,’ dies at 81",
+        "page_summary": "Vaughn taught creative writing and literature at Cornell for 39 years, retiring in 2022 as professor of literatures in English emerita.",
+        "total_clicks": 30,
+        "unique_clicks": 15
+      },
+      {
+        "url": "https://as.cornell.edu/news/nearly-60-students-recognized-pinning-ceremony?&utm_campaign=newsletter&utm_source=weekly-newsletter-12125",
+        "display": "as.cornell.edu/news/nearly-60-students-recognized-pinning-ceremony",
+        "page_title": "Nearly 60 students recognized at pinning ceremony",
+        "page_summary": "A&S-affiliated graduate students were among nearly 60 welcomed by the Graduate School as new Dean’s Scholars at an event to honor students selected for this distinction for academic excellence, leadership, and service.",
+        "total_clicks": 30,
+        "unique_clicks": 14
+      },
+      {
+        "url": "https://vivenu.com/event/cornell-symphony-orchestra-and-jazz-ensemble-pre-hi368r",
+        "display": "vivenu.com/event/cornell-symphony-orchestra-and-jazz-ensemble-pre-hi368r",
+        "page_title": "vivenu",
+        "page_summary": "Cornell Symphony Orchestra and Jazz Ensemble present The Nutcracker Suite Buy tickets for @Bailey Hall on 12/07/2025, Ithaca from vivenu. The Cornell Symphony Orchestra and Jazz Ensemble join forces to present The Nutcracker Suite x 2! Alternating...",
+        "total_clicks": 17,
+        "unique_clicks": 9
+      },
+      {
+        "url": "https://as.cornell.edu/news/professor-emeritus-howard-howland-expert-eyes-dies-92",
+        "display": "as.cornell.edu/news/professor-emeritus-howard-howland-expert-eyes-dies-92",
+        "page_title": "Professor emeritus Howard Howland, expert on eyes, dies at 92",
+        "page_summary": "Howard Howland, Ph.D. ’68, a neurophysiologist who studied the eyes of humans and animals, died Oct. 26 in Ithaca. He was 92.",
+        "total_clicks": 14,
+        "unique_clicks": 7
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-12125?&utm_campaign=newsletter&utm_source=weekly-newsletter-12125",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-12125",
+        "page_title": "weekly newsletter 12125",
+        "page_summary": "Not Available",
+        "total_clicks": 10,
+        "unique_clicks": 5
+      },
+      {
+        "url": "https://lrc.cornell.edu/lingua-mater",
+        "display": "lrc.cornell.edu/lingua-mater",
+        "page_title": "Lingua Mater | Language Resource Center",
+        "page_summary": "The Lingua Mater competition invites students to translate Cornell's Alma Mater into a different language and submit a video of the performed translation. The inaugural Lingua Mater competition took place in 2018 as part of Cornell's Global Grand ...",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://events.cornell.edu/event/cornell-chorus-glee-club-lessons-carols-cu-music-9916",
+        "display": "events.cornell.edu/event/cornell-chorus-glee-club-lessons-carols-cu-music-9916",
+        "page_title": "Cornell Chorus & Glee Club: Lessons & Carols (CU Music) - Cornell",
+        "page_summary": "Cornell University Lessons and Carols sung by the Cornell University Chorus and Glee Club, interspersed with traditional readings by members of the Cornell community.\n\nNote: doors will open at 6:30pm. There is no indoor waiting area at Sage Chapel...",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://time.com/7335647/durian-malaysia-indonesia-singapore-southeast-asia-national-fruit-food-history/",
+        "display": "time.com/7335647/durian-malaysia-indonesia-singapore-southeast-asia-national-fruit-food-history",
+        "page_title": "Not Available",
+        "page_summary": "Malaysia’s bid to make durian its national fruit has once again stoked tensions over food with neighbors—but experts offer a different perspective.",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://events.cornell.edu/event/dallas-morse-coors-concert-series-presents-cecile-mclorin-salvant",
+        "display": "events.cornell.edu/event/dallas-morse-coors-concert-series-presents-cecile-mclorin-salvant",
+        "page_title": "Dallas Morse Coors Concert Series: Cécile McLorin Salvant - Cornell",
+        "page_summary": "Cécile McLorin Salvant, is a composer, singer, and visual artist. The late Jessye Norman described Salvant as “a unique voice supported by an intelligence and full-fledged musicality, which light up every note she sings”. Salvant has developed a p...",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://vivenu.com/event/dallas-morse-coors-concert-series-cecile-mclorin-e6oa9t",
+        "display": "vivenu.com/event/dallas-morse-coors-concert-series-cecile-mclorin-e6oa9t",
+        "page_title": "vivenu",
+        "page_summary": "Dallas Morse Coors Concert Series: Cécile McLorin Salvant Buy tickets for @Bailey Hall on 12/05/2025, Ithaca from vivenu. Cécile McLorin Salvant, is a composer, singer, and visual artist with a passion for storytelling and finding the connections ...",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      }
+    ]
+  },
+  {
     "filename": "faculty-2025-11-24.xml",
     "type": "faculty",
     "date": "2025-11-24",
@@ -1252,6 +2232,104 @@
         "display": "as.cornell.edu",
         "page_title": "The College of Arts & Sciences, Cornell University",
         "page_summary": "Liberal arts college at Cornell University. A home for exploration, discovery and imagination. Undergraduate, faculty excellence in research and education. Academic diversity in the humanities, biological sciences and discipline-based education.",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      }
+    ]
+  },
+  {
+    "filename": "staff-2025-11-24.xml",
+    "type": "staff",
+    "date": "2025-11-24",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Atomic dancing, student films and best wishes for break",
+    "mailed": 329,
+    "unique_opens": 170,
+    "opens": 335,
+    "open_rate": 51.7,
+    "unique_clicks": 17,
+    "total_clicks": 54,
+    "click_rate": 5.2,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/news/portraits-honor-8-cornell-faculty-new-heroes?&utm_campaign=newsletter&utm_source=weekly-newsletter-112425",
+        "display": "as.cornell.edu/news/portraits-honor-8-cornell-faculty-new-heroes",
+        "page_title": "Portraits honor 8 Cornell faculty as ‘new heroes’",
+        "page_summary": "The portraits are part of a series by Christopher Michel, the National Academies of Sciences, Engineering and Medicine’s inaugural artist-in-residence.",
+        "total_clicks": 20,
+        "unique_clicks": 8
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-112425?&utm_campaign=newsletter&utm_source=weekly-newsletter-112425",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-112425",
+        "page_title": "Weekly newsletter, 112425",
+        "page_summary": "Not Available",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/11/light-causes-atomic-layers-do-twist",
+        "display": "news.cornell.edu/stories/2025/11/light-causes-atomic-layers-do-twist",
+        "page_title": "Light causes atomic layers to do the twist | Cornell Chronicle",
+        "page_summary": "Using a Cornell-built instrument and Cornell-built high-speed detector, a team of researchers captured atomically thin materials responding to light with a dynamic twisting motion.",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/11/universities-role-society-goes-beyond-education-research",
+        "display": "news.cornell.edu/stories/2025/11/universities-role-society-goes-beyond-education-research",
+        "page_title": "Universities’ role in society goes beyond education, research | Cornell Chronicle",
+        "page_summary": "Americans broadly agree that universities should engage in a range of societal issues beyond their core education and research missions – while avoiding political activism, new economics research finds.",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://youtu.be/PWBMEwtSB6o?si=2R-eu1p-EBeu1d9D",
+        "display": "youtu.be/PWBMEwtSB6o?si=2R-eu1p-EBeu1d9D",
+        "page_title": "Not Available",
+        "page_summary": "Not Available",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://government.cornell.edu/allen-r-carlson",
+        "display": "government.cornell.edu/allen-r-carlson",
+        "page_title": "Allen R. Carlson | Department of Government",
+        "page_summary": "Not Available",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      },
+      {
+        "url": "https://as.cornell.edu?&utm_campaign=newsletter&utm_source=weekly-newsletter-112425",
+        "display": "as.cornell.edu",
+        "page_title": "The College of Arts & Sciences, Cornell University",
+        "page_summary": "Liberal arts college at Cornell University. A home for exploration, discovery and imagination. Undergraduate, faculty excellence in research and education. Academic diversity in the humanities, biological sciences and discipline-based education.",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      },
+      {
+        "url": "https://as.cornell.edu/news/career-development-targets-resources-students-tech-fields?&utm_campaign=newsletter&utm_source=weekly-newsletter-112425",
+        "display": "as.cornell.edu/news/career-development-targets-resources-students-tech-fields",
+        "page_title": "Career Development targets resources for students in tech fields",
+        "page_summary": "Tech students need to target specific organizations that match their interests, skills and values.",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      },
+      {
+        "url": "https://www.reuters.com/world/asia-pacific/china-suspends-japanese-film-releases-diplomatic-crisis-deepens-2025-11-18/",
+        "display": "www.reuters.com/world/asia-pacific/china-suspends-japanese-film-releases-diplomatic-crisis-deepens-2025-11-18",
+        "page_title": "Not Available",
+        "page_summary": "Not Available",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      },
+      {
+        "url": "https://www.scientificamerican.com/article/does-information-ever-really-disappear-physics-has-an-answer/",
+        "display": "www.scientificamerican.com/article/does-information-ever-really-disappear-physics-has-an-answer",
+        "page_title": "Does information ever really disappear? Physics has an answer | Scientific American",
+        "page_summary": "Black holes and quantum mechanics present a paradox about the preservation of information",
         "total_clicks": 2,
         "unique_clicks": 1
       }
@@ -1356,6 +2434,586 @@
     ]
   },
   {
+    "filename": "faculty-2025-11-17.xml",
+    "type": "faculty",
+    "date": "2025-11-17",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Agreeing to disagree, life on other worlds",
+    "mailed": 716,
+    "unique_opens": 480,
+    "opens": 984,
+    "open_rate": 67.0,
+    "unique_clicks": 89,
+    "total_clicks": 235,
+    "click_rate": 12.4,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/news/new-course-encourages-students-embrace-disagreement?&utm_campaign=newsletter&utm_source=weekly-newsletter-111725",
+        "display": "as.cornell.edu/news/new-course-encourages-students-embrace-disagreement",
+        "page_title": "New course encourages students to embrace disagreement",
+        "page_summary": "A new course being offered will give students the chance to consider some of the most polarizing issues in our world today.",
+        "total_clicks": 100,
+        "unique_clicks": 47
+      },
+      {
+        "url": "https://as.cornell.edu/news/launches-cornell-los-angeles-semester-study-away?&utm_campaign=newsletter&utm_source=weekly-newsletter-111725",
+        "display": "as.cornell.edu/news/launches-cornell-los-angeles-semester-study-away",
+        "page_title": "A&S launches Cornell in Los Angeles semester study away",
+        "page_summary": "The program will place students in Hollywood for a semester of coursework, networking, and cultural immersion.",
+        "total_clicks": 21,
+        "unique_clicks": 11
+      },
+      {
+        "url": "https://as.cornell.edu/news/translation-offers-english-readers-passage-satirical-island-hermaphrodites?&utm_campaign=newsletter&utm_source=weekly-newsletter-111725",
+        "display": "as.cornell.edu/news/translation-offers-english-readers-passage-satirical-island-hermaphrodites",
+        "page_title": "Translation offers English readers passage to satirical ‘Island of Hermaphrodites’",
+        "page_summary": "The novel, published anonymously in 1605, is \"a very funny critique of court life that resonates for anyone dealing with very hierarchical institutions in which the exercise of power is often inscrutable and seemingly random,” says professor Kathl...",
+        "total_clicks": 20,
+        "unique_clicks": 10
+      },
+      {
+        "url": "https://as.cornell.edu/news/building-university-cultures-open-inquiry-nov-18-talk?&utm_campaign=newsletter&utm_source=weekly-newsletter-111725?&utm_campaign=newsletter&utm_source=weekly-newsletter-111725",
+        "display": "as.cornell.edu/news/building-university-cultures-open-inquiry-nov-18-talk",
+        "page_title": "Building university cultures of open inquiry: Nov. 18 talk",
+        "page_summary": "John Tomasi, the inaugural president of Heterodox Academy, will speak on “The University at a Crossroads – and How We Can Build Cultures of Open Inquiry” as part of a series of events organized by the Provost’s Committee on the Future of the Ameri...",
+        "total_clicks": 19,
+        "unique_clicks": 10
+      },
+      {
+        "url": "https://as.cornell.edu/news/combining-humanities-and-tech-research-gains?&utm_campaign=newsletter&utm_source=weekly-newsletter-111725",
+        "display": "as.cornell.edu/news/combining-humanities-and-tech-research-gains",
+        "page_title": "Combining humanities and tech for research gains",
+        "page_summary": "An interdisciplinary project is sparking collaborations among those interested in digital approaches to the study of history, languages and culture.",
+        "total_clicks": 15,
+        "unique_clicks": 8
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-111725?&utm_campaign=newsletter&utm_source=weekly-newsletter-111725",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-111725",
+        "page_title": "Weekly newsletter, 111725",
+        "page_summary": "Not Available",
+        "total_clicks": 12,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/news/how-spot-life-clouds-other-worlds?&utm_campaign=newsletter&utm_source=weekly-newsletter-111725",
+        "display": "as.cornell.edu/news/how-spot-life-clouds-other-worlds",
+        "page_title": "How to spot life in the clouds on other worlds",
+        "page_summary": "Cornell researchers have created the first reflectance spectra – a color-coded key – of microorganisms that live in the clouds floating above Earth’s surface.",
+        "total_clicks": 11,
+        "unique_clicks": 7
+      },
+      {
+        "url": "https://as.cornell.edu/news/nathan-seiberg-explores-frontiers-physics-2025-bethe-lecture?&utm_campaign=newsletter&utm_source=weekly-newsletter-111725",
+        "display": "as.cornell.edu/news/nathan-seiberg-explores-frontiers-physics-2025-bethe-lecture",
+        "page_title": "Nathan Seiberg explores frontiers of physics in 2025 Bethe Lecture",
+        "page_summary": "Seiberg, professor in the School of Natural Sciences at the Institute for Advanced Study, will explore string theory and other aspects of scientific progress.",
+        "total_clicks": 7,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/news/chemist-geoffrey-coates-wins-benjamin-franklin-medal?&utm_campaign=newsletter&utm_source=weekly-newsletter-111725",
+        "display": "as.cornell.edu/news/chemist-geoffrey-coates-wins-benjamin-franklin-medal",
+        "page_title": "Chemist Geoffrey Coates wins Benjamin Franklin Medal",
+        "page_summary": "Coates is being recognized “for transformative work at the interface of chemical catalyst design and polymer science.”",
+        "total_clicks": 5,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://as.cornell.edu/news/chemist-geoffrey-coates-wins-benjamin-franklin-medal?&utm_campaign=newsletter&utm_source=weekly-newsletter-111725?&utm_campaign=newsletter&utm_source=weekly-newsletter-111725",
+        "display": "as.cornell.edu/news/chemist-geoffrey-coates-wins-benjamin-franklin-medal",
+        "page_title": "Chemist Geoffrey Coates wins Benjamin Franklin Medal",
+        "page_summary": "Coates is being recognized “for transformative work at the interface of chemical catalyst design and polymer science.”",
+        "total_clicks": 5,
+        "unique_clicks": 3
+      }
+    ]
+  },
+  {
+    "filename": "staff-2025-11-17.xml",
+    "type": "staff",
+    "date": "2025-11-17",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Agreeing to disagree, life on other worlds",
+    "mailed": 329,
+    "unique_opens": 191,
+    "opens": 392,
+    "open_rate": 58.1,
+    "unique_clicks": 41,
+    "total_clicks": 145,
+    "click_rate": 12.5,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/news/new-course-encourages-students-embrace-disagreement?&utm_campaign=newsletter&utm_source=weekly-newsletter-111725",
+        "display": "as.cornell.edu/news/new-course-encourages-students-embrace-disagreement",
+        "page_title": "New course encourages students to embrace disagreement",
+        "page_summary": "A new course being offered will give students the chance to consider some of the most polarizing issues in our world today.",
+        "total_clicks": 32,
+        "unique_clicks": 16
+      },
+      {
+        "url": "https://events.cornell.edu/event/jane-austens-250th-birthday-celebration",
+        "display": "events.cornell.edu/event/jane-austens-250th-birthday-celebration",
+        "page_title": "Jane Austen's 250th Birthday Celebration - Cornell",
+        "page_summary": "Join us for a night of dancing, card games and more to celebrate Jane Austen's 250th birthday! A regency dance workshop will take place from 5:45 PM to 6:45 PM. Snacks and refreshments will be available. \n\nThis event is open to all undergraduates....",
+        "total_clicks": 14,
+        "unique_clicks": 7
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-111725?&utm_campaign=newsletter&utm_source=weekly-newsletter-111725",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-111725",
+        "page_title": "Weekly newsletter, 111725",
+        "page_summary": "Not Available",
+        "total_clicks": 12,
+        "unique_clicks": 6
+      },
+      {
+        "url": "https://as.cornell.edu/news/chemist-geoffrey-coates-wins-benjamin-franklin-medal?&utm_campaign=newsletter&utm_source=weekly-newsletter-111725",
+        "display": "as.cornell.edu/news/chemist-geoffrey-coates-wins-benjamin-franklin-medal",
+        "page_title": "Chemist Geoffrey Coates wins Benjamin Franklin Medal",
+        "page_summary": "Coates is being recognized “for transformative work at the interface of chemical catalyst design and polymer science.”",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/news/physicist-john-reppy-wins-buckley-prize?&utm_campaign=newsletter&utm_source=weekly-newsletter-111725",
+        "display": "as.cornell.edu/news/physicist-john-reppy-wins-buckley-prize",
+        "page_title": "Physicist John Reppy wins Buckley Prize",
+        "page_summary": "Reppy was recognized along with David Bishop, Ph.D. ’78, for \"groundbreaking experiments\" they did on helium 50 years ago.",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://events.cornell.edu/event/share-inshare-out-end-of-semester-pma-dance-showcase",
+        "display": "events.cornell.edu/event/share-inshare-out-end-of-semester-pma-dance-showcase",
+        "page_title": "Share In/Share Out: End-of-Semester PMA Dance Showcase - Cornell",
+        "page_summary": "Join the Department of Performing and Media Arts for Share In/Share Out: End-of-Semester PMA Dance Showcase. The showcase will take place in the Class of ’56 Dance Studio Theatre, Schwartz Center for the Performing Arts, on Friday, November 21, at...",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/news/launches-cornell-los-angeles-semester-study-away?&utm_campaign=newsletter&utm_source=weekly-newsletter-111725",
+        "display": "as.cornell.edu/news/launches-cornell-los-angeles-semester-study-away",
+        "page_title": "A&S launches Cornell in Los Angeles semester study away",
+        "page_summary": "The program will place students in Hollywood for a semester of coursework, networking, and cultural immersion.",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/news/translation-offers-english-readers-passage-satirical-island-hermaphrodites?&utm_campaign=newsletter&utm_source=weekly-newsletter-111725",
+        "display": "as.cornell.edu/news/translation-offers-english-readers-passage-satirical-island-hermaphrodites",
+        "page_title": "Translation offers English readers passage to satirical ‘Island of Hermaphrodites’",
+        "page_summary": "The novel, published anonymously in 1605, is \"a very funny critique of court life that resonates for anyone dealing with very hierarchical institutions in which the exercise of power is often inscrutable and seemingly random,” says professor Kathl...",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/news/nathan-seiberg-explores-frontiers-physics-2025-bethe-lecture?&utm_campaign=newsletter&utm_source=weekly-newsletter-111725",
+        "display": "as.cornell.edu/news/nathan-seiberg-explores-frontiers-physics-2025-bethe-lecture",
+        "page_title": "Nathan Seiberg explores frontiers of physics in 2025 Bethe Lecture",
+        "page_summary": "Seiberg, professor in the School of Natural Sciences at the Institute for Advanced Study, will explore string theory and other aspects of scientific progress.",
+        "total_clicks": 7,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://events.cornell.edu/event/copy-of-stucky-ensemble-in-residence-splinter-reeds-performance-cu-music",
+        "display": "events.cornell.edu/event/copy-of-stucky-ensemble-in-residence-splinter-reeds-performance-cu-music",
+        "page_title": "Stucky Ensemble-in-Residence Splinter Reeds Performance (CU Music) - Cornell",
+        "page_summary": "Stucky Ensemble-in-Residence Splinter Reeds performs a concert of works inspired by birdsong, including the world premiere of Hugo Morales Murguía’s Migrations, and pieces by Sam Pluta, Carola Bauckholt, and Dai Fujikura.\n\nphoto credit: Lenny Gonz...",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      }
+    ]
+  },
+  {
+    "filename": "faculty-2025-11-10.xml",
+    "type": "faculty",
+    "date": "2025-11-10",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Poetry, \"do-gooders\" and using AI for good",
+    "mailed": 716,
+    "unique_opens": 455,
+    "opens": 871,
+    "open_rate": 63.5,
+    "unique_clicks": 49,
+    "total_clicks": 100,
+    "click_rate": 6.8,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/news/summoning-religion-mythology-and-memory-within-shop-divine?&utm_campaign=newsletter&utm_source=weekly-newsletter-111025",
+        "display": "as.cornell.edu/news/summoning-religion-mythology-and-memory-within-shop-divine",
+        "page_title": "Summoning religion, mythology and memory ‘Within the Shop of the Divine’",
+        "page_summary": "A Saint Anthony statue that glows in the dark lights the way into poems that connect people beyond death, visit holy sites, consider Satanic bargains and consult astrology.",
+        "total_clicks": 40,
+        "unique_clicks": 21
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/11/disclose-or-not-disclose-good-deeds-do-gooder-dilemma",
+        "display": "news.cornell.edu/stories/2025/11/disclose-or-not-disclose-good-deeds-do-gooder-dilemma",
+        "page_title": "The do-gooder dilemma: to disclose or not to disclose | Cornell Chronicle",
+        "page_summary": "People say they would feel worse telling others about their charitable acts than if they kept the news to themselves, or told others about their personal achievements, the study found.",
+        "total_clicks": 22,
+        "unique_clicks": 13
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/10/faculty-win-bezos-grants-use-ai-environmental-challenges",
+        "display": "news.cornell.edu/stories/2025/10/faculty-win-bezos-grants-use-ai-environmental-challenges",
+        "page_title": "Faculty win Bezos grants to use AI for environmental challenges | Cornell Chronicle",
+        "page_summary": "Cornell has won three of 15 major grants from the Bezos Earth Fund, awarded to leverage artificial intelligence in the fight against climate change and environmental challenges.",
+        "total_clicks": 10,
+        "unique_clicks": 5
+      },
+      {
+        "url": "https://researchservices.cornell.edu/events/funding-series-AI",
+        "display": "researchservices.cornell.edu/events/funding-series-AI",
+        "page_title": "Collaborative Pathways for AI Funding Panel (November 2025) | Cornell Research Services",
+        "page_summary": "Explore how collaborative partnerships drive AI research innovation and funding success. Engage with Cornell faculty who have successfully built impactful collaborations and learn about institutional resources, including the Cornell AI Initiative.",
+        "total_clicks": 7,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://www.instagram.com/p/DQCgW4vkeS1/",
+        "display": "www.instagram.com/p/DQCgW4vkeS1",
+        "page_title": "Not Available",
+        "page_summary": "23 likes, 0 comments - cornellcurb on October 20, 2025: \"Get excited for CURBx Fall 2025!!! We have some amazing undergraduate researchers coming to discuss their projects with us. We hope to see you there!\".",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://as.cornell.edu/news/event-considers-political-lessons-learned-covid?&utm_campaign=newsletter&utm_source=weekly-newsletter-111025",
+        "display": "as.cornell.edu/news/event-considers-political-lessons-learned-covid",
+        "page_title": "Event considers political lessons learned from COVID",
+        "page_summary": "A Nov. 13 event sponsored by the College of Arts & Sciences will feature reflections on the political and social context and consequences of the Covid epidemic.",
+        "total_clicks": 4,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://scl.cornell.edu/growth-opportunities/national-fellowships",
+        "display": "scl.cornell.edu/growth-opportunities/national-fellowships",
+        "page_title": "Office of National Fellowships | Office of National Fellowships",
+        "page_summary": "Not Available",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://as.cornell.edu?&utm_campaign=newsletter&utm_source=weekly-newsletter-111025",
+        "display": "as.cornell.edu",
+        "page_title": "The College of Arts & Sciences, Cornell University",
+        "page_summary": "Liberal arts college at Cornell University. A home for exploration, discovery and imagination. Undergraduate, faculty excellence in research and education. Academic diversity in the humanities, biological sciences and discipline-based education.",
+        "total_clicks": 3,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-111025?&utm_campaign=newsletter&utm_source=weekly-newsletter-111025",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-111025",
+        "page_title": "weekly newsletter 111025",
+        "page_summary": "Not Available",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      },
+      {
+        "url": "https://as.cornell.edu/news/indonesian-women-created-political-voice-through-gendered-care-work?&utm_campaign=newsletter&utm_source=weekly-newsletter-111025",
+        "display": "as.cornell.edu/news/indonesian-women-created-political-voice-through-gendered-care-work",
+        "page_title": "Indonesian women created a political voice through gendered care work",
+        "page_summary": "In \"Domestic Nationalism,\" Chiara Formichi argues that during the 1920s to 1950s, Indonesian women’s domestic activities contributed to nation-building as a political project.",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      }
+    ]
+  },
+  {
+    "filename": "staff-2025-11-10.xml",
+    "type": "staff",
+    "date": "2025-11-10",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Poetry, \"do-gooders\" and using AI for good",
+    "mailed": 329,
+    "unique_opens": 185,
+    "opens": 373,
+    "open_rate": 56.2,
+    "unique_clicks": 38,
+    "total_clicks": 118,
+    "click_rate": 11.6,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://news.cornell.edu/stories/2025/11/disclose-or-not-disclose-good-deeds-do-gooder-dilemma",
+        "display": "news.cornell.edu/stories/2025/11/disclose-or-not-disclose-good-deeds-do-gooder-dilemma",
+        "page_title": "The do-gooder dilemma: to disclose or not to disclose | Cornell Chronicle",
+        "page_summary": "People say they would feel worse telling others about their charitable acts than if they kept the news to themselves, or told others about their personal achievements, the study found.",
+        "total_clicks": 33,
+        "unique_clicks": 14
+      },
+      {
+        "url": "https://as.cornell.edu/news/summoning-religion-mythology-and-memory-within-shop-divine?&utm_campaign=newsletter&utm_source=weekly-newsletter-111025",
+        "display": "as.cornell.edu/news/summoning-religion-mythology-and-memory-within-shop-divine",
+        "page_title": "Summoning religion, mythology and memory ‘Within the Shop of the Divine’",
+        "page_summary": "A Saint Anthony statue that glows in the dark lights the way into poems that connect people beyond death, visit holy sites, consider Satanic bargains and consult astrology.",
+        "total_clicks": 26,
+        "unique_clicks": 13
+      },
+      {
+        "url": "https://scl.cornell.edu/growth-opportunities/national-fellowships",
+        "display": "scl.cornell.edu/growth-opportunities/national-fellowships",
+        "page_title": "Office of National Fellowships | Office of National Fellowships",
+        "page_summary": "Not Available",
+        "total_clicks": 11,
+        "unique_clicks": 6
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/10/faculty-win-bezos-grants-use-ai-environmental-challenges",
+        "display": "news.cornell.edu/stories/2025/10/faculty-win-bezos-grants-use-ai-environmental-challenges",
+        "page_title": "Faculty win Bezos grants to use AI for environmental challenges | Cornell Chronicle",
+        "page_summary": "Cornell has won three of 15 major grants from the Bezos Earth Fund, awarded to leverage artificial intelligence in the fight against climate change and environmental challenges.",
+        "total_clicks": 10,
+        "unique_clicks": 5
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-111025?&utm_campaign=newsletter&utm_source=weekly-newsletter-111025",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-111025",
+        "page_title": "weekly newsletter 111025",
+        "page_summary": "Not Available",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/news/event-considers-political-lessons-learned-covid?&utm_campaign=newsletter&utm_source=weekly-newsletter-111025",
+        "display": "as.cornell.edu/news/event-considers-political-lessons-learned-covid",
+        "page_title": "Event considers political lessons learned from COVID",
+        "page_summary": "A Nov. 13 event sponsored by the College of Arts & Sciences will feature reflections on the political and social context and consequences of the Covid epidemic.",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/news/indonesian-women-created-political-voice-through-gendered-care-work?&utm_campaign=newsletter&utm_source=weekly-newsletter-111025",
+        "display": "as.cornell.edu/news/indonesian-women-created-political-voice-through-gendered-care-work",
+        "page_title": "Indonesian women created a political voice through gendered care work",
+        "page_summary": "In \"Domestic Nationalism,\" Chiara Formichi argues that during the 1920s to 1950s, Indonesian women’s domestic activities contributed to nation-building as a political project.",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://www.instagram.com/p/DQCgW4vkeS1/",
+        "display": "www.instagram.com/p/DQCgW4vkeS1",
+        "page_title": "Not Available",
+        "page_summary": "23 likes, 0 comments - cornellcurb on October 20, 2025: \"Get excited for CURBx Fall 2025!!! We have some amazing undergraduate researchers coming to discuss their projects with us. We hope to see you there!\".",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://www.forbes.com/sites/emmawoollacott/2025/11/06/conservatives-more-likely-to-share-poor-quality-news/",
+        "display": "www.forbes.com/sites/emmawoollacott/2025/11/06/conservatives-more-likely-to-share-poor-quality-news",
+        "page_title": "Not Available",
+        "page_summary": "Not Available",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://researchservices.cornell.edu/events/funding-series-AI",
+        "display": "researchservices.cornell.edu/events/funding-series-AI",
+        "page_title": "Collaborative Pathways for AI Funding Panel (November 2025) | Cornell Research Services",
+        "page_summary": "Explore how collaborative partnerships drive AI research innovation and funding success. Engage with Cornell faculty who have successfully built impactful collaborations and learn about institutional resources, including the Cornell AI Initiative.",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      }
+    ]
+  },
+  {
+    "filename": "faculty-2025-11-03.xml",
+    "type": "faculty",
+    "date": "2025-11-03",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Tadpole evolution and Civil War hauntings",
+    "mailed": 716,
+    "unique_opens": 471,
+    "opens": 915,
+    "open_rate": 65.8,
+    "unique_clicks": 28,
+    "total_clicks": 67,
+    "click_rate": 3.9,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/news/which-discipline-should-survive-end-world?&utm_campaign=newsletter&utm_source=weekly-newsletter-11325",
+        "display": "as.cornell.edu/news/which-discipline-should-survive-end-world",
+        "page_title": "Which discipline should survive the end of the world?",
+        "page_summary": "Five professors from across campus will advocate that their discipline is the most important to save for the future in the annual Apocalypse Debate Nov. 6.",
+        "total_clicks": 27,
+        "unique_clicks": 13
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/10/civil-war-still-haunts-american-attitudes-toward-democracy",
+        "display": "news.cornell.edu/stories/2025/10/civil-war-still-haunts-american-attitudes-toward-democracy",
+        "page_title": "Civil War still haunts American attitudes toward democracy | Cornell Chronicle",
+        "page_summary": "A new book by Shirley Samuels examines the story behind today’s divided America in literature and art created during and soon after the Civil War.",
+        "total_clicks": 16,
+        "unique_clicks": 8
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/10/once-tadpoles-lose-lungs-they-never-get-them-back",
+        "display": "news.cornell.edu/stories/2025/10/once-tadpoles-lose-lungs-they-never-get-them-back",
+        "page_title": "Once tadpoles lose lungs, they never get them back | Cornell Chronicle",
+        "page_summary": "Tadpole species that lost their lungs through evolution never re-evolve them, even when environmental change would make it advantageous.",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-11325?&utm_campaign=newsletter&utm_source=weekly-newsletter-11325",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-11325",
+        "page_title": "Weekly newsletter, 11325",
+        "page_summary": "Not Available",
+        "total_clicks": 6,
+        "unique_clicks": 2
+      },
+      {
+        "url": "http://news.cornell.edu/stories/2025/10/new-view-electrocatalytic-intermediates-could-boost-hydrogen-production",
+        "display": "news.cornell.edu/stories/2025/10/new-view-electrocatalytic-intermediates-could-boost-hydrogen-production",
+        "page_title": "New view of electrocatalytic intermediates could boost hydrogen production | Cornell Chronicle",
+        "page_summary": "Researchers used single-molecule super-resolution reaction imaging to gain a clearer view of what happens, and where, in surface metal-hydrogen intermediates, which spark electrocatalytic transformations.",
+        "total_clicks": 3,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://time.com/7327223/understand-trump-roman-empire/",
+        "display": "time.com/7327223/understand-trump-roman-empire",
+        "page_title": "Not Available",
+        "page_summary": "President Donald Trump's \"leadership approach is very American. But it is also very Roman,\" writes Barry Strauss.",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      },
+      {
+        "url": "https://history.cornell.edu/barry-stuart-strauss",
+        "display": "history.cornell.edu/barry-stuart-strauss",
+        "page_title": "Barry Stuart Strauss | Department of History",
+        "page_summary": "Not Available",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      },
+      {
+        "url": "https://events.cornell.edu/event/book-talk-judd-kessler-lucky-by-design",
+        "display": "events.cornell.edu/event/book-talk-judd-kessler-lucky-by-design",
+        "page_title": "Book Talk | Judd Kessler | Lucky by Design  - Cornell",
+        "page_summary": "Judd Kessler, University of Pennsylvania \n\nLucky by Design: The Hidden Economics You Need to Get More of What You Want \n\nfirst 100 students receive a free copy of the book!!!",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      },
+      {
+        "url": "https://as.cornell.edu?&utm_campaign=newsletter&utm_source=weekly-newsletter-11325",
+        "display": "as.cornell.edu",
+        "page_title": "The College of Arts & Sciences, Cornell University",
+        "page_summary": "Liberal arts college at Cornell University. A home for exploration, discovery and imagination. Undergraduate, faculty excellence in research and education. Academic diversity in the humanities, biological sciences and discipline-based education.",
+        "total_clicks": 1,
+        "unique_clicks": 1
+      }
+    ]
+  },
+  {
+    "filename": "staff-2025-11-03.xml",
+    "type": "staff",
+    "date": "2025-11-03",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Tadpole evolution and Civil War hauntings",
+    "mailed": 329,
+    "unique_opens": 170,
+    "opens": 317,
+    "open_rate": 51.7,
+    "unique_clicks": 19,
+    "total_clicks": 54,
+    "click_rate": 5.8,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://news.cornell.edu/stories/2025/10/civil-war-still-haunts-american-attitudes-toward-democracy",
+        "display": "news.cornell.edu/stories/2025/10/civil-war-still-haunts-american-attitudes-toward-democracy",
+        "page_title": "Civil War still haunts American attitudes toward democracy | Cornell Chronicle",
+        "page_summary": "A new book by Shirley Samuels examines the story behind today’s divided America in literature and art created during and soon after the Civil War.",
+        "total_clicks": 14,
+        "unique_clicks": 8
+      },
+      {
+        "url": "https://as.cornell.edu/news/which-discipline-should-survive-end-world?&utm_campaign=newsletter&utm_source=weekly-newsletter-11325",
+        "display": "as.cornell.edu/news/which-discipline-should-survive-end-world",
+        "page_title": "Which discipline should survive the end of the world?",
+        "page_summary": "Five professors from across campus will advocate that their discipline is the most important to save for the future in the annual Apocalypse Debate Nov. 6.",
+        "total_clicks": 10,
+        "unique_clicks": 5
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-11325?&utm_campaign=newsletter&utm_source=weekly-newsletter-11325",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-11325",
+        "page_title": "Weekly newsletter, 11325",
+        "page_summary": "Not Available",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/10/once-tadpoles-lose-lungs-they-never-get-them-back",
+        "display": "news.cornell.edu/stories/2025/10/once-tadpoles-lose-lungs-they-never-get-them-back",
+        "page_title": "Once tadpoles lose lungs, they never get them back | Cornell Chronicle",
+        "page_summary": "Tadpole species that lost their lungs through evolution never re-evolve them, even when environmental change would make it advantageous.",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "http://news.cornell.edu/stories/2025/10/new-view-electrocatalytic-intermediates-could-boost-hydrogen-production",
+        "display": "news.cornell.edu/stories/2025/10/new-view-electrocatalytic-intermediates-could-boost-hydrogen-production",
+        "page_title": "New view of electrocatalytic intermediates could boost hydrogen production | Cornell Chronicle",
+        "page_summary": "Researchers used single-molecule super-resolution reaction imaging to gain a clearer view of what happens, and where, in surface metal-hydrogen intermediates, which spark electrocatalytic transformations.",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://events.cornell.edu/event/colloquium-on-climate-and-community-engaged-science-in-psychology-and-human-development",
+        "display": "events.cornell.edu/event/colloquium-on-climate-and-community-engaged-science-in-psychology-and-human-development",
+        "page_title": "Colloquium on Climate- and Community-Engaged Science in Psychology and Human Development  - Cornell",
+        "page_summary": "Although their experiments are carried out in controlled settings, scientists inhabit the real world, which is complex, political, and in dire need of repair and improvement. As citizens of a global society, we have a responsibility to engage with...",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://time.com/7327223/understand-trump-roman-empire/",
+        "display": "time.com/7327223/understand-trump-roman-empire",
+        "page_title": "Not Available",
+        "page_summary": "President Donald Trump's \"leadership approach is very American. But it is also very Roman,\" writes Barry Strauss.",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      },
+      {
+        "url": "https://abcnews.go.com/US/earth-moons-orbiting-astronomers-explain-quasi-moon/story?id=126770774",
+        "display": "abcnews.go.com/US/earth-moons-orbiting-astronomers-explain-quasi-moon/story?id=126770774",
+        "page_title": "Will Earth have 2 moons orbiting it? Astronomers explain the 'quasi-moon' - ABC News",
+        "page_summary": "Earth will have a visitor within its orbit for the next several decades, according to astronomers.",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      },
+      {
+        "url": "https://events.cornell.edu/event/book-talk-judd-kessler-lucky-by-design",
+        "display": "events.cornell.edu/event/book-talk-judd-kessler-lucky-by-design",
+        "page_title": "Book Talk | Judd Kessler | Lucky by Design  - Cornell",
+        "page_summary": "Judd Kessler, University of Pennsylvania \n\nLucky by Design: The Hidden Economics You Need to Get More of What You Want \n\nfirst 100 students receive a free copy of the book!!!",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      },
+      {
+        "url": "https://history.cornell.edu/barry-stuart-strauss",
+        "display": "history.cornell.edu/barry-stuart-strauss",
+        "page_title": "Barry Stuart Strauss | Department of History",
+        "page_summary": "Not Available",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      }
+    ]
+  },
+  {
     "filename": "students-2025-11-03.xml",
     "type": "students",
     "date": "2025-11-03",
@@ -1441,6 +3099,96 @@
         "page_title": "Not Available",
         "page_summary": "President Donald Trump's \"leadership approach is very American. But it is also very Roman,\" writes Barry Strauss.",
         "total_clicks": 1,
+        "unique_clicks": 1
+      }
+    ]
+  },
+  {
+    "filename": "faculty-2025-10-27.xml",
+    "type": "faculty",
+    "date": "2025-10-27",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: COVID, cancer and shipwreck artifacts",
+    "mailed": 716,
+    "unique_opens": 462,
+    "opens": 931,
+    "open_rate": 64.5,
+    "unique_clicks": 40,
+    "total_clicks": 102,
+    "click_rate": 5.6,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/news/event-considers-political-lessons-learned-covid?&utm_campaign=newsletter&utm_source=weekly-newsletter-102725",
+        "display": "as.cornell.edu/news/event-considers-political-lessons-learned-covid",
+        "page_title": "Event considers political lessons learned from COVID",
+        "page_summary": "A Nov. 13 event sponsored by the College of Arts & Sciences will feature reflections on the political and social context and consequences of the Covid epidemic.",
+        "total_clicks": 28,
+        "unique_clicks": 11
+      },
+      {
+        "url": "https://as.cornell.edu/news/objects-famous-shipwreck-tell-deeper-stories?&utm_campaign=newsletter&utm_source=weekly-newsletter-102725",
+        "display": "as.cornell.edu/news/objects-famous-shipwreck-tell-deeper-stories",
+        "page_title": "Objects from famous shipwreck tell deeper stories",
+        "page_summary": "La Pérouse’s expedition, wrecked in 1788, was intended to rival those of British explorer Captain James Cook and to bring the French renown in scientific knowledge. Through the visual materials related to the voyage and its wreck, Kelly Presutti t...",
+        "total_clicks": 25,
+        "unique_clicks": 11
+      },
+      {
+        "url": "https://events.cornell.edu/event/special-event-screening-chasing-time-2024",
+        "display": "events.cornell.edu/event/special-event-screening-chasing-time-2024",
+        "page_title": "Special Event Screening: “CHASING TIME” (2024) - Cornell",
+        "page_summary": "An A.D. White Professor-at-Large keynote event\n\nCHASING TIME (2024)\nTuesday, October 28\n6:00pm · Cornell Cinema\n40 min. short documentary, followed by Q&A with James Balog, A.D. White Professor-at-Large\nGet your free tickets at cornellcinema.event...",
+        "total_clicks": 19,
+        "unique_clicks": 8
+      },
+      {
+        "url": "https://government.cornell.edu/suzanne-mettler",
+        "display": "government.cornell.edu/suzanne-mettler",
+        "page_title": "Suzanne Mettler | Department of Government",
+        "page_summary": "Not Available",
+        "total_clicks": 12,
+        "unique_clicks": 6
+      },
+      {
+        "url": "https://events.cornell.edu/event/2025-cornell-neurotech-mong-family-foundation-symposium",
+        "display": "events.cornell.edu/event/2025-cornell-neurotech-mong-family-foundation-symposium",
+        "page_title": "2025 Cornell Neurotech Mong Family Foundation Symposium - Cornell",
+        "page_summary": "Featuring Mala Murthy and H. Sebastian Seung\n\nMala Murthy\nKarol and Marnie Marcin ’96 Professor of Neuroscience; and Director, Princeton Neuroscience Institute, Princeton University\n\nCircuit Mechanisms For Dynamic Social Interactions\nMala Murthy i...",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-102725?&utm_campaign=newsletter&utm_source=weekly-newsletter-102725",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-102725",
+        "page_title": "Weekly newsletter 102725",
+        "page_summary": "Not Available",
+        "total_clicks": 5,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://events.cornell.edu/event/citizen-scholar-public-engagement-for-social-scientists",
+        "display": "events.cornell.edu/event/citizen-scholar-public-engagement-for-social-scientists",
+        "page_title": "Citizen Scholar: Public Engagement for Social Scientists - Cornell",
+        "page_summary": "What is the role of professional scholars in civic life? How and why should academics seek to reach audiences beyond their disciplines and institutions? Must there be tension between advancing along an academic career path and taking part in publi...",
+        "total_clicks": 3,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://government.cornell.edu/kenneth-roberts",
+        "display": "government.cornell.edu/kenneth-roberts",
+        "page_title": "Kenneth Roberts | Department of Government",
+        "page_summary": "Not Available",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      },
+      {
+        "url": "https://events.cornell.edu/event/humanities-scholars-program-fall-open-house-2772",
+        "display": "events.cornell.edu/event/humanities-scholars-program-fall-open-house-2772",
+        "page_title": "Humanities Scholars Program Fall Open House - Cornell",
+        "page_summary": "CU First-years and sophomores from ANY college on campus: Considering a major or minor in a humanities field? Seeking a community of scholars with diverse humanities interests? Interested in completing a senior research project on a topic of your ...",
+        "total_clicks": 2,
         "unique_clicks": 1
       }
     ]
@@ -1537,6 +3285,300 @@
         "url": "https://www.reuters.com/world/us/trumps-colombia-tariffs-would-flip-us-policy-drugs-trade-2025-10-21/",
         "display": "www.reuters.com/world/us/trumps-colombia-tariffs-would-flip-us-policy-drugs-trade-2025-10-21",
         "page_title": "Not Available",
+        "page_summary": "Not Available",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      }
+    ]
+  },
+  {
+    "filename": "faculty-2025-10-20.xml",
+    "type": "faculty",
+    "date": "2025-10-20",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Kudos to our faculty award winners",
+    "mailed": 716,
+    "unique_opens": 500,
+    "opens": 946,
+    "open_rate": 69.8,
+    "unique_clicks": 74,
+    "total_clicks": 162,
+    "click_rate": 10.3,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/news/awards-and-honors?&utm_campaign=newsletter&utm_source=weekly-newsletter-101525?&utm_campaign=newsletter&utm_source=weekly-newsletter-102025",
+        "display": "as.cornell.edu/news/awards-and-honors",
+        "page_title": "Awards and Honors",
+        "page_summary": "Awards and honors received by faculty, postdocs and graduate students in the College of Arts & Sciences.",
+        "total_clicks": 50,
+        "unique_clicks": 22
+      },
+      {
+        "url": "https://as.cornell.edu/news/bulawayo-wins-25th-anniversary-best-caine-prize?&utm_campaign=newsletter&utm_source=weekly-newsletter-102025",
+        "display": "as.cornell.edu/news/bulawayo-wins-25th-anniversary-best-caine-prize",
+        "page_title": "Bulawayo wins 25th anniversary Best of Caine prize",
+        "page_summary": "NoViolet Bulawayo, M.F.A. ’10, assistant professor in A&S, has won the Best of Caine Award as judges have chosen her short story, “Hitting Budapest,” as the best to have won the Caine Prize for African Writing in the award’s 25 years.",
+        "total_clicks": 28,
+        "unique_clicks": 14
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/10/fuchs-hartman-elected-american-physical-society",
+        "display": "news.cornell.edu/stories/2025/10/fuchs-hartman-elected-american-physical-society",
+        "page_title": "Fuchs, Hartman elected to American Physical Society | Cornell Chronicle",
+        "page_summary": "Greg Fuchs, the James R. Meehl Professor in School of Applied and Engineering Physics, and Thomas Hartman, professor in the Department of Physics in the College of Arts and Sciences, have been elected as fellows of the American Physical Society.",
+        "total_clicks": 23,
+        "unique_clicks": 15
+      },
+      {
+        "url": "https://as.cornell.edu/news/zhao-wins-simons-foundation-fellows-faculty-award?&utm_campaign=newsletter&utm_source=weekly-newsletter-102025",
+        "display": "as.cornell.edu/news/zhao-wins-simons-foundation-fellows-faculty-award",
+        "page_title": "Zhao wins Simons Foundation Fellows-to-Faculty award",
+        "page_summary": "Zhao researches the neural mechanisms of parrot vocalizations in the Goldberg lab.",
+        "total_clicks": 15,
+        "unique_clicks": 8
+      },
+      {
+        "url": "https://as.cornell.edu/news/neuroscientist-azahara-oliva-receives-packard-fellowship?&utm_campaign=newsletter&utm_source=weekly-newsletter-102025",
+        "display": "as.cornell.edu/news/neuroscientist-azahara-oliva-receives-packard-fellowship",
+        "page_title": "Neuroscientist Azahara Oliva receives Packard Fellowship",
+        "page_summary": "The unrestricted fellowship funds enable Oliva and the 19 other fellows named this year to “test novel ideas and lead research that drives real-world impact.”",
+        "total_clicks": 12,
+        "unique_clicks": 5
+      },
+      {
+        "url": "https://as.cornell.edu/news/phantom-opera-live-score-invincible-czars?&utm_campaign=newsletter&utm_source=weekly-newsletter-102025",
+        "display": "as.cornell.edu/news/phantom-opera-live-score-invincible-czars",
+        "page_title": "The Phantom of the Opera: Live score by Invincible Czars",
+        "page_summary": "This October, Cornell Cinema will celebrate the 100th anniversary of the silent movie “The Phantom of the Opera,” with live musical accompaniment by The Invincible Czars.",
+        "total_clicks": 11,
+        "unique_clicks": 6
+      },
+      {
+        "url": "https://as.cornell.edu/news/cornell-composers-work-featured-upcoming-dallas-morse-coors-concert-series-event?&utm_campaign=newsletter&utm_source=weekly-newsletter-102025",
+        "display": "as.cornell.edu/news/cornell-composers-work-featured-upcoming-dallas-morse-coors-concert-series-event",
+        "page_title": "Cornell composer’s work featured in upcoming Dallas Morse Coors Concert Series event",
+        "page_summary": "A new work by Cornell alum Zachary Wadsworth DMA ’12, will premiere this weekend in three concerts, including one at Cornell’s Bailey Hall.",
+        "total_clicks": 7,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://www.nytimes.com/2025/10/11/business/dealbook/gold-prices-paradox.html",
+        "display": "www.nytimes.com/2025/10/11/business/dealbook/gold-prices-paradox.html",
+        "page_title": "Not Available",
+        "page_summary": "Not Available",
+        "total_clicks": 4,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-102025?&utm_campaign=newsletter&utm_source=weekly-newsletter-102025",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-102025",
+        "page_title": "Weekly newsletter 102025",
+        "page_summary": "Not Available",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://www.usnews.com/news/world/articles/2025-10-15/madagascars-military-coup-leader-tells-ap-he-is-taking-the-position-of-president",
+        "display": "www.usnews.com/news/world/articles/2025-10-15/madagascars-military-coup-leader-tells-ap-he-is-taking-the-position-of-president",
+        "page_title": "Not Available",
+        "page_summary": "Not Available",
+        "total_clicks": 3,
+        "unique_clicks": 2
+      }
+    ]
+  },
+  {
+    "filename": "staff-2025-10-20.xml",
+    "type": "staff",
+    "date": "2025-10-20",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Kudos to our faculty award winners",
+    "mailed": 328,
+    "unique_opens": 185,
+    "opens": 360,
+    "open_rate": 56.4,
+    "unique_clicks": 31,
+    "total_clicks": 93,
+    "click_rate": 9.5,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/news/hector-abruna-be-honored-dreyfus-prize-ceremony-oct-23?&utm_campaign=newsletter&utm_source=weekly-newsletter-102025",
+        "display": "as.cornell.edu/news/hector-abruna-be-honored-dreyfus-prize-ceremony-oct-23",
+        "page_title": "Héctor Abruña to be honored at Dreyfus Prize ceremony Oct. 23",
+        "page_summary": "The president of the Camille and Henry Dreyfus Foundation will present Abruña with the award in a 4 p.m. ceremony in the Meshri Family Auditorium, Baker Laboratory Room 200 and also livestreamed.",
+        "total_clicks": 20,
+        "unique_clicks": 8
+      },
+      {
+        "url": "https://as.cornell.edu/news/cornell-composers-work-featured-upcoming-dallas-morse-coors-concert-series-event?&utm_campaign=newsletter&utm_source=weekly-newsletter-102025",
+        "display": "as.cornell.edu/news/cornell-composers-work-featured-upcoming-dallas-morse-coors-concert-series-event",
+        "page_title": "Cornell composer’s work featured in upcoming Dallas Morse Coors Concert Series event",
+        "page_summary": "A new work by Cornell alum Zachary Wadsworth DMA ’12, will premiere this weekend in three concerts, including one at Cornell’s Bailey Hall.",
+        "total_clicks": 14,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/10/fuchs-hartman-elected-american-physical-society",
+        "display": "news.cornell.edu/stories/2025/10/fuchs-hartman-elected-american-physical-society",
+        "page_title": "Fuchs, Hartman elected to American Physical Society | Cornell Chronicle",
+        "page_summary": "Greg Fuchs, the James R. Meehl Professor in School of Applied and Engineering Physics, and Thomas Hartman, professor in the Department of Physics in the College of Arts and Sciences, have been elected as fellows of the American Physical Society.",
+        "total_clicks": 9,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/news/awards-and-honors?&utm_campaign=newsletter&utm_source=weekly-newsletter-101525?&utm_campaign=newsletter&utm_source=weekly-newsletter-102025",
+        "display": "as.cornell.edu/news/awards-and-honors",
+        "page_title": "Awards and Honors",
+        "page_summary": "Awards and honors received by faculty, postdocs and graduate students in the College of Arts & Sciences.",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/news/phantom-opera-live-score-invincible-czars?&utm_campaign=newsletter&utm_source=weekly-newsletter-102025",
+        "display": "as.cornell.edu/news/phantom-opera-live-score-invincible-czars",
+        "page_title": "The Phantom of the Opera: Live score by Invincible Czars",
+        "page_summary": "This October, Cornell Cinema will celebrate the 100th anniversary of the silent movie “The Phantom of the Opera,” with live musical accompaniment by The Invincible Czars.",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/news/zhao-wins-simons-foundation-fellows-faculty-award?&utm_campaign=newsletter&utm_source=weekly-newsletter-102025",
+        "display": "as.cornell.edu/news/zhao-wins-simons-foundation-fellows-faculty-award",
+        "page_title": "Zhao wins Simons Foundation Fellows-to-Faculty award",
+        "page_summary": "Zhao researches the neural mechanisms of parrot vocalizations in the Goldberg lab.",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-102025?&utm_campaign=newsletter&utm_source=weekly-newsletter-102025",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-102025",
+        "page_title": "Weekly newsletter 102025",
+        "page_summary": "Not Available",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/news/bulawayo-wins-25th-anniversary-best-caine-prize?&utm_campaign=newsletter&utm_source=weekly-newsletter-102025",
+        "display": "as.cornell.edu/news/bulawayo-wins-25th-anniversary-best-caine-prize",
+        "page_title": "Bulawayo wins 25th anniversary Best of Caine prize",
+        "page_summary": "NoViolet Bulawayo, M.F.A. ’10, assistant professor in A&S, has won the Best of Caine Award as judges have chosen her short story, “Hitting Budapest,” as the best to have won the Caine Prize for African Writing in the award’s 25 years.",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://www.nytimes.com/2025/10/11/business/dealbook/gold-prices-paradox.html",
+        "display": "www.nytimes.com/2025/10/11/business/dealbook/gold-prices-paradox.html",
+        "page_title": "Not Available",
+        "page_summary": "Not Available",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://www.usnews.com/news/world/articles/2025-10-15/madagascars-military-coup-leader-tells-ap-he-is-taking-the-position-of-president",
+        "display": "www.usnews.com/news/world/articles/2025-10-15/madagascars-military-coup-leader-tells-ap-he-is-taking-the-position-of-president",
+        "page_title": "Not Available",
+        "page_summary": "Not Available",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      }
+    ]
+  },
+  {
+    "filename": "faculty-2025-10-15.xml",
+    "type": "faculty",
+    "date": "2025-10-15",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Welcome back",
+    "mailed": 716,
+    "unique_opens": 472,
+    "opens": 914,
+    "open_rate": 65.9,
+    "unique_clicks": 74,
+    "total_clicks": 161,
+    "click_rate": 10.3,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/news/awards-and-honors?&utm_campaign=newsletter&utm_source=weekly-newsletter-101525",
+        "display": "as.cornell.edu/news/awards-and-honors",
+        "page_title": "Awards and Honors",
+        "page_summary": "Awards and honors received by faculty, postdocs and graduate students in the College of Arts & Sciences.",
+        "total_clicks": 52,
+        "unique_clicks": 28
+      },
+      {
+        "url": "https://events.cornell.edu/event/ai-in-humanities-research",
+        "display": "events.cornell.edu/event/ai-in-humanities-research",
+        "page_title": "AI in Humanities Research - Cornell",
+        "page_summary": "AI Why seeks to foster campus-wide, interdisciplinary discussions on the role of AI applications in humanistic research. Join us for this roundtable discussion on “Using AI in Humanities Research”",
+        "total_clicks": 27,
+        "unique_clicks": 12
+      },
+      {
+        "url": "https://as.cornell.edu/news/master-storyteller-shares-secrets?&utm_campaign=newsletter&utm_source=weekly-newsletter-101525",
+        "display": "as.cornell.edu/news/master-storyteller-shares-secrets",
+        "page_title": "Master storyteller shares secrets",
+        "page_summary": "Author and editor Sam Tanenhaus reminded listeners that politically complex, and even morally ambiguous, material makes for great storytelling.",
+        "total_clicks": 20,
+        "unique_clicks": 9
+      },
+      {
+        "url": "https://as.cornell.edu/news/remembering-prof-debra-castillo-champion-latinx-students-community?&utm_campaign=newsletter&utm_source=weekly-newsletter-101525",
+        "display": "as.cornell.edu/news/remembering-prof-debra-castillo-champion-latinx-students-community",
+        "page_title": "Remembering Prof. Debra Castillo, champion of Latinx students, community",
+        "page_summary": "Professor Debra Castillo, Stephen H. Weiss presidential fellow and Emerson Hinchliff professor of Hispanic Studies in the College of Arts & Sciences, died Oct. 5 at the age of 72.",
+        "total_clicks": 18,
+        "unique_clicks": 9
+      },
+      {
+        "url": "https://as.cornell.edu/news/faculty-respond-request-share-progressive-teaching-ideas-study-shows?&utm_campaign=newsletter&utm_source=weekly-newsletter-101525",
+        "display": "as.cornell.edu/news/faculty-respond-request-share-progressive-teaching-ideas-study-shows",
+        "page_title": "Faculty respond to request to share progressive teaching ideas, study shows",
+        "page_summary": "The team found a significant uptick in the number of articles published after 2013 that focused on core concepts and competencies suggested in a seminal report.",
+        "total_clicks": 10,
+        "unique_clicks": 5
+      },
+      {
+        "url": "https://events.cornell.edu/event/midday-music-in-lincoln-bach-balch-and-brahms-cu-music",
+        "display": "events.cornell.edu/event/midday-music-in-lincoln-bach-balch-and-brahms-cu-music",
+        "page_title": "Midday Music in Lincoln: Bach, Balch, and Brahms (CU Music) - Cornell",
+        "page_summary": "Cello-piano duo Annie Hyung and Ariel Mo perform Bach’s Gamba Sonata No. 3 in G Minor, BWV 1029, Katherine Balch Prelude, and Brahms E Minor Cello Sonata, Op. 38. Balch's Prelude was composed to proceed attacca into the Brahms, providing a shockin...",
+        "total_clicks": 8,
+        "unique_clicks": 6
+      },
+      {
+        "url": "https://www.nytimes.com/2025/10/08/nyregion/seneca-lake-guns-drums.html",
+        "display": "www.nytimes.com/2025/10/08/nyregion/seneca-lake-guns-drums.html",
+        "page_title": "Not Available",
+        "page_summary": "Not Available",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://web.cvent.com/event/e0cf6908-2046-42fb-a3ff-b49eb2c4e699/summary",
+        "display": "web.cvent.com/event/e0cf6908-2046-42fb-a3ff-b49eb2c4e699/summary",
+        "page_title": "Archived Event - Special Event: A conversation with Richard Thaler",
+        "page_summary": "Not Available",
+        "total_clicks": 8,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://ecologyandevolution.cornell.edu/jed-p-sparks",
+        "display": "ecologyandevolution.cornell.edu/jed-p-sparks",
+        "page_title": "Jed P. Sparks | Department of Ecology and Evolutionary Biology",
+        "page_summary": "Not Available",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-101525?&utm_campaign=newsletter&utm_source=weekly-newsletter-101525",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-101525",
+        "page_title": "Weekly newsletter, 101525",
         "page_summary": "Not Available",
         "total_clicks": 2,
         "unique_clicks": 1
@@ -1642,6 +3684,194 @@
     ]
   },
   {
+    "filename": "faculty-2025-10-06.xml",
+    "type": "faculty",
+    "date": "2025-10-06",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Meet another Nobel laureate & our distinguished visiting journalist",
+    "mailed": 716,
+    "unique_opens": 475,
+    "opens": 857,
+    "open_rate": 66.3,
+    "unique_clicks": 30,
+    "total_clicks": 61,
+    "click_rate": 4.2,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/news/nobel-winning-behavioral-economist-richard-thaler-speak-oct-17?&utm_campaign=newsletter&utm_source=weekly-newsletter-100625",
+        "display": "as.cornell.edu/news/nobel-winning-behavioral-economist-richard-thaler-speak-oct-17",
+        "page_title": "Nobel-winning behavioral economist Richard Thaler to speak Oct. 17",
+        "page_summary": "Thaler won the Nobel Prize in 2017 for work done in the 1980s at Cornell. He is now the Charles R. Walgreen Distinguished Service Professor of Behavioral Science and Economics at the University of Chicago.",
+        "total_clicks": 20,
+        "unique_clicks": 10
+      },
+      {
+        "url": "https://events.cornell.edu/event/racker-lecture-series",
+        "display": "events.cornell.edu/event/racker-lecture-series",
+        "page_title": "Ef Racker Lecture: Nobel Laureate Jack Szostak, Ph.D. '77 \"The Origin of Life and the Nature of the First Cells\" - Cornell",
+        "page_summary": "Nobel laureate Jack Szostak, Ph.D. ’77, will return to campus to give the 2025 Ef Racker Lecture on Oct. 9.\n\nSzostak, a professor at the University of Chicago, won the 2009 Nobel Prize in Physiology or Medicine for discovering how chromosomes are ...",
+        "total_clicks": 14,
+        "unique_clicks": 8
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/10/physicist-after-33-billon-years-universe-will-end-big-crunch",
+        "display": "news.cornell.edu/stories/2025/10/physicist-after-33-billon-years-universe-will-end-big-crunch",
+        "page_title": "Physicist: After 33 billon years, universe ‘will end in a big crunch’ | Cornell Chronicle",
+        "page_summary": "After expanding to its peak size about 11 billion years from now, the universe will begin to contract – snapping back like a rubber band to a single point at the end, according to a Cornell physicist.",
+        "total_clicks": 9,
+        "unique_clicks": 6
+      },
+      {
+        "url": "https://as.cornell.edu/news/behavioral-economics-born-cornell-embraced-policymakers?&utm_campaign=newsletter&utm_source=weekly-newsletter-100625",
+        "display": "as.cornell.edu/news/behavioral-economics-born-cornell-embraced-policymakers",
+        "page_title": "Behavioral economics: Born at Cornell, embraced by policymakers",
+        "page_summary": "Economists and psychologists work together to understand how human behavior impacts people's decision-making in the marketplace.",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://neareasternstudies.cornell.edu/kim-haines-eitzen",
+        "display": "neareasternstudies.cornell.edu/kim-haines-eitzen",
+        "page_title": "Kim Haines-Eitzen | Department of Near Eastern Studies",
+        "page_summary": "Not Available",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      },
+      {
+        "url": "https://web.cvent.com/event/4fe8b4ee-43f1-41b8-9319-04c40b53190d/summary",
+        "display": "web.cvent.com/event/4fe8b4ee-43f1-41b8-9319-04c40b53190d/summary",
+        "page_title": "Archived Event - Environmental Defense Fund & Cornell Atkinson Collaboration-building Workshop for Competitive Funding 2026",
+        "page_summary": "Not Available",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-100625?&utm_campaign=newsletter&utm_source=weekly-newsletter-100625",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-100625",
+        "page_title": "weekly newsletter, 100625",
+        "page_summary": "Not Available",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      },
+      {
+        "url": "https://as.cornell.edu/news/journalist-offers-master-class-op-eds-narrative-storytelling?&utm_campaign=newsletter&utm_source=weekly-newsletter-100625",
+        "display": "as.cornell.edu/news/journalist-offers-master-class-op-eds-narrative-storytelling",
+        "page_title": "Journalist offers master class on op-eds, narrative storytelling",
+        "page_summary": "Journalist and biographer Sam Tanenhaus will share his writing expertise with the Cornell community in a master class, “Op-Eds and Narrative Storytelling, on Oct. 8 in Lewis Auditorium, Goldwin Smith Hall.",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      },
+      {
+        "url": "https://as.cornell.edu/news/faculty-respond-request-share-progressive-teaching-ideas-study-shows?&utm_campaign=newsletter&utm_source=weekly-newsletter-100625",
+        "display": "as.cornell.edu/news/faculty-respond-request-share-progressive-teaching-ideas-study-shows",
+        "page_title": "Faculty respond to request to share progressive teaching ideas, study shows",
+        "page_summary": "The team found a significant uptick in the number of articles published after 2013 that focused on core concepts and competencies suggested in a seminal report.",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      }
+    ]
+  },
+  {
+    "filename": "staff-2025-10-06.xml",
+    "type": "staff",
+    "date": "2025-10-06",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Meet another Nobel laureate & our distinguished visiting journalist",
+    "mailed": 328,
+    "unique_opens": 195,
+    "opens": 373,
+    "open_rate": 59.5,
+    "unique_clicks": 33,
+    "total_clicks": 112,
+    "click_rate": 10.1,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/news/journalist-offers-master-class-op-eds-narrative-storytelling?&utm_campaign=newsletter&utm_source=weekly-newsletter-100625",
+        "display": "as.cornell.edu/news/journalist-offers-master-class-op-eds-narrative-storytelling",
+        "page_title": "Journalist offers master class on op-eds, narrative storytelling",
+        "page_summary": "Journalist and biographer Sam Tanenhaus will share his writing expertise with the Cornell community in a master class, “Op-Eds and Narrative Storytelling, on Oct. 8 in Lewis Auditorium, Goldwin Smith Hall.",
+        "total_clicks": 24,
+        "unique_clicks": 8
+      },
+      {
+        "url": "https://as.cornell.edu/news/behavioral-economics-born-cornell-embraced-policymakers?&utm_campaign=newsletter&utm_source=weekly-newsletter-100625",
+        "display": "as.cornell.edu/news/behavioral-economics-born-cornell-embraced-policymakers",
+        "page_title": "Behavioral economics: Born at Cornell, embraced by policymakers",
+        "page_summary": "Economists and psychologists work together to understand how human behavior impacts people's decision-making in the marketplace.",
+        "total_clicks": 18,
+        "unique_clicks": 8
+      },
+      {
+        "url": "https://as.cornell.edu/news/nobel-winning-behavioral-economist-richard-thaler-speak-oct-17?&utm_campaign=newsletter&utm_source=weekly-newsletter-100625",
+        "display": "as.cornell.edu/news/nobel-winning-behavioral-economist-richard-thaler-speak-oct-17",
+        "page_title": "Nobel-winning behavioral economist Richard Thaler to speak Oct. 17",
+        "page_summary": "Thaler won the Nobel Prize in 2017 for work done in the 1980s at Cornell. He is now the Charles R. Walgreen Distinguished Service Professor of Behavioral Science and Economics at the University of Chicago.",
+        "total_clicks": 15,
+        "unique_clicks": 8
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/10/physicist-after-33-billon-years-universe-will-end-big-crunch",
+        "display": "news.cornell.edu/stories/2025/10/physicist-after-33-billon-years-universe-will-end-big-crunch",
+        "page_title": "Physicist: After 33 billon years, universe ‘will end in a big crunch’ | Cornell Chronicle",
+        "page_summary": "After expanding to its peak size about 11 billion years from now, the universe will begin to contract – snapping back like a rubber band to a single point at the end, according to a Cornell physicist.",
+        "total_clicks": 10,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://events.cornell.edu/event/the-man-who-built-a-movement-how-william-f-buckley-invented-modern-conservatism",
+        "display": "events.cornell.edu/event/the-man-who-built-a-movement-how-william-f-buckley-invented-modern-conservatism",
+        "page_title": "The Man Who Built a Movement: How William F. Buckley Invented Modern Conservatism - Cornell",
+        "page_summary": "Sam Tanenhaus,  journalist, historian, biographer, and this fall's Zubrow Distinguished Visiting Journalist (DVJ) in the College of Arts and Sciences, is the author of “Buckley: The Life and the Revolution that Changed America.” He'll  discuss Buc...",
+        "total_clicks": 10,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://teaching.cornell.edu/programs/faculty-instructors/big-red-teaching-days",
+        "display": "teaching.cornell.edu/programs/faculty-instructors/big-red-teaching-days",
+        "page_title": "Big Red Teaching Days | Center for Teaching Innovation",
+        "page_summary": "Not Available",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://www.newsweek.com/caring-for-a-baby-makes-world-seem-more-dangerous-new-study-10781703",
+        "display": "www.newsweek.com/caring-for-a-baby-makes-world-seem-more-dangerous-new-study-10781703",
+        "page_title": "Caring for a Baby Makes the World Seem More Dangerous, Says New Study - Newsweek",
+        "page_summary": "The findings indicate that infants’ looks and movements influence how adults process sensory information.",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-100625?&utm_campaign=newsletter&utm_source=weekly-newsletter-100625",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-100625",
+        "page_title": "weekly newsletter, 100625",
+        "page_summary": "Not Available",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://www.nytimes.com/2025/09/28/briefing/lets-talk-about-the-rapture.html",
+        "display": "www.nytimes.com/2025/09/28/briefing/lets-talk-about-the-rapture.html",
+        "page_title": "Not Available",
+        "page_summary": "Not Available",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://as.cornell.edu/news/faculty-respond-request-share-progressive-teaching-ideas-study-shows?&utm_campaign=newsletter&utm_source=weekly-newsletter-100625",
+        "display": "as.cornell.edu/news/faculty-respond-request-share-progressive-teaching-ideas-study-shows",
+        "page_title": "Faculty respond to request to share progressive teaching ideas, study shows",
+        "page_summary": "The team found a significant uptick in the number of articles published after 2013 that focused on core concepts and competencies suggested in a seminal report.",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      }
+    ]
+  },
+  {
     "filename": "students-2025-10-06.xml",
     "type": "students",
     "date": "2025-10-06",
@@ -1740,6 +3970,1062 @@
     ]
   },
   {
+    "filename": "faculty-2025-09-29.xml",
+    "type": "faculty",
+    "date": "2025-09-29",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Babies, fireworks and a new major",
+    "mailed": 716,
+    "unique_opens": 473,
+    "opens": 920,
+    "open_rate": 66.1,
+    "unique_clicks": 50,
+    "total_clicks": 117,
+    "click_rate": 7.0,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://news.cornell.edu/stories/2025/09/safety-first-babies-heighten-adults-perception-threats",
+        "display": "news.cornell.edu/stories/2025/09/safety-first-babies-heighten-adults-perception-threats",
+        "page_title": "Safety first: Babies heighten adults’ perception of threats | Cornell Chronicle",
+        "page_summary": "In a threatening situation, the world looks more dangerous when caring for an infant, finds new research that used a virtual baby to explore parenting dynamics.",
+        "total_clicks": 17,
+        "unique_clicks": 9
+      },
+      {
+        "url": "https://as.cornell.edu/news/brooks-and-partner-new-option-public-policy-major?&utm_campaign=newsletter&utm_source=weekly-newsletter-9-29-25",
+        "display": "as.cornell.edu/news/brooks-and-partner-new-option-public-policy-major",
+        "page_title": "Brooks and A&S partner on new option for public policy major",
+        "page_summary": "Students in the major will be admitted into the College of Arts & Sciences and take courses in both Brooks and A&S.",
+        "total_clicks": 16,
+        "unique_clicks": 9
+      },
+      {
+        "url": "https://as.cornell.edu/news/politics-gets-personal-china-scholar?&utm_campaign=newsletter&utm_source=weekly-newsletter-9-29-25",
+        "display": "as.cornell.edu/news/politics-gets-personal-china-scholar",
+        "page_title": "Politics gets personal for China scholar",
+        "page_summary": "Historian Peidong Sun began her new book “Unfiltered Regard for China: French Perspectives from Mao to Xi” amid profound personal upheaval: An exit ban from China and a move to France.",
+        "total_clicks": 16,
+        "unique_clicks": 8
+      },
+      {
+        "url": "https://classics.cornell.edu/mike-fontaine",
+        "display": "classics.cornell.edu/mike-fontaine",
+        "page_title": "Mike Fontaine | Department of Classics",
+        "page_summary": "Not Available",
+        "total_clicks": 14,
+        "unique_clicks": 6
+      },
+      {
+        "url": "https://as.cornell.edu/news/revitalizing-introductory-physics-labs-nsf-support?&utm_campaign=newsletter&utm_source=weekly-newsletter-9-29-25",
+        "display": "as.cornell.edu/news/revitalizing-introductory-physics-labs-nsf-support",
+        "page_title": "Revitalizing introductory physics labs with NSF support",
+        "page_summary": "Through The Introductory Physics Lab Institute, professor Natasha Holmes shares best practices in physics labs.",
+        "total_clicks": 12,
+        "unique_clicks": 8
+      },
+      {
+        "url": "https://docs.google.com/forms/d/1vBOAq0fC5t5ZQHaDWVeUjeT_Uel9LaxSVRo2I64MvBw/viewform?edit_requested=true",
+        "display": "docs.google.com/forms/d/1vBOAq0fC5t5ZQHaDWVeUjeT_Uel9LaxSVRo2I64MvBw/viewform?edit_requested=true",
+        "page_title": "PICS annual microtheater festival: DISRUPTIONS",
+        "page_summary": "Not Available",
+        "total_clicks": 12,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://alumni.cornell.edu/come-back/homecoming/",
+        "display": "alumni.cornell.edu/come-back/homecoming",
+        "page_title": "Cornell University",
+        "page_summary": "Homecoming is all about the Cornell family. Gather in Ithaca to connect, learn, relive favorite traditions, and make new memories.",
+        "total_clicks": 6,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=jhODTEfboJM",
+        "display": "www.youtube.com/watch?v=jhODTEfboJM",
+        "page_title": "Not Available",
+        "page_summary": "Not Available",
+        "total_clicks": 6,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://as.cornell.edu/news/music-oct-2-5-homecoming-concerts-and-historical-keyboards?&utm_campaign=newsletter&utm_source=weekly-newsletter-9-29-25",
+        "display": "as.cornell.edu/news/music-oct-2-5-homecoming-concerts-and-historical-keyboards",
+        "page_title": "Music Oct. 2-5: Homecoming concerts and historical keyboards",
+        "page_summary": "Cornell orchestras, vocal ensembles and the Center for Historical Keyboards plan performances.",
+        "total_clicks": 4,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://events.cornell.edu/event/2025-freund-prize-for-creative-writing-alumni-reading",
+        "display": "events.cornell.edu/event/2025-freund-prize-for-creative-writing-alumni-reading",
+        "page_title": "2025 Freund Prize for Creative Writing Alumni Reading - Cornell",
+        "page_summary": "The Department of Literatures in English celebrates the winners of the 2025 Philip Freund Prize for Creative Writing in recognition of excellence in publication.\n\nThe alumni prize is supported by the Philip Freund '29 endowment and comes with a $5...",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      }
+    ]
+  },
+  {
+    "filename": "staff-2025-09-29.xml",
+    "type": "staff",
+    "date": "2025-09-29",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Babies, fireworks and a new major",
+    "mailed": 328,
+    "unique_opens": 198,
+    "opens": 413,
+    "open_rate": 60.4,
+    "unique_clicks": 38,
+    "total_clicks": 140,
+    "click_rate": 11.6,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/news/brooks-and-partner-new-option-public-policy-major?&utm_campaign=newsletter&utm_source=weekly-newsletter-9-29-25",
+        "display": "as.cornell.edu/news/brooks-and-partner-new-option-public-policy-major",
+        "page_title": "Brooks and A&S partner on new option for public policy major",
+        "page_summary": "Students in the major will be admitted into the College of Arts & Sciences and take courses in both Brooks and A&S.",
+        "total_clicks": 20,
+        "unique_clicks": 10
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-9-29-25?&utm_campaign=newsletter&utm_source=weekly-newsletter-9-29-25",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-9-29-25",
+        "page_title": "Weekly newsletter. 9-29-25",
+        "page_summary": "Not Available",
+        "total_clicks": 17,
+        "unique_clicks": 6
+      },
+      {
+        "url": "https://as.cornell.edu/news/politics-gets-personal-china-scholar?&utm_campaign=newsletter&utm_source=weekly-newsletter-9-29-25",
+        "display": "as.cornell.edu/news/politics-gets-personal-china-scholar",
+        "page_title": "Politics gets personal for China scholar",
+        "page_summary": "Historian Peidong Sun began her new book “Unfiltered Regard for China: French Perspectives from Mao to Xi” amid profound personal upheaval: An exit ban from China and a move to France.",
+        "total_clicks": 13,
+        "unique_clicks": 6
+      },
+      {
+        "url": "https://as.cornell.edu/news/revitalizing-introductory-physics-labs-nsf-support?&utm_campaign=newsletter&utm_source=weekly-newsletter-9-29-25",
+        "display": "as.cornell.edu/news/revitalizing-introductory-physics-labs-nsf-support",
+        "page_title": "Revitalizing introductory physics labs with NSF support",
+        "page_summary": "Through The Introductory Physics Lab Institute, professor Natasha Holmes shares best practices in physics labs.",
+        "total_clicks": 12,
+        "unique_clicks": 6
+      },
+      {
+        "url": "https://classics.cornell.edu/mike-fontaine",
+        "display": "classics.cornell.edu/mike-fontaine",
+        "page_title": "Mike Fontaine | Department of Classics",
+        "page_summary": "Not Available",
+        "total_clicks": 12,
+        "unique_clicks": 6
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/09/safety-first-babies-heighten-adults-perception-threats",
+        "display": "news.cornell.edu/stories/2025/09/safety-first-babies-heighten-adults-perception-threats",
+        "page_title": "Safety first: Babies heighten adults’ perception of threats | Cornell Chronicle",
+        "page_summary": "In a threatening situation, the world looks more dangerous when caring for an infant, finds new research that used a virtual baby to explore parenting dynamics.",
+        "total_clicks": 10,
+        "unique_clicks": 5
+      },
+      {
+        "url": "https://alumni.cornell.edu/come-back/homecoming/",
+        "display": "alumni.cornell.edu/come-back/homecoming",
+        "page_title": "Cornell University",
+        "page_summary": "Homecoming is all about the Cornell family. Gather in Ithaca to connect, learn, relive favorite traditions, and make new memories.",
+        "total_clicks": 8,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://www.forbes.com/sites/tonifitzgerald/2025/09/19/jimmy-kimmel-ratings-over-the-years-he-was-no-1-with-young-adults/",
+        "display": "www.forbes.com/sites/tonifitzgerald/2025/09/19/jimmy-kimmel-ratings-over-the-years-he-was-no-1-with-young-adults",
+        "page_title": "Not Available",
+        "page_summary": "Not Available",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://youtu.be/jhODTEfboJM?si=EeN7EVOQSbKYbUeD",
+        "display": "youtu.be/jhODTEfboJM?si=EeN7EVOQSbKYbUeD",
+        "page_title": "Not Available",
+        "page_summary": "Not Available",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://anthropology.cornell.edu/kathryn-march",
+        "display": "anthropology.cornell.edu/kathryn-march",
+        "page_title": "Kathryn March | Department of Anthropology",
+        "page_summary": "Not Available",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      }
+    ]
+  },
+  {
+    "filename": "faculty-2025-09-22.xml",
+    "type": "faculty",
+    "date": "2025-09-22",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Home, human historians and why women won",
+    "mailed": 721,
+    "unique_opens": 462,
+    "opens": 855,
+    "open_rate": 64.1,
+    "unique_clicks": 37,
+    "total_clicks": 77,
+    "click_rate": 5.1,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/news/holocaust-testimony-ai-litmus-test-and-it-fails?&utm_campaign=newsletter&utm_source=weekly-newsletter-92225",
+        "display": "as.cornell.edu/news/holocaust-testimony-ai-litmus-test-and-it-fails",
+        "page_title": "Holocaust testimony is AI litmus test, and it fails",
+        "page_summary": "A Cornell historian argues that human historians are vital to capture the emotional and moral complexity behind world events.",
+        "total_clicks": 16,
+        "unique_clicks": 9
+      },
+      {
+        "url": "https://as.cornell.edu/news/sacred-ground-exhibit-receives-historic-ithaca-preservation-award?&utm_campaign=newsletter&utm_source=weekly-newsletter-92225",
+        "display": "as.cornell.edu/news/sacred-ground-exhibit-receives-historic-ithaca-preservation-award",
+        "page_title": "‘Sacred Ground’ exhibit receives Historic Ithaca preservation award",
+        "page_summary": "Open now through Dec. 31, the exhibit highlights findings from a four-year archaeological excavation of Ithaca’s St. James A.M.E. Zion Church conducted by Cornell faculty, students and Ithaca school children from 2021–2024.",
+        "total_clicks": 9,
+        "unique_clicks": 5
+      },
+      {
+        "url": "https://as.cornell.edu/news/nobel-winning-economist-speak-why-women-won?&utm_campaign=newsletter&utm_source=weekly-newsletter-91525?&utm_campaign=newsletter&utm_source=weekly-newsletter-92225",
+        "display": "as.cornell.edu/news/nobel-winning-economist-speak-why-women-won",
+        "page_title": "Nobel-winning economist to speak on ‘why women won’",
+        "page_summary": "Claudia Goldin ’67, winner of the 2023 Nobel Prize in Economics, will return to campus to give the 2025 Staller Lecture on Sept. 25.",
+        "total_clicks": 8,
+        "unique_clicks": 5
+      },
+      {
+        "url": "https://as.cornell.edu/news/emr-wins-world-laureate-association-prize?&utm_campaign=newsletter&utm_source=weekly-newsletter-92225",
+        "display": "as.cornell.edu/news/emr-wins-world-laureate-association-prize",
+        "page_title": "Emr wins the World Laureate Association Prize",
+        "page_summary": "The award is for breakthrough discoveries in the cellular mechanisms of receptor membrane protein transport and degradation.",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/09/sense-place-trumps-tax-breaks-choosing-where-live",
+        "display": "news.cornell.edu/stories/2025/09/sense-place-trumps-tax-breaks-choosing-where-live",
+        "page_title": "Sense of place trumps tax breaks in choosing where to live | Cornell Chronicle",
+        "page_summary": "There’s no place like home — and even when state-by-state income tax disparities make it profitable to move, high-wage earners seem to agree, according to new Cornell-led research.",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://www.cornellastrosociety.org/",
+        "display": "www.cornellastrosociety.org",
+        "page_title": "The Cornell Astronomical Society & Fuertes Observatory",
+        "page_summary": "The Cornell Astronomical Society hosts public observing nights at the Fuertes Observatory every Friday evening from 8pm to midnight.",
+        "total_clicks": 7,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/news/awards-and-honors?&utm_campaign=newsletter&utm_source=weekly-newsletter-92225",
+        "display": "as.cornell.edu/news/awards-and-honors",
+        "page_title": "Awards and Honors",
+        "page_summary": "Awards and honors received by faculty, postdocs and graduate students in the College of Arts & Sciences.",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://history.cornell.edu/jacob-anbinder",
+        "display": "history.cornell.edu/jacob-anbinder",
+        "page_title": "Jacob Anbinder | Department of History",
+        "page_summary": "Not Available",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://sociology.cornell.edu/cristobal-young",
+        "display": "sociology.cornell.edu/cristobal-young",
+        "page_title": "Cristobal Young | Department of Sociology",
+        "page_summary": "Not Available",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://pma.cornell.edu/news/pma-sundance-2026-information-sessions",
+        "display": "pma.cornell.edu/news/pma-sundance-2026-information-sessions",
+        "page_title": "PMA at Sundance 2026: Information Sessions | Performing and Media Arts",
+        "page_summary": "PMA at Sundance 2026: Information Sessions",
+        "total_clicks": 3,
+        "unique_clicks": 2
+      }
+    ]
+  },
+  {
+    "filename": "staff-2025-09-22.xml",
+    "type": "staff",
+    "date": "2025-09-22",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Home, human historians and why women won",
+    "mailed": 330,
+    "unique_opens": 187,
+    "opens": 365,
+    "open_rate": 56.7,
+    "unique_clicks": 25,
+    "total_clicks": 86,
+    "click_rate": 7.6,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/news/nobel-winning-economist-speak-why-women-won?&utm_campaign=newsletter&utm_source=weekly-newsletter-91525?&utm_campaign=newsletter&utm_source=weekly-newsletter-92225",
+        "display": "as.cornell.edu/news/nobel-winning-economist-speak-why-women-won",
+        "page_title": "Nobel-winning economist to speak on ‘why women won’",
+        "page_summary": "Claudia Goldin ’67, winner of the 2023 Nobel Prize in Economics, will return to campus to give the 2025 Staller Lecture on Sept. 25.",
+        "total_clicks": 16,
+        "unique_clicks": 8
+      },
+      {
+        "url": "https://as.cornell.edu/news/sacred-ground-exhibit-receives-historic-ithaca-preservation-award?&utm_campaign=newsletter&utm_source=weekly-newsletter-92225",
+        "display": "as.cornell.edu/news/sacred-ground-exhibit-receives-historic-ithaca-preservation-award",
+        "page_title": "‘Sacred Ground’ exhibit receives Historic Ithaca preservation award",
+        "page_summary": "Open now through Dec. 31, the exhibit highlights findings from a four-year archaeological excavation of Ithaca’s St. James A.M.E. Zion Church conducted by Cornell faculty, students and Ithaca school children from 2021–2024.",
+        "total_clicks": 10,
+        "unique_clicks": 5
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-92225?&utm_campaign=newsletter&utm_source=weekly-newsletter-92225",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-92225",
+        "page_title": "Not Available",
+        "page_summary": "Not Available",
+        "total_clicks": 10,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://events.cornell.edu/event/ruined-how-and-why-we-weaponize-the-past-keynote-talk",
+        "display": "events.cornell.edu/event/ruined-how-and-why-we-weaponize-the-past-keynote-talk",
+        "page_title": "“RUINED: How and Why We Weaponize the Past” Keynote Talk - Cornell",
+        "page_summary": "ADW-PAL Keynote talk by Lynn Meskell (University of Pennsylvania; A.D. White Professor-at-Large at Cornell)\n\n\"RUINED: How and Why We Weaponize the Past\"\nThursday, Sept. 25, at 4:30pm\nGuerlac Room, A.D. White House\nOpen to all. Light reception to f...",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/09/sense-place-trumps-tax-breaks-choosing-where-live",
+        "display": "news.cornell.edu/stories/2025/09/sense-place-trumps-tax-breaks-choosing-where-live",
+        "page_title": "Sense of place trumps tax breaks in choosing where to live | Cornell Chronicle",
+        "page_summary": "There’s no place like home — and even when state-by-state income tax disparities make it profitable to move, high-wage earners seem to agree, according to new Cornell-led research.",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://www.cornellastrosociety.org/",
+        "display": "www.cornellastrosociety.org",
+        "page_title": "The Cornell Astronomical Society & Fuertes Observatory",
+        "page_summary": "The Cornell Astronomical Society hosts public observing nights at the Fuertes Observatory every Friday evening from 8pm to midnight.",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://as.cornell.edu/news/holocaust-testimony-ai-litmus-test-and-it-fails?&utm_campaign=newsletter&utm_source=weekly-newsletter-92225",
+        "display": "as.cornell.edu/news/holocaust-testimony-ai-litmus-test-and-it-fails",
+        "page_title": "Holocaust testimony is AI litmus test, and it fails",
+        "page_summary": "A Cornell historian argues that human historians are vital to capture the emotional and moral complexity behind world events.",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://as.cornell.edu/news/emr-wins-world-laureate-association-prize?&utm_campaign=newsletter&utm_source=weekly-newsletter-92225",
+        "display": "as.cornell.edu/news/emr-wins-world-laureate-association-prize",
+        "page_title": "Emr wins the World Laureate Association Prize",
+        "page_summary": "The award is for breakthrough discoveries in the cellular mechanisms of receptor membrane protein transport and degradation.",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/09/three-tailed-lipid-helps-cells-survive-during-heart-attack-stroke",
+        "display": "news.cornell.edu/stories/2025/09/three-tailed-lipid-helps-cells-survive-during-heart-attack-stroke",
+        "page_title": "‘Three-tailed’ lipid helps cells survive during heart attack, stroke | Cornell Chronicle",
+        "page_summary": "Cornell researchers have uncovered the surprising role played by a “three-tailed” fat molecule in cellular survival during heart attack and stroke: protecting the cells against damage when oxygen runs out.",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://history.cornell.edu/jacob-anbinder",
+        "display": "history.cornell.edu/jacob-anbinder",
+        "page_title": "Jacob Anbinder | Department of History",
+        "page_summary": "Not Available",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      }
+    ]
+  },
+  {
+    "filename": "faculty-2025-09-15.xml",
+    "type": "faculty",
+    "date": "2025-09-15",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Nobel laureates, AI critics and Toni Morrison",
+    "mailed": 721,
+    "unique_opens": 490,
+    "opens": 954,
+    "open_rate": 68.0,
+    "unique_clicks": 93,
+    "total_clicks": 212,
+    "click_rate": 12.9,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/news/three-nobel-laureates-speak-campus-semester?&utm_campaign=newsletter&utm_source=weekly-newsletter-91525",
+        "display": "as.cornell.edu/news/three-nobel-laureates-speak-campus-semester",
+        "page_title": "Three Nobel Laureates to speak on campus this semester",
+        "page_summary": "This fall, the Cornell community has the chance to hear from three Nobel Laureates in one semester, two of whom are alumni: Claudia Goldin ’67, Jack Szostak, Ph.D. ’77, and Richard Thaler.",
+        "total_clicks": 52,
+        "unique_clicks": 29
+      },
+      {
+        "url": "https://as.cornell.edu/news/nobel-winning-economist-speak-why-women-won?&utm_campaign=newsletter&utm_source=weekly-newsletter-91525",
+        "display": "as.cornell.edu/news/nobel-winning-economist-speak-why-women-won",
+        "page_title": "Nobel-winning economist to speak on ‘why women won’",
+        "page_summary": "Claudia Goldin ’67, winner of the 2023 Nobel Prize in Economics, will return to campus to give the 2025 Staller Lecture on Sept. 25.",
+        "total_clicks": 28,
+        "unique_clicks": 14
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/09/book-explores-how-animals-are-dashing-stampeding-fiction",
+        "display": "news.cornell.edu/stories/2025/09/book-explores-how-animals-are-dashing-stampeding-fiction",
+        "page_title": "Book explores how animals are dashing, stampeding into fiction | Cornell Chronicle",
+        "page_summary": "Elisha Cohn's second book, “Milieu: A Creaturely Theory of the Contemporary Novel,” also explores the methods authors are using to give animals a voice.",
+        "total_clicks": 27,
+        "unique_clicks": 15
+      },
+      {
+        "url": "https://as.cornell.edu/news/how-rural-vs-urban-polarization-can-be-repaired?&utm_campaign=newsletter&utm_source=weekly-newsletter-91525",
+        "display": "as.cornell.edu/news/how-rural-vs-urban-polarization-can-be-repaired",
+        "page_title": "How rural vs urban polarization can be repaired",
+        "page_summary": "The study by Cornell government scholars Suzanne Mettler and Trevor Brown spans five decades and includes every U.S. county.",
+        "total_clicks": 19,
+        "unique_clicks": 10
+      },
+      {
+        "url": "https://events.cornell.edu/event/2025-nordlander-lecture-in-science-public-policy",
+        "display": "events.cornell.edu/event/2025-nordlander-lecture-in-science-public-policy",
+        "page_title": "2025 Nordlander Lecture in Science & Public Policy - Cornell",
+        "page_summary": "A Reverse-Centaur's Guide to Being a Better AI Critic\n\nAI can't do your job, but an AI salesman can surely convince your boss to fire you and replace you with an AI that CAN'T do your job, which is bad news for all of us (even your boss!). Being a...",
+        "total_clicks": 17,
+        "unique_clicks": 11
+      },
+      {
+        "url": "https://as.cornell.edu/news/four-day-event-celebrates-70-years-toni-morrisons-cornell-legacy?&utm_campaign=newsletter&utm_source=weekly-newsletter-91525",
+        "display": "as.cornell.edu/news/four-day-event-celebrates-70-years-toni-morrisons-cornell-legacy",
+        "page_title": "Four-day event celebrates 70 years of Toni Morrison’s Cornell legacy",
+        "page_summary": "A four-day event featuring films, panels, workshops, the unveiling of a mural and other activities will celebrate the 70th anniversary of her degree, life and work. “Toni Morrison: Literature and Public Life” will take place Sept. 18-21.",
+        "total_clicks": 17,
+        "unique_clicks": 8
+      },
+      {
+        "url": "https://as.cornell.edu/education/college-scholar-program?&utm_campaign=newsletter&utm_source=weekly-newsletter-91525",
+        "display": "as.cornell.edu/education/college-scholar-program",
+        "page_title": "Robert S. Harrison College Scholar Program",
+        "page_summary": "College Scholar program",
+        "total_clicks": 10,
+        "unique_clicks": 5
+      },
+      {
+        "url": "https://events.cornell.edu/event/dallas-morse-coors-concert-series-presents-le-vent-du-nord",
+        "display": "events.cornell.edu/event/dallas-morse-coors-concert-series-presents-le-vent-du-nord",
+        "page_title": "Dallas Morse Coors Concert Series presents: Le Vent du Nord - Cornell",
+        "page_summary": "The award winning and highly acclaimed band Le Vent du Nord is a leading force in Quebec’s progressive francophone folk movement. The group’s vast repertoire draws from both traditional sources and original compositions, while enhancing its hard-d...",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/news/ethnomusicologist-martin-hatch-professor-music-emeritus-dies-83?&utm_campaign=newsletter&utm_source=weekly-newsletter-91525",
+        "display": "as.cornell.edu/news/ethnomusicologist-martin-hatch-professor-music-emeritus-dies-83",
+        "page_title": "Ethnomusicologist Martin Hatch, professor of music emeritus, dies at 83",
+        "page_summary": "Martin F. Hatch Jr., Ph.D. ’80, professor of music emeritus in the College of Arts and Sciences, died Aug. 23 in Ithaca, New York. He was 83.",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-91525?&utm_campaign=newsletter&utm_source=weekly-newsletter-91525",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-91525",
+        "page_title": "Weekly newsletter, 91525",
+        "page_summary": "Not Available",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      }
+    ]
+  },
+  {
+    "filename": "staff-2025-09-15.xml",
+    "type": "staff",
+    "date": "2025-09-15",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Nobel laureates, AI critics and Toni Morrison",
+    "mailed": 335,
+    "unique_opens": 188,
+    "opens": 397,
+    "open_rate": 56.1,
+    "unique_clicks": 40,
+    "total_clicks": 128,
+    "click_rate": 11.9,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/news/three-nobel-laureates-speak-campus-semester?&utm_campaign=newsletter&utm_source=weekly-newsletter-91525",
+        "display": "as.cornell.edu/news/three-nobel-laureates-speak-campus-semester",
+        "page_title": "Three Nobel Laureates to speak on campus this semester",
+        "page_summary": "This fall, the Cornell community has the chance to hear from three Nobel Laureates in one semester, two of whom are alumni: Claudia Goldin ’67, Jack Szostak, Ph.D. ’77, and Richard Thaler.",
+        "total_clicks": 18,
+        "unique_clicks": 9
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/09/book-explores-how-animals-are-dashing-stampeding-fiction",
+        "display": "news.cornell.edu/stories/2025/09/book-explores-how-animals-are-dashing-stampeding-fiction",
+        "page_title": "Book explores how animals are dashing, stampeding into fiction | Cornell Chronicle",
+        "page_summary": "Elisha Cohn's second book, “Milieu: A Creaturely Theory of the Contemporary Novel,” also explores the methods authors are using to give animals a voice.",
+        "total_clicks": 17,
+        "unique_clicks": 9
+      },
+      {
+        "url": "https://as.cornell.edu/news/ethnomusicologist-martin-hatch-professor-music-emeritus-dies-83?&utm_campaign=newsletter&utm_source=weekly-newsletter-91525",
+        "display": "as.cornell.edu/news/ethnomusicologist-martin-hatch-professor-music-emeritus-dies-83",
+        "page_title": "Ethnomusicologist Martin Hatch, professor of music emeritus, dies at 83",
+        "page_summary": "Martin F. Hatch Jr., Ph.D. ’80, professor of music emeritus in the College of Arts and Sciences, died Aug. 23 in Ithaca, New York. He was 83.",
+        "total_clicks": 12,
+        "unique_clicks": 6
+      },
+      {
+        "url": "https://as.cornell.edu/news/nobel-winning-economist-speak-why-women-won?&utm_campaign=newsletter&utm_source=weekly-newsletter-91525",
+        "display": "as.cornell.edu/news/nobel-winning-economist-speak-why-women-won",
+        "page_title": "Nobel-winning economist to speak on ‘why women won’",
+        "page_summary": "Claudia Goldin ’67, winner of the 2023 Nobel Prize in Economics, will return to campus to give the 2025 Staller Lecture on Sept. 25.",
+        "total_clicks": 12,
+        "unique_clicks": 6
+      },
+      {
+        "url": "https://events.cornell.edu/event/2025-nordlander-lecture-in-science-public-policy",
+        "display": "events.cornell.edu/event/2025-nordlander-lecture-in-science-public-policy",
+        "page_title": "2025 Nordlander Lecture in Science & Public Policy - Cornell",
+        "page_summary": "A Reverse-Centaur's Guide to Being a Better AI Critic\n\nAI can't do your job, but an AI salesman can surely convince your boss to fire you and replace you with an AI that CAN'T do your job, which is bad news for all of us (even your boss!). Being a...",
+        "total_clicks": 10,
+        "unique_clicks": 5
+      },
+      {
+        "url": "https://as.cornell.edu/news/how-rural-vs-urban-polarization-can-be-repaired?&utm_campaign=newsletter&utm_source=weekly-newsletter-91525",
+        "display": "as.cornell.edu/news/how-rural-vs-urban-polarization-can-be-repaired",
+        "page_title": "How rural vs urban polarization can be repaired",
+        "page_summary": "The study by Cornell government scholars Suzanne Mettler and Trevor Brown spans five decades and includes every U.S. county.",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/education/college-scholar-program?&utm_campaign=newsletter&utm_source=weekly-newsletter-91525",
+        "display": "as.cornell.edu/education/college-scholar-program",
+        "page_title": "Robert S. Harrison College Scholar Program",
+        "page_summary": "College Scholar program",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/news/four-day-event-celebrates-70-years-toni-morrisons-cornell-legacy?&utm_campaign=newsletter&utm_source=weekly-newsletter-91525",
+        "display": "as.cornell.edu/news/four-day-event-celebrates-70-years-toni-morrisons-cornell-legacy",
+        "page_title": "Four-day event celebrates 70 years of Toni Morrison’s Cornell legacy",
+        "page_summary": "A four-day event featuring films, panels, workshops, the unveiling of a mural and other activities will celebrate the 70th anniversary of her degree, life and work. “Toni Morrison: Literature and Public Life” will take place Sept. 18-21.",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-91525?&utm_campaign=newsletter&utm_source=weekly-newsletter-91525",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-91525",
+        "page_title": "Weekly newsletter, 91525",
+        "page_summary": "Not Available",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://as.cornell.edu/news/10th-anniversary-ligo-verifies-hawkings-theorem?&utm_campaign=newsletter&utm_source=weekly-newsletter-91525",
+        "display": "as.cornell.edu/news/10th-anniversary-ligo-verifies-hawkings-theorem",
+        "page_title": "On 10th anniversary, LIGO verifies Hawking’s theorem",
+        "page_summary": "The LIGO-VIRGO-KAGRA team has announced a black hole merger similar to its first detection; a decade’s worth of technological advances allow unprecedented tests of General Relativity to be performed.",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      }
+    ]
+  },
+  {
+    "filename": "faculty-2025-09-08.xml",
+    "type": "faculty",
+    "date": "2025-09-08",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Welcoming our new faculty",
+    "mailed": 722,
+    "unique_opens": 514,
+    "opens": 1107,
+    "open_rate": 71.2,
+    "unique_clicks": 162,
+    "total_clicks": 368,
+    "click_rate": 22.4,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/college-welcomes-new-faculty-2025-26?&utm_campaign=newsletter&utm_source=weekly-newsletter-9-8-25",
+        "display": "as.cornell.edu/college-welcomes-new-faculty-2025-26",
+        "page_title": "The College Welcomes New Faculty for 2025-26",
+        "page_summary": "This year, 27 new faculty have joined the College of Arts & Sciences, enriching 17 departments and programs with their excellence in an impressive range of topics, including moral psychology, gravitational waves, Black contemporary art and more.",
+        "total_clicks": 253,
+        "unique_clicks": 136
+      },
+      {
+        "url": "https://as.cornell.edu/news/new-book-introduces-maimonides-one-civilizations-greatest-minds?&utm_campaign=newsletter&utm_source=weekly-newsletter-9-8-25",
+        "display": "as.cornell.edu/news/new-book-introduces-maimonides-one-civilizations-greatest-minds",
+        "page_title": "New book introduces Maimonides, ‘one of civilization’s greatest minds’",
+        "page_summary": "Maimonides, one of the most significant intellectual figures of the medieval period,worked as a physician, thought like a scientist, and served as a leader of the Jewish community in Cairo.",
+        "total_clicks": 23,
+        "unique_clicks": 10
+      },
+      {
+        "url": "https://as.cornell.edu/news/throughout-history-poets-find-inspiration-cornell?&utm_campaign=newsletter&utm_source=weekly-newsletter-9-8-25",
+        "display": "as.cornell.edu/news/throughout-history-poets-find-inspiration-cornell",
+        "page_title": "Throughout history, poets find inspiration at Cornell",
+        "page_summary": "Visit the Poetry Foundation website, type in “Cornell,” and you’ll find 405 results.",
+        "total_clicks": 17,
+        "unique_clicks": 8
+      },
+      {
+        "url": "https://as.cornell.edu/news/doctorow-discuss-digital-world-ad-white-professor-large?&utm_campaign=newsletter&utm_source=weekly-newsletter-9-8-25",
+        "display": "as.cornell.edu/news/doctorow-discuss-digital-world-ad-white-professor-large",
+        "page_title": "Doctorow to discuss the digital world as A.D. White professor-at-large",
+        "page_summary": "Science fiction author, activist and journalist Cory Doctorow will visit Cornell Sept. 11-19 as an A.D. White Professor at Large, taking part in several events on campus and in the community..",
+        "total_clicks": 15,
+        "unique_clicks": 7
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-9-8-25?&utm_campaign=newsletter&utm_source=weekly-newsletter-9-8-25",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-9-8-25",
+        "page_title": "weekly newsletter, 9-8-25",
+        "page_summary": "Not Available",
+        "total_clicks": 14,
+        "unique_clicks": 7
+      },
+      {
+        "url": "https://as.cornell.edu/news/jean-blackall-first-woman-tenured-english-cornell-dies-97?&utm_campaign=newsletter&utm_source=weekly-newsletter-9-8-25",
+        "display": "as.cornell.edu/news/jean-blackall-first-woman-tenured-english-cornell-dies-97",
+        "page_title": "Jean Blackall, first woman tenured in English at Cornell, dies at 97",
+        "page_summary": "Jean Frantz Blackall, a Cornell faculty member from 1958-94 who in 1971 became the first woman to receive tenure in what was then the Department of English, in the College of Arts and Sciences, died July 15 in Williamsburg, Virginia. She was 97.",
+        "total_clicks": 11,
+        "unique_clicks": 6
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/09/self-assembling-magnetic-microparticles-mimic-biological-error-correction",
+        "display": "news.cornell.edu/stories/2025/09/self-assembling-magnetic-microparticles-mimic-biological-error-correction",
+        "page_title": "Self-assembling magnetic microparticles mimic biological error correction | Cornell Chronicle",
+        "page_summary": "A Cornell-led collaboration developed microscale magnetic particles that can mimic the ability of biomolecules to self-assemble into complex structures, while also reducing the parasitic waste that would otherwise clog up production.",
+        "total_clicks": 10,
+        "unique_clicks": 5
+      },
+      {
+        "url": "https://events.cornell.edu/event/2025-kops-freedom-of-the-press-lecture-with-aziz-rana",
+        "display": "events.cornell.edu/event/2025-kops-freedom-of-the-press-lecture-with-aziz-rana",
+        "page_title": "2025 Kops Freedom of the Press Lecture with Aziz Rana - Cornell",
+        "page_summary": "The Constitution in Crisis: How Americans came to idolize a document that fails them\n\nWhat is the relationship between the constitutional system and today’s democratic backsliding, including with respect to basic civil liberties? This talk will ex...",
+        "total_clicks": 7,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://events.cornell.edu/event/cornell-campus-dance-gathering-3111",
+        "display": "events.cornell.edu/event/cornell-campus-dance-gathering-3111",
+        "page_title": "Cornell Campus Dance Gathering - Cornell",
+        "page_summary": "Love to dance? Love dance history? Curious about choreography or minoring in Dance at Cornell? Join the Department of Performing and Media Arts for a campus-wide community gathering! \n\nLearn about: \n\nCornell dance faculty\nCourse offerings\nUpcoming...",
+        "total_clicks": 7,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://events.cornell.edu/event/music-and-sound-studies-colloquium-agustina-checa-analog-futures-cassette-tapes-and-the-politics-of-music-preservation-in-argentina",
+        "display": "events.cornell.edu/event/music-and-sound-studies-colloquium-agustina-checa-analog-futures-cassette-tapes-and-the-politics-of-music-preservation-in-argentina",
+        "page_title": "Music and Sound Studies Colloquium: Agustina Checa \"Analog Futures: Cassette Tapes and the Politics of Music Preservation in Argentina\" - Cornell",
+        "page_summary": "Analog Futures: Cassette Tapes and the Politics of Music Preservation in ArgentinaIn an era when over 100,000 tracks are uploaded to streaming platforms daily, questions of music preservation take on renewed urgency. Amid this unprecedented overfl...",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      }
+    ]
+  },
+  {
+    "filename": "staff-2025-09-08.xml",
+    "type": "staff",
+    "date": "2025-09-08",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Welcoming our new faculty",
+    "mailed": 335,
+    "unique_opens": 203,
+    "opens": 482,
+    "open_rate": 60.6,
+    "unique_clicks": 76,
+    "total_clicks": 200,
+    "click_rate": 22.7,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/college-welcomes-new-faculty-2025-26?&utm_campaign=newsletter&utm_source=weekly-newsletter-9-8-25",
+        "display": "as.cornell.edu/college-welcomes-new-faculty-2025-26",
+        "page_title": "The College Welcomes New Faculty for 2025-26",
+        "page_summary": "This year, 27 new faculty have joined the College of Arts & Sciences, enriching 17 departments and programs with their excellence in an impressive range of topics, including moral psychology, gravitational waves, Black contemporary art and more.",
+        "total_clicks": 139,
+        "unique_clicks": 65
+      },
+      {
+        "url": "https://as.cornell.edu/news/throughout-history-poets-find-inspiration-cornell?&utm_campaign=newsletter&utm_source=weekly-newsletter-9-8-25",
+        "display": "as.cornell.edu/news/throughout-history-poets-find-inspiration-cornell",
+        "page_title": "Throughout history, poets find inspiration at Cornell",
+        "page_summary": "Visit the Poetry Foundation website, type in “Cornell,” and you’ll find 405 results.",
+        "total_clicks": 11,
+        "unique_clicks": 6
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/09/self-assembling-magnetic-microparticles-mimic-biological-error-correction",
+        "display": "news.cornell.edu/stories/2025/09/self-assembling-magnetic-microparticles-mimic-biological-error-correction",
+        "page_title": "Self-assembling magnetic microparticles mimic biological error correction | Cornell Chronicle",
+        "page_summary": "A Cornell-led collaboration developed microscale magnetic particles that can mimic the ability of biomolecules to self-assemble into complex structures, while also reducing the parasitic waste that would otherwise clog up production.",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/news/doctorow-discuss-digital-world-ad-white-professor-large?&utm_campaign=newsletter&utm_source=weekly-newsletter-9-8-25",
+        "display": "as.cornell.edu/news/doctorow-discuss-digital-world-ad-white-professor-large",
+        "page_title": "Doctorow to discuss the digital world as A.D. White professor-at-large",
+        "page_summary": "Science fiction author, activist and journalist Cory Doctorow will visit Cornell Sept. 11-19 as an A.D. White Professor at Large, taking part in several events on campus and in the community..",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://events.cornell.edu/event/2025-kops-freedom-of-the-press-lecture-with-aziz-rana",
+        "display": "events.cornell.edu/event/2025-kops-freedom-of-the-press-lecture-with-aziz-rana",
+        "page_title": "2025 Kops Freedom of the Press Lecture with Aziz Rana - Cornell",
+        "page_summary": "The Constitution in Crisis: How Americans came to idolize a document that fails them\n\nWhat is the relationship between the constitutional system and today’s democratic backsliding, including with respect to basic civil liberties? This talk will ex...",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-9-8-25?&utm_campaign=newsletter&utm_source=weekly-newsletter-9-8-25",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-9-8-25",
+        "page_title": "weekly newsletter, 9-8-25",
+        "page_summary": "Not Available",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://as.cornell.edu/news/new-book-introduces-maimonides-one-civilizations-greatest-minds?&utm_campaign=newsletter&utm_source=weekly-newsletter-9-8-25",
+        "display": "as.cornell.edu/news/new-book-introduces-maimonides-one-civilizations-greatest-minds",
+        "page_title": "New book introduces Maimonides, ‘one of civilization’s greatest minds’",
+        "page_summary": "Maimonides, one of the most significant intellectual figures of the medieval period,worked as a physician, thought like a scientist, and served as a leader of the Jewish community in Cairo.",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://as.cornell.edu/news/jean-blackall-first-woman-tenured-english-cornell-dies-97?&utm_campaign=newsletter&utm_source=weekly-newsletter-9-8-25",
+        "display": "as.cornell.edu/news/jean-blackall-first-woman-tenured-english-cornell-dies-97",
+        "page_title": "Jean Blackall, first woman tenured in English at Cornell, dies at 97",
+        "page_summary": "Jean Frantz Blackall, a Cornell faculty member from 1958-94 who in 1971 became the first woman to receive tenure in what was then the Department of English, in the College of Arts and Sciences, died July 15 in Williamsburg, Virginia. She was 97.",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2025/09/dual-campus-visit-highlights-ad-white-professors-large-lineup",
+        "display": "news.cornell.edu/stories/2025/09/dual-campus-visit-highlights-ad-white-professors-large-lineup",
+        "page_title": "Sci-fi author Doctorow to kick off A.D. White series in Ithaca, NYC | Cornell Chronicle",
+        "page_summary": "Best-selling writer and technology blogger Cory Doctorow will make the A.D. White Professor-at-Large program’s second dual-campus visit, ending his week at Cornell Tech in New York City. Four other professors will visit Cornell this fall.",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://www.newsweek.com/mehmet-oz-addresses-trump-bill-medicaid-cuts-2122328",
+        "display": "www.newsweek.com/mehmet-oz-addresses-trump-bill-medicaid-cuts-2122328",
+        "page_title": "Mehmet Oz Address Medicaid Cuts From Trump’s Big Beautiful Bill - Newsweek",
+        "page_summary": "The administrator for the Centers for Medicare & Medicaid Services said he was focused on rooting out waste and abuse in the programs.",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      }
+    ]
+  },
+  {
+    "filename": "faculty-2025-09-02.xml",
+    "type": "faculty",
+    "date": "2025-09-02",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Chemistry tackles climate change, new AI institute and students report on summer experiences",
+    "mailed": 722,
+    "unique_opens": 475,
+    "opens": 912,
+    "open_rate": 65.8,
+    "unique_clicks": 51,
+    "total_clicks": 123,
+    "click_rate": 7.1,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
+    "filename": "staff-2025-09-02.xml",
+    "type": "staff",
+    "date": "2025-09-02",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Chemistry tackles climate change, new AI institute and students report on summer experiences",
+    "mailed": 336,
+    "unique_opens": 188,
+    "opens": 400,
+    "open_rate": 56.0,
+    "unique_clicks": 45,
+    "total_clicks": 148,
+    "click_rate": 13.4,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
+    "filename": "faculty-2025-05-19.xml",
+    "type": "faculty",
+    "date": "2025-05-19",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "Congrats to our grads & award winners!",
+    "mailed": 882,
+    "unique_opens": 663,
+    "opens": 1383,
+    "open_rate": 75.2,
+    "unique_clicks": 127,
+    "total_clicks": 328,
+    "click_rate": 14.4,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
+    "filename": "staff-2025-05-19.xml",
+    "type": "staff",
+    "date": "2025-05-19",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "Congrats to our grads & award winners!",
+    "mailed": 332,
+    "unique_opens": 60,
+    "opens": 134,
+    "open_rate": 18.1,
+    "unique_clicks": 60,
+    "total_clicks": 163,
+    "click_rate": 18.1,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
+    "filename": "faculty-2025-05-12.xml",
+    "type": "faculty",
+    "date": "2025-05-12",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "Best wishes for the final push of the semester!",
+    "mailed": 882,
+    "unique_opens": 608,
+    "opens": 1157,
+    "open_rate": 68.9,
+    "unique_clicks": 66,
+    "total_clicks": 139,
+    "click_rate": 7.5,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
+    "filename": "staff-2025-05-12.xml",
+    "type": "staff",
+    "date": "2025-05-12",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "Best wishes for the final push of the semester!",
+    "mailed": 332,
+    "unique_opens": 217,
+    "opens": 468,
+    "open_rate": 65.4,
+    "unique_clicks": 41,
+    "total_clicks": 120,
+    "click_rate": 12.3,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
+    "filename": "faculty-2025-05-05.xml",
+    "type": "faculty",
+    "date": "2025-05-05",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "Pugs, prose and anthropology",
+    "mailed": 883,
+    "unique_opens": 572,
+    "opens": 1063,
+    "open_rate": 64.8,
+    "unique_clicks": 54,
+    "total_clicks": 115,
+    "click_rate": 6.1,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
+    "filename": "staff-2025-05-05.xml",
+    "type": "staff",
+    "date": "2025-05-05",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "Pugs, prose and anthropology",
+    "mailed": 332,
+    "unique_opens": 189,
+    "opens": 340,
+    "open_rate": 56.9,
+    "unique_clicks": 37,
+    "total_clicks": 126,
+    "click_rate": 11.1,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
+    "filename": "faculty-2025-04-28.xml",
+    "type": "faculty",
+    "date": "2025-04-28",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "Henry Guerlac, love advice and end-of-year festivities",
+    "mailed": 883,
+    "unique_opens": 592,
+    "opens": 1194,
+    "open_rate": 67.0,
+    "unique_clicks": 58,
+    "total_clicks": 158,
+    "click_rate": 6.6,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
+    "filename": "staff-2025-04-28.xml",
+    "type": "staff",
+    "date": "2025-04-28",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "Henry Guerlac, love advice and end-of-year festivities",
+    "mailed": 332,
+    "unique_opens": 189,
+    "opens": 407,
+    "open_rate": 56.9,
+    "unique_clicks": 50,
+    "total_clicks": 140,
+    "click_rate": 15.1,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
+    "filename": "faculty-2025-04-21.xml",
+    "type": "faculty",
+    "date": "2025-04-21",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "Can you trust your nose? Are we losing our religion?",
+    "mailed": 883,
+    "unique_opens": 570,
+    "opens": 1047,
+    "open_rate": 64.6,
+    "unique_clicks": 47,
+    "total_clicks": 93,
+    "click_rate": 5.3,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
+    "filename": "staff-2025-04-21.xml",
+    "type": "staff",
+    "date": "2025-04-21",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "Can you trust your nose? Are we losing our religion?",
+    "mailed": 332,
+    "unique_opens": 41,
+    "opens": 114,
+    "open_rate": 12.3,
+    "unique_clicks": 41,
+    "total_clicks": 132,
+    "click_rate": 12.3,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
+    "filename": "faculty-2025-04-14.xml",
+    "type": "faculty",
+    "date": "2025-04-14",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "Pulitzer prize winners, humanists and AI",
+    "mailed": 883,
+    "unique_opens": 599,
+    "opens": 1128,
+    "open_rate": 67.8,
+    "unique_clicks": 68,
+    "total_clicks": 157,
+    "click_rate": 7.7,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
+    "filename": "staff-2025-04-14.xml",
+    "type": "staff",
+    "date": "2025-04-14",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "Pulitzer prize winners, humanists and AI",
+    "mailed": 332,
+    "unique_opens": 28,
+    "opens": 63,
+    "open_rate": 8.4,
+    "unique_clicks": 28,
+    "total_clicks": 88,
+    "click_rate": 8.4,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
+    "filename": "faculty-2025-04-07.xml",
+    "type": "faculty",
+    "date": "2025-04-07",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "Telescopes, languages and the multiverse",
+    "mailed": 883,
+    "unique_opens": 581,
+    "opens": 1047,
+    "open_rate": 65.8,
+    "unique_clicks": 65,
+    "total_clicks": 134,
+    "click_rate": 7.4,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
+    "filename": "staff-2025-04-07.xml",
+    "type": "staff",
+    "date": "2025-04-07",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "Telescopes, languages and the multiverse",
+    "mailed": 334,
+    "unique_opens": 179,
+    "opens": 391,
+    "open_rate": 53.6,
+    "unique_clicks": 40,
+    "total_clicks": 137,
+    "click_rate": 12.0,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
     "filename": "faculty-2025-03-24.xml",
     "type": "faculty",
     "date": "2025-03-24",
@@ -1757,6 +5043,23 @@
     "urls": []
   },
   {
+    "filename": "staff-2025-03-24.xml",
+    "type": "staff",
+    "date": "2025-03-24",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "Face pots and baby photos of the universe",
+    "mailed": 334,
+    "unique_opens": 190,
+    "opens": 395,
+    "open_rate": 56.9,
+    "unique_clicks": 48,
+    "total_clicks": 154,
+    "click_rate": 14.4,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
     "filename": "faculty-2025-03-17.xml",
     "type": "faculty",
     "date": "2025-03-17",
@@ -1770,6 +5073,227 @@
     "unique_clicks": 44,
     "total_clicks": 94,
     "click_rate": 5.0,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
+    "filename": "staff-2025-03-17.xml",
+    "type": "staff",
+    "date": "2025-03-17",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "A green energy story for St. Patty's Day",
+    "mailed": 334,
+    "unique_opens": 179,
+    "opens": 377,
+    "open_rate": 53.6,
+    "unique_clicks": 37,
+    "total_clicks": 125,
+    "click_rate": 11.1,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
+    "filename": "faculty-2025-03-10.xml",
+    "type": "faculty",
+    "date": "2025-03-10",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "CS/econ collabs, all-day Iliad and AI grading",
+    "mailed": 798,
+    "unique_opens": 527,
+    "opens": 1013,
+    "open_rate": 66.0,
+    "unique_clicks": 67,
+    "total_clicks": 145,
+    "click_rate": 8.4,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
+    "filename": "staff-2025-03-10.xml",
+    "type": "staff",
+    "date": "2025-03-10",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "CS/econ collabs, all-day Iliad and AI grading",
+    "mailed": 334,
+    "unique_opens": 191,
+    "opens": 427,
+    "open_rate": 57.2,
+    "unique_clicks": 33,
+    "total_clicks": 132,
+    "click_rate": 9.9,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
+    "filename": "faculty-2025-03-03.xml",
+    "type": "faculty",
+    "date": "2025-03-03",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "Bendable solar panels, read-aloud \"Iliad\" and John Cameron Mitchell",
+    "mailed": 773,
+    "unique_opens": 493,
+    "opens": 879,
+    "open_rate": 63.8,
+    "unique_clicks": 59,
+    "total_clicks": 139,
+    "click_rate": 7.6,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
+    "filename": "staff-2025-03-03.xml",
+    "type": "staff",
+    "date": "2025-03-03",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "Bendable solar panels, read-aloud \"Iliad\" and John Cameron Mitchell",
+    "mailed": 330,
+    "unique_opens": 169,
+    "opens": 338,
+    "open_rate": 51.2,
+    "unique_clicks": 34,
+    "total_clicks": 118,
+    "click_rate": 10.3,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
+    "filename": "faculty-2025-02-24.xml",
+    "type": "faculty",
+    "date": "2025-02-24",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "Body Image, Solar Solutions and LGBTQ data",
+    "mailed": 775,
+    "unique_opens": 494,
+    "opens": 896,
+    "open_rate": 63.7,
+    "unique_clicks": 35,
+    "total_clicks": 81,
+    "click_rate": 4.5,
+    "unsubs": 1,
+    "urls": []
+  },
+  {
+    "filename": "staff-2025-02-24.xml",
+    "type": "staff",
+    "date": "2025-02-24",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "Body Image, Solar Solutions and LGBTQ data",
+    "mailed": 327,
+    "unique_opens": 177,
+    "opens": 353,
+    "open_rate": 54.1,
+    "unique_clicks": 29,
+    "total_clicks": 105,
+    "click_rate": 8.9,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
+    "filename": "faculty-2025-02-19.xml",
+    "type": "faculty",
+    "date": "2025-02-19",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "Sojourner Truth, mental health care and things that go clickety-clack",
+    "mailed": 775,
+    "unique_opens": 495,
+    "opens": 906,
+    "open_rate": 63.9,
+    "unique_clicks": 32,
+    "total_clicks": 80,
+    "click_rate": 4.1,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
+    "filename": "staff-2025-02-19.xml",
+    "type": "staff",
+    "date": "2025-02-19",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "Sojourner Truth, mental health care and things that go clickety-clack",
+    "mailed": 328,
+    "unique_opens": 35,
+    "opens": 80,
+    "open_rate": 10.7,
+    "unique_clicks": 35,
+    "total_clicks": 102,
+    "click_rate": 10.7,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
+    "filename": "faculty-2025-02-10.xml",
+    "type": "faculty",
+    "date": "2025-02-10",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "Awards, a contest and busting exam stress",
+    "mailed": 776,
+    "unique_opens": 537,
+    "opens": 1101,
+    "open_rate": 69.2,
+    "unique_clicks": 114,
+    "total_clicks": 280,
+    "click_rate": 14.7,
+    "unsubs": 1,
+    "urls": []
+  },
+  {
+    "filename": "staff-2025-02-10.xml",
+    "type": "staff",
+    "date": "2025-02-10",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "Awards, a contest and busting exam stress",
+    "mailed": 328,
+    "unique_opens": 205,
+    "opens": 471,
+    "open_rate": 62.5,
+    "unique_clicks": 61,
+    "total_clicks": 202,
+    "click_rate": 18.6,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
+    "filename": "faculty-2025-02-03.xml",
+    "type": "faculty",
+    "date": "2025-02-03",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "Telescopes, wearable tech and danger on Denali",
+    "mailed": 777,
+    "unique_opens": 509,
+    "opens": 948,
+    "open_rate": 65.5,
+    "unique_clicks": 64,
+    "total_clicks": 149,
+    "click_rate": 8.2,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
+    "filename": "staff-2025-02-03.xml",
+    "type": "staff",
+    "date": "2025-02-03",
+    "year": 2025,
+    "semester": "Spring",
+    "subject": "Telescopes, wearable tech and danger on Denali",
+    "mailed": 328,
+    "unique_opens": 35,
+    "opens": 77,
+    "open_rate": 10.7,
+    "unique_clicks": 35,
+    "total_clicks": 107,
+    "click_rate": 10.7,
     "unsubs": 0,
     "urls": []
   }

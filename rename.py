@@ -260,7 +260,9 @@ def main():
         dest = os.path.join(directory, new_name)
 
         if os.path.exists(dest):
-            skipped.append((filename, f'DUPLICATE — {new_name} already exists, file left unchanged'))
+            shutil.copy2(filepath, os.path.join(temp_dir, filename))
+            os.remove(filepath)
+            skipped.append((filename, f'DUPLICATE — {new_name} already exists, original archived to temporary/'))
             continue
 
         shutil.copy2(filepath, os.path.join(temp_dir, filename))

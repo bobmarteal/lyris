@@ -1,0 +1,49 @@
+
+<!-- saved from url=(0106)https://www.bulk.mail.cornell.edu/reports/mailings/xml_report.tml?DocPost=9a5f3637302b321037beda4a30b51c97 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body><trackingsummarydata>
+	<dns_temps>0</dns_temps>
+	<bad_doms>0</bad_doms>
+	<bounces>0</bounces>
+	<invalids>0</invalids>
+	<mes_missings>0</mes_missings>
+	<expirations>0</expirations>
+	<skips>0</skips>
+	<aborts>0</aborts>
+	<paused>0</paused>
+	<mailed>775</mailed>
+	<received>774</received>
+	<soft_fails>1</soft_fails>
+	<hard_fails>0</hard_fails>
+	<active>0</active>
+	<unique_opens>495</unique_opens>
+	<opens>906</opens>
+	<new_members>0</new_members>
+	<unsubs>0</unsubs>
+	<total_clicks>80</total_clicks>
+	<unique_clicks>32</unique_clicks>
+	<trans>0</trans>
+	<unique_trans>0</unique_trans>
+	<streams>0</streams>
+	<unique_streams>0</unique_streams>
+	<trans_amt>0</trans_amt>
+	<units>0</units>
+	<complaints>0</complaints>
+	<successes>774</successes>
+	<immediate_transients>0</immediate_transients>
+	<internal_stops>0</internal_stops>
+	<final_technicals>1</final_technicals>
+	<unknowns>0</unknowns>
+	<invalid_users>0</invalid_users>
+	<blocked_contents>0</blocked_contents>
+	<likely_blocked>0</likely_blocked>
+	<dbversion>1203008</dbversion>
+	<start_date>2025-02-19 08:59:35</start_date>
+	<finish_date>2025-02-19 08:59:41</finish_date>
+	<subject>Sojourner Truth, mental health care and things that go clickety-clack</subject>
+	<type>list</type>
+	<subset></subset>
+	<list>as-faculty-update-l</list>
+	<title>FSSG - 02/19/25</title>
+</trackingsummarydata>
+
+</body></html>

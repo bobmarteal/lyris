@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<trackingsummarydata>
+    <dns_temps>0</dns_temps>
+    <bad_doms>0</bad_doms>
+    <bounces>0</bounces>
+    <invalids>0</invalids>
+    <mes_missings>0</mes_missings>
+    <expirations>0</expirations>
+    <skips>0</skips>
+    <aborts>0</aborts>
+    <paused>0</paused>
+    <mailed>329</mailed>
+    <received>329</received>
+    <soft_fails>0</soft_fails>
+    <hard_fails>0</hard_fails>
+    <active>0</active>
+    <unique_opens>181</unique_opens>
+    <opens>321</opens>
+    <new_members>0</new_members>
+    <unsubs>0</unsubs>
+    <total_clicks>90</total_clicks>
+    <unique_clicks>29</unique_clicks>
+    <trans>0</trans>
+    <unique_trans>0</unique_trans>
+    <streams>0</streams>
+    <unique_streams>0</unique_streams>
+    <trans_amt>0</trans_amt>
+    <units>0</units>
+    <complaints>0</complaints>
+    <successes>329</successes>
+    <immediate_transients>0</immediate_transients>
+    <internal_stops>0</internal_stops>
+    <final_technicals>0</final_technicals>
+    <unknowns>0</unknowns>
+    <invalid_users>0</invalid_users>
+    <blocked_contents>0</blocked_contents>
+    <likely_blocked>0</likely_blocked>
+    <dbversion>1203008</dbversion>
+    <start_date>2025-12-08 11:04:50</start_date>
+    <finish_date>2025-12-08 11:04:57</finish_date>
+    <subject>This week in A&amp;S: Navy honors, dirty dishes, music and film</subject>
+    <type>list</type>
+    <subset />
+    <list>as-staff-update-l</list>
+    <title>FSSG - 12/08/25</title>
+    <urls>
+        <opens>18</opens>
+        <uniqueopens>9</uniqueopens>
+        <url>https://news.cornell.edu/stories/2025/12/grants-support-research-nexus-ai-climate-science</url>
+        <page_title>Grants to support research at nexus of AI, climate science | Cornell Chronicle</page_title>
+        <page_summary>New grant funding will support eight research projects seeking to reduce AI’s energy use and integrate AI in environmental research.</page_summary>
+        <opens>16</opens>
+        <uniqueopens>8</uniqueopens>
+        <url>https://as.cornell.edu/newsletter/weekly-newsletter-12-8-25?&amp;utm_campaign=newsletter&amp;utm_source=weekly-newsletter-12-8-25</url>
+        <page_title>weekly newsletter, 12-8-25</page_title>
+        <page_summary>Not Available</page_summary>
+        <opens>12</opens>
+        <uniqueopens>6</uniqueopens>
+        <url>https://events.cornell.edu/event/cornell-chorus-glee-club-lessons-carols-cu-music</url>
+        <page_title>Cornell Chorus &amp; Glee Club: Lessons &amp; Carols (CU Music) - Cornell</page_title>
+        <page_summary>Cornell University Lessons and Carols sung by the Cornell University Chorus and Glee Club, interspersed with traditional readings by members of the Cornell community.
+
+Note: doors will open at 6:30pm. There is no indoor waiting area at Sage Chapel...</page_summary>
+        <opens>10</opens>
+        <uniqueopens>5</uniqueopens>
+        <url>https://news.cornell.edu/stories/2025/12/spaceflight-tested-menstrual-cup-offers-choice-long-missions</url>
+        <page_title>Spaceflight-tested menstrual cup offers choice on long missions | Cornell Chronicle</page_title>
+        <page_summary>To equip astronauts with health choices for future missions, a Cornell postdoctoral fellow is leading research with AstroCup, a group that recently tested two menstrual cups in spaceflight as payload on an uncrewed rocket flight.</page_summary>
+        <opens>10</opens>
+        <uniqueopens>5</uniqueopens>
+        <url>https://news.cornell.edu/stories/2025/12/cornell-navy-rotc-midshipman-earns-top-honor</url>
+        <page_title>Cornell Navy ROTC midshipman earns top honor | Cornell Chronicle</page_title>
+        <page_summary>Kylie Williamson ’26 has been named Navy/Marines Student of the Year by Navy Federal Credit Union, a top honor in the Reserve Officers Training Corps system. Williamson is the first Cornell student to win the award.</page_summary>
+        <opens>6</opens>
+        <uniqueopens>3</uniqueopens>
+        <url>https://news.cornell.edu/stories/2025/12/ancient-dirty-dishes-reveal-decades-questionable-findings</url>
+        <page_title>Ancient dirty dishes reveal decades of questionable findings | Cornell Chronicle</page_title>
+        <page_summary>An interdisciplinary team of researchers determined that organic residues of plant oils are poorly preserved in calcareous soils from the Mediterranean, leading decades of archaeologists to likely misidentify olive oil in ceramic artifacts.</page_summary>
+        <opens>6</opens>
+        <uniqueopens>2</uniqueopens>
+        <url>https://www.salon.com/2025/12/05/new-yorks-wealthy-warn-of-a-tax-exodus-after-mamdanis-win-but-the-data-says-otherwise/</url>
+        <page_title>New York’s wealthy warn of a tax exodus after Mamdani’s win – but the data says otherwise - Salon.com</page_title>
+        <page_summary>Wealthy New Yorkers have threatened to leave the city. They aren't going anywhere.</page_summary>
+        <opens>4</opens>
+        <uniqueopens>2</uniqueopens>
+        <url>https://events.cornell.edu/event/student-film-screening-9501</url>
+        <page_title>Student Film Screening - Cornell</page_title>
+        <page_summary>Join the Department of Performing and Media Arts for the Student Film Screening, on Friday, December 12, at 5:00 p.m., in the Kiplinger Theatre, Schwartz Center for Performing Arts. The Student Film Screening will feature unique, empathetic, and c...</page_summary>
+        <opens>4</opens>
+        <uniqueopens>2</uniqueopens>
+        <url>https://events.cornell.edu/event/cornell-concerto-competition-finals-cu-music</url>
+        <page_title>[NEW TIME] Cornell Concerto Competition Finals (CU Music) - Cornell</page_title>
+        <page_summary>Concerto Competition Finals: students compete for the opportunity to perform as soloists with the Cornell Symphony Orchestra, the Cornell Chamber Orchestra, and the Cornell Wind Symphony.
+
+photo credit: Noel Heaney</page_summary>
+        <opens>2</opens>
+        <uniqueopens>1</uniqueopens>
+        <url>https://www.latimes.com/opinion/story/2025-12-04/supreme-court-precedent</url>
+        <page_title>Not Available</page_title>
+        <page_summary>The court has historically understood the perils of completely ignoring precedent and the will of the people. Chief Justice John Roberts is different.</page_summary>
+    </urls>
+</trackingsummarydata>

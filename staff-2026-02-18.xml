@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<trackingsummarydata>
+    <dns_temps>0</dns_temps>
+    <bad_doms>0</bad_doms>
+    <bounces>0</bounces>
+    <invalids>0</invalids>
+    <mes_missings>0</mes_missings>
+    <expirations>0</expirations>
+    <skips>0</skips>
+    <aborts>0</aborts>
+    <paused>0</paused>
+    <mailed>328</mailed>
+    <received>326</received>
+    <soft_fails>0</soft_fails>
+    <hard_fails>0</hard_fails>
+    <active>0</active>
+    <unique_opens>177</unique_opens>
+    <opens>335</opens>
+    <new_members>0</new_members>
+    <unsubs>1</unsubs>
+    <total_clicks>66</total_clicks>
+    <unique_clicks>23</unique_clicks>
+    <trans>0</trans>
+    <unique_trans>0</unique_trans>
+    <streams>0</streams>
+    <unique_streams>0</unique_streams>
+    <trans_amt>0</trans_amt>
+    <units>0</units>
+    <complaints>0</complaints>
+    <successes>326</successes>
+    <immediate_transients>0</immediate_transients>
+    <internal_stops>0</internal_stops>
+    <final_technicals>0</final_technicals>
+    <unknowns>2</unknowns>
+    <invalid_users>0</invalid_users>
+    <blocked_contents>0</blocked_contents>
+    <likely_blocked>0</likely_blocked>
+    <dbversion>1203008</dbversion>
+    <start_date>2026-02-18 11:40:35</start_date>
+    <finish_date>2026-02-18 11:40:50</finish_date>
+    <subject>This week in A&amp;S: Recycling cells, small figures and scholarship winners</subject>
+    <type>list</type>
+    <subset />
+    <list>as-staff-update-l</list>
+    <title>FSSG - 02/18/25</title>
+    <urls>
+        <opens>10</opens>
+        <uniqueopens>5</uniqueopens>
+        <url>https://pma.cornell.edu/karen-jaime</url>
+        <page_title>Karen Jaime | Performing and Media Arts</page_title>
+        <page_summary>Not Available</page_summary>
+        <opens>8</opens>
+        <uniqueopens>4</uniqueopens>
+        <url>https://www.usatoday.com/story/cars/news/2026/02/15/bad-bunny-ford-truck-super-bowl/88691319007/</url>
+        <page_title>Bad Bunny performance sparks buzz for vintage Ford truck</page_title>
+        <page_summary>Bad Bunny featured a vintage Ford F-100 pickup last week, giving the automaker millions in free advertising as he connected with his Puerto Rican roots.</page_summary>
+        <opens>8</opens>
+        <uniqueopens>4</uniqueopens>
+        <url>https://news.cornell.edu/stories/2026/02/newly-identified-protein-interaction-helps-keep-cells-recycling-system-balance</url>
+        <page_title>Newly identified protein interaction helps keep cells’ recycling system in balance | Cornell Chronicle</page_title>
+        <page_summary>Cornell researchers have discovered a new way cells regulate how they respond to stress, identifying an interaction between two proteins that helps keep a critical cellular recycling system in balance.</page_summary>
+        <opens>6</opens>
+        <uniqueopens>3</uniqueopens>
+        <url>https://news.cornell.edu/stories/2026/02/museum-installation-focuses-small-figures-large-landscapes</url>
+        <page_title>Museum installation focuses on small figures in large landscapes | Cornell Chronicle</page_title>
+        <page_summary>A new student-led installation at the Herbert F. Johnson Museum of Art explores how the figures, known as “staffage,” indicate scale in paintings and also tell larger stories about the art.</page_summary>
+        <opens>6</opens>
+        <uniqueopens>3</uniqueopens>
+        <url>https://as.cornell.edu/newsletter/weekly-newsletter-2-18-26?&amp;utm_campaign=newsletter&amp;utm_source=weekly-newsletter-2-18-26</url>
+        <page_title>Weekly newsletter, 2-18-26</page_title>
+        <page_summary>Not Available</page_summary>
+        <opens>4</opens>
+        <uniqueopens>2</uniqueopens>
+        <url>https://as.cornell.edu/news/cornell-researchers-win-prize-insight-conspiracy-belief?&amp;utm_campaign=newsletter&amp;utm_source=weekly-newsletter-2-18-26</url>
+        <page_title>Cornell researchers win prize for insight into conspiracy belief</page_title>
+        <page_summary>Gordon Pennycook and David Rand won the 2026 Newcomb Cleveland Prize from the American Association for the Advancement of Science.</page_summary>
+        <opens>4</opens>
+        <uniqueopens>2</uniqueopens>
+        <url>https://as.cornell.edu/news/events-honor-legacy-composer-steven-stucky?&amp;utm_campaign=newsletter&amp;utm_source=weekly-newsletter-2-18-26</url>
+        <page_title>Events honor the legacy of composer Steven Stucky</page_title>
+        <page_summary>The Department of Music is honoring the late Steven Stucky, Pulitzer Prize-winning composer and beloved Cornell professor, with a series of concerts.</page_summary>
+        <opens>4</opens>
+        <uniqueopens>2</uniqueopens>
+        <url>https://as.cornell.edu/news/student-chosen-civic-engagement-scholarship?&amp;utm_campaign=newsletter&amp;utm_source=weekly-newsletter-2-18-26</url>
+        <page_title>A&amp;S student chosen for civic engagement scholarship</page_title>
+        <page_summary>Katrina Greene '27 will be headed to Washington, D.C. as a John Robert Lewis Scholar, an award given by the Faith and Politics Institute.</page_summary>
+        <opens>4</opens>
+        <uniqueopens>2</uniqueopens>
+        <url>https://www.theguardian.com/environment/2026/feb/09/global-economy-transformed-humanity-future-un-chief-antonio-guterres</url>
+        <page_title>Global economy must move past GDP to avoid planetary disaster, warns UN chief | United Nations | The Guardian</page_title>
+        <page_summary>Exclusive: António Guterres says world’s accounting systems should place true value on the environment</page_summary>
+        <opens>4</opens>
+        <uniqueopens>2</uniqueopens>
+        <url>https://as.cornell.edu/news/awards-and-honors?&amp;utm_campaign=newsletter&amp;utm_source=weekly-newsletter-1-20-26?&amp;utm_campaign=newsletter&amp;utm_source=2-2-26-newsletter?&amp;utm_campaign=newsletter&amp;utm_source=weekly-newsletter-2-18-26</url>
+        <page_title>Awards and Honors</page_title>
+        <page_summary>Awards and honors received by faculty, postdocs and graduate students in the College of Arts &amp; Sciences.</page_summary>
+    </urls>
+</trackingsummarydata>
