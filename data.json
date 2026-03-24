@@ -1,5 +1,691 @@
 [
   {
+    "filename": "faculty-2026-03-16.xml",
+    "type": "faculty",
+    "date": "2026-03-16",
+    "year": 2026,
+    "semester": "Spring",
+    "subject": "This week in A&S: White House journalists, Google/physicists collabs",
+    "mailed": 715,
+    "unique_opens": 439,
+    "opens": 816,
+    "open_rate": 61.4,
+    "unique_clicks": 48,
+    "total_clicks": 114,
+    "click_rate": 6.7,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/news/world-according-sound-offers-immersive-audio-experience-march-23?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-16-26",
+        "display": "as.cornell.edu/news/world-according-sound-offers-immersive-audio-experience-march-23",
+        "page_title": "World According to Sound offers immersive audio experience March 23",
+        "page_summary": "A sonic experience where the audience sits blindfolded is returning to Cornell March 23 for a 6 p.m. performance in Sage Chapel.",
+        "total_clicks": 36,
+        "unique_clicks": 18
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2026/03/testing-large-language-models-scientific-literature",
+        "display": "news.cornell.edu/stories/2026/03/testing-large-language-models-scientific-literature",
+        "page_title": "Testing large language models on scientific literature | Cornell Chronicle",
+        "page_summary": "Cornell physicists and Google researchers engaged a panel of 12 human experts to test the ability of six LLM systems to understand scientific literature at the level of a specialist.",
+        "total_clicks": 25,
+        "unique_clicks": 15
+      },
+      {
+        "url": "https://as.cornell.edu/news/ny-times-writer-and-klarman-79-civil-debate-can-change-minds?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-16-26",
+        "display": "as.cornell.edu/news/ny-times-writer-and-klarman-79-civil-debate-can-change-minds",
+        "page_title": "NY Times writer and Klarman '79: Civil debate can change minds",
+        "page_summary": "A live and online audience of nearly 1,000 tapped into an ongoing conversation between Bret Stephens and Seth Klarman about media, democracy, education and the nature of debate.",
+        "total_clicks": 12,
+        "unique_clicks": 6
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-3-16-26?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-16-26",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-3-16-26",
+        "page_title": "weekly newsletter 3-16-26",
+        "page_summary": "Not Available",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://events.cornell.edu/event/2026-rabinor-lectures-in-american-studies-with-ken-warren",
+        "display": "events.cornell.edu/event/2026-rabinor-lectures-in-american-studies-with-ken-warren",
+        "page_title": "2026 Rabinor Lectures in American Studies with Ken Warren - Cornell",
+        "page_summary": "Race, Democracy, and the Problem of the Working Class",
+        "total_clicks": 7,
+        "unique_clicks": 5
+      },
+      {
+        "url": "https://as.cornell.edu/news/ny-times-journalist-offer-insights-white-house-reporting?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-16-26",
+        "display": "as.cornell.edu/news/ny-times-journalist-offer-insights-white-house-reporting",
+        "page_title": "NY Times journalist to offer insights on White House reporting",
+        "page_summary": "New York Times White House correspondent Zolan Kanno-Youngs will share insights about his work covering immigration, homeland security, criminal justice and inequality in an event March 17 with Dean Peter John Loewen.",
+        "total_clicks": 7,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://events.cornell.edu/event/penumbra-2026-annual-spring-dance-presenting-series",
+        "display": "events.cornell.edu/event/penumbra-2026-annual-spring-dance-presenting-series",
+        "page_title": "PENUMBRA: 2026 ANNUAL SPRING DANCE PRESENTING SERIES - Cornell",
+        "page_summary": "Join the Department of Performing and Media Arts for PENUMBRA: 2026 ANNUAL SPRING DANCE PRESENTING SERIES, an evening of original dance work featuring choreography by Babatunji Johnson and Assistant Professor of the Practice Danielle Russo, on Fri...",
+        "total_clicks": 5,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://as.cornell.edu/public-engagement/arts-unplugged?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-16-26",
+        "display": "as.cornell.edu/public-engagement/arts-unplugged",
+        "page_title": "Arts Unplugged",
+        "page_summary": "The College of Arts & Sciences’ Arts Unplugged series brings research and creative works into the public sphere for discussion and inspiration. These engaging events invite a broad audience to explore the work of scholars, faculty and creative lum...",
+        "total_clicks": 5,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://events.cornell.edu/event/inside-journalism-a-conversation-with-nprs-robin-young-and-the-ny-times-zolan-kanno-youngs",
+        "display": "events.cornell.edu/event/inside-journalism-a-conversation-with-nprs-robin-young-and-the-ny-times-zolan-kanno-youngs",
+        "page_title": "Inside Journalism: A Conversation with NPR’s Robin Young and the NY Times’ Zolan Kanno-Youngs - Cornell",
+        "page_summary": "\"Inside Journalism: A Conversation with NPR’s Robin Young and the NY Times’ Zolan Kanno-Youngs\" will be moderated by Sophia Dasser ’28, Editor-in-Chief of the Cornell Daily Sun. The conversation will explore careers in journalism today in both pri...",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2026/03/stem-cell-registry-drive-will-mobilize-campus-save-lives",
+        "display": "news.cornell.edu/stories/2026/03/stem-cell-registry-drive-will-mobilize-campus-save-lives",
+        "page_title": "Stem-cell registry drive will mobilize campus to save lives | Cornell Chronicle",
+        "page_summary": "To help the son of an alum and thousands of people in need of life-saving intervention, Cornell is hosting a stem-cell cheek swabbing campaign March 13-20 across the Ithaca campus.",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      }
+    ]
+  },
+  {
+    "filename": "graduatestudents-2026-03-16.xml",
+    "type": "graduatestudents",
+    "date": "2026-03-16",
+    "year": 2026,
+    "semester": "Spring",
+    "subject": "This week in A&S: White House journalists, Google/physicists collabs",
+    "mailed": 1448,
+    "unique_opens": 997,
+    "opens": 1644,
+    "open_rate": 68.9,
+    "unique_clicks": 39,
+    "total_clicks": 69,
+    "click_rate": 2.7,
+    "unsubs": 1,
+    "urls": [
+      {
+        "url": "https://news.cornell.edu/stories/2026/03/testing-large-language-models-scientific-literature",
+        "display": "news.cornell.edu/stories/2026/03/testing-large-language-models-scientific-literature",
+        "page_title": "Testing large language models on scientific literature | Cornell Chronicle",
+        "page_summary": "Cornell physicists and Google researchers engaged a panel of 12 human experts to test the ability of six LLM systems to understand scientific literature at the level of a specialist.",
+        "total_clicks": 15,
+        "unique_clicks": 13
+      },
+      {
+        "url": "https://as.cornell.edu/news/world-according-sound-offers-immersive-audio-experience-march-23?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-16-26",
+        "display": "as.cornell.edu/news/world-according-sound-offers-immersive-audio-experience-march-23",
+        "page_title": "World According to Sound offers immersive audio experience March 23",
+        "page_summary": "A sonic experience where the audience sits blindfolded is returning to Cornell March 23 for a 6 p.m. performance in Sage Chapel.",
+        "total_clicks": 13,
+        "unique_clicks": 9
+      },
+      {
+        "url": "https://as.cornell.edu/news/ny-times-journalist-offer-insights-white-house-reporting?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-16-26",
+        "display": "as.cornell.edu/news/ny-times-journalist-offer-insights-white-house-reporting",
+        "page_title": "NY Times journalist to offer insights on White House reporting",
+        "page_summary": "New York Times White House correspondent Zolan Kanno-Youngs will share insights about his work covering immigration, homeland security, criminal justice and inequality in an event March 17 with Dean Peter John Loewen.",
+        "total_clicks": 11,
+        "unique_clicks": 6
+      },
+      {
+        "url": "https://events.cornell.edu/event/2026-rabinor-lectures-in-american-studies-with-ken-warren",
+        "display": "events.cornell.edu/event/2026-rabinor-lectures-in-american-studies-with-ken-warren",
+        "page_title": "2026 Rabinor Lectures in American Studies with Ken Warren - Cornell",
+        "page_summary": "Race, Democracy, and the Problem of the Working Class",
+        "total_clicks": 7,
+        "unique_clicks": 5
+      },
+      {
+        "url": "https://events.cornell.edu/event/professional-directions-a-conversation-with-keri-putnam-ad-white-professor-at-large",
+        "display": "events.cornell.edu/event/professional-directions-a-conversation-with-keri-putnam-ad-white-professor-at-large",
+        "page_title": "Professional Directions: A Conversation with Keri Putnam, A.D. White Professor-at-Large - Cornell",
+        "page_summary": "Join the Department of Performing and Media Arts for Professional Directions: A Conversation with Keri Putnam, A.D. White Professor-at-Large on Thursday, March 19, at 2:00 pm, in the Film Forum, Schwartz Center for the Performing Arts. Free and op...",
+        "total_clicks": 5,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://www.bbc.com/news/articles/cp9meeek051o",
+        "display": "www.bbc.com/news/articles/cp9meeek051o",
+        "page_title": "China approves 'ethnic unity' law requiring minorities to learn Mandarin",
+        "page_summary": "The law states that children should be taught Mandarin before kindergarten, until the end of high school.",
+        "total_clicks": 3,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://as.cornell.edu/news/ny-times-writer-and-klarman-79-civil-debate-can-change-minds?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-16-26",
+        "display": "as.cornell.edu/news/ny-times-writer-and-klarman-79-civil-debate-can-change-minds",
+        "page_title": "NY Times writer and Klarman '79: Civil debate can change minds",
+        "page_summary": "A live and online audience of nearly 1,000 tapped into an ongoing conversation between Bret Stephens and Seth Klarman about media, democracy, education and the nature of debate.",
+        "total_clicks": 3,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://anthropology.cornell.edu/magnus-fiskesjo",
+        "display": "anthropology.cornell.edu/magnus-fiskesjo",
+        "page_title": "Magnus Fiskesjö | Department of Anthropology",
+        "page_summary": "Not Available",
+        "total_clicks": 2,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://events.cornell.edu/event/biogeochemistry-seminar-series-ashley-helton",
+        "display": "events.cornell.edu/event/biogeochemistry-seminar-series-ashley-helton",
+        "page_title": "Biogeochemistry Seminar Series - Ashley Helton - Cornell",
+        "page_summary": "Seminar title: Where the past meets the present: Connecting stream ecosystems to their watersheds through groundwater flow paths.\n\nHosted by Meredith Holgerson",
+        "total_clicks": 2,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://apnews.com/article/markets-oil-iran-trump-war-brent-72e8c9a29c2ba1fd761ee968f3d4e553",
+        "display": "apnews.com/article/markets-oil-iran-trump-war-brent-72e8c9a29c2ba1fd761ee968f3d4e553",
+        "page_title": "Crude oil prices swing wildly as Iran war threatens supplies | AP News",
+        "page_summary": "The Iran war has upended oil production and shipping across the Middle East, straining energy supplies worldwide. And crude prices swung wildly Monday.",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      }
+    ]
+  },
+  {
+    "filename": "staff-2026-03-16.xml",
+    "type": "staff",
+    "date": "2026-03-16",
+    "year": 2026,
+    "semester": "Spring",
+    "subject": "This week in A&S: White House journalists, Google/physicists collabs",
+    "mailed": 325,
+    "unique_opens": 182,
+    "opens": 315,
+    "open_rate": 56.0,
+    "unique_clicks": 31,
+    "total_clicks": 77,
+    "click_rate": 9.5,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/news/world-according-sound-offers-immersive-audio-experience-march-23?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-16-26",
+        "display": "as.cornell.edu/news/world-according-sound-offers-immersive-audio-experience-march-23",
+        "page_title": "World According to Sound offers immersive audio experience March 23",
+        "page_summary": "A sonic experience where the audience sits blindfolded is returning to Cornell March 23 for a 6 p.m. performance in Sage Chapel.",
+        "total_clicks": 24,
+        "unique_clicks": 11
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-3-16-26?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-16-26",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-3-16-26",
+        "page_title": "weekly newsletter 3-16-26",
+        "page_summary": "Not Available",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/public-engagement/arts-unplugged?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-16-26",
+        "display": "as.cornell.edu/public-engagement/arts-unplugged",
+        "page_title": "Arts Unplugged",
+        "page_summary": "The College of Arts & Sciences’ Arts Unplugged series brings research and creative works into the public sphere for discussion and inspiration. These engaging events invite a broad audience to explore the work of scholars, faculty and creative lum...",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2026/03/stem-cell-registry-drive-will-mobilize-campus-save-lives",
+        "display": "news.cornell.edu/stories/2026/03/stem-cell-registry-drive-will-mobilize-campus-save-lives",
+        "page_title": "Stem-cell registry drive will mobilize campus to save lives | Cornell Chronicle",
+        "page_summary": "To help the son of an alum and thousands of people in need of life-saving intervention, Cornell is hosting a stem-cell cheek swabbing campaign March 13-20 across the Ithaca campus.",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://events.cornell.edu/event/inside-journalism-a-conversation-with-nprs-robin-young-and-the-ny-times-zolan-kanno-youngs",
+        "display": "events.cornell.edu/event/inside-journalism-a-conversation-with-nprs-robin-young-and-the-ny-times-zolan-kanno-youngs",
+        "page_title": "Inside Journalism: A Conversation with NPR’s Robin Young and the NY Times’ Zolan Kanno-Youngs - Cornell",
+        "page_summary": "\"Inside Journalism: A Conversation with NPR’s Robin Young and the NY Times’ Zolan Kanno-Youngs\" will be moderated by Sophia Dasser ’28, Editor-in-Chief of the Cornell Daily Sun. The conversation will explore careers in journalism today in both pri...",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://as.cornell.edu/news/renowned-pianist-sir-stephen-hough-plays-dallas-morse-coors-concert-series?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-16-26",
+        "display": "as.cornell.edu/news/renowned-pianist-sir-stephen-hough-plays-dallas-morse-coors-concert-series",
+        "page_title": "Renowned pianist Sir Stephen Hough plays Dallas Morse Coors Concert Series",
+        "page_summary": "In the concert, Hough will play an imaginative program that includes works by Schubert, Brahms, Schoenberg, Beethoven and a suite from \"Mary Poppins.\"",
+        "total_clicks": 5,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://as.cornell.edu/news/ny-times-writer-and-klarman-79-civil-debate-can-change-minds?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-16-26",
+        "display": "as.cornell.edu/news/ny-times-writer-and-klarman-79-civil-debate-can-change-minds",
+        "page_title": "NY Times writer and Klarman '79: Civil debate can change minds",
+        "page_summary": "A live and online audience of nearly 1,000 tapped into an ongoing conversation between Bret Stephens and Seth Klarman about media, democracy, education and the nature of debate.",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://events.cornell.edu/event/penumbra-2026-annual-spring-dance-presenting-series",
+        "display": "events.cornell.edu/event/penumbra-2026-annual-spring-dance-presenting-series",
+        "page_title": "PENUMBRA: 2026 ANNUAL SPRING DANCE PRESENTING SERIES - Cornell",
+        "page_summary": "Join the Department of Performing and Media Arts for PENUMBRA: 2026 ANNUAL SPRING DANCE PRESENTING SERIES, an evening of original dance work featuring choreography by Babatunji Johnson and Assistant Professor of the Practice Danielle Russo, on Fri...",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2026/03/testing-large-language-models-scientific-literature",
+        "display": "news.cornell.edu/stories/2026/03/testing-large-language-models-scientific-literature",
+        "page_title": "Testing large language models on scientific literature | Cornell Chronicle",
+        "page_summary": "Cornell physicists and Google researchers engaged a panel of 12 human experts to test the ability of six LLM systems to understand scientific literature at the level of a specialist.",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      },
+      {
+        "url": "https://events.cornell.edu/event/professional-directions-a-conversation-with-keri-putnam-ad-white-professor-at-large",
+        "display": "events.cornell.edu/event/professional-directions-a-conversation-with-keri-putnam-ad-white-professor-at-large",
+        "page_title": "Professional Directions: A Conversation with Keri Putnam, A.D. White Professor-at-Large - Cornell",
+        "page_summary": "Join the Department of Performing and Media Arts for Professional Directions: A Conversation with Keri Putnam, A.D. White Professor-at-Large on Thursday, March 19, at 2:00 pm, in the Film Forum, Schwartz Center for the Performing Arts. Free and op...",
+        "total_clicks": 2,
+        "unique_clicks": 1
+      }
+    ]
+  },
+  {
+    "filename": "students-2026-03-16.xml",
+    "type": "students",
+    "date": "2026-03-16",
+    "year": 2026,
+    "semester": "Spring",
+    "subject": "This week in A&S: White House journalists, Google/physicists collabs",
+    "mailed": 4590,
+    "unique_opens": 3126,
+    "opens": 4798,
+    "open_rate": 68.1,
+    "unique_clicks": 89,
+    "total_clicks": 224,
+    "click_rate": 1.9,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/news/world-according-sound-offers-immersive-audio-experience-march-23?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-16-26",
+        "display": "as.cornell.edu/news/world-according-sound-offers-immersive-audio-experience-march-23",
+        "page_title": "World According to Sound offers immersive audio experience March 23",
+        "page_summary": "A sonic experience where the audience sits blindfolded is returning to Cornell March 23 for a 6 p.m. performance in Sage Chapel.",
+        "total_clicks": 36,
+        "unique_clicks": 32
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2026/03/testing-large-language-models-scientific-literature",
+        "display": "news.cornell.edu/stories/2026/03/testing-large-language-models-scientific-literature",
+        "page_title": "Testing large language models on scientific literature | Cornell Chronicle",
+        "page_summary": "Cornell physicists and Google researchers engaged a panel of 12 human experts to test the ability of six LLM systems to understand scientific literature at the level of a specialist.",
+        "total_clicks": 32,
+        "unique_clicks": 30
+      },
+      {
+        "url": "https://as.cornell.edu/news/ny-times-journalist-offer-insights-white-house-reporting?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-16-26",
+        "display": "as.cornell.edu/news/ny-times-journalist-offer-insights-white-house-reporting",
+        "page_title": "NY Times journalist to offer insights on White House reporting",
+        "page_summary": "New York Times White House correspondent Zolan Kanno-Youngs will share insights about his work covering immigration, homeland security, criminal justice and inequality in an event March 17 with Dean Peter John Loewen.",
+        "total_clicks": 29,
+        "unique_clicks": 27
+      },
+      {
+        "url": "https://as.cornell.edu/public-engagement/arts-unplugged?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-16-26",
+        "display": "as.cornell.edu/public-engagement/arts-unplugged",
+        "page_title": "Arts Unplugged",
+        "page_summary": "The College of Arts & Sciences’ Arts Unplugged series brings research and creative works into the public sphere for discussion and inspiration. These engaging events invite a broad audience to explore the work of scholars, faculty and creative lum...",
+        "total_clicks": 14,
+        "unique_clicks": 14
+      },
+      {
+        "url": "https://events.cornell.edu/event/2026-rabinor-lectures-in-american-studies-with-ken-warren",
+        "display": "events.cornell.edu/event/2026-rabinor-lectures-in-american-studies-with-ken-warren",
+        "page_title": "2026 Rabinor Lectures in American Studies with Ken Warren - Cornell",
+        "page_summary": "Race, Democracy, and the Problem of the Working Class",
+        "total_clicks": 13,
+        "unique_clicks": 13
+      },
+      {
+        "url": "https://events.cornell.edu/event/inside-journalism-a-conversation-with-nprs-robin-young-and-the-ny-times-zolan-kanno-youngs",
+        "display": "events.cornell.edu/event/inside-journalism-a-conversation-with-nprs-robin-young-and-the-ny-times-zolan-kanno-youngs",
+        "page_title": "Inside Journalism: A Conversation with NPR’s Robin Young and the NY Times’ Zolan Kanno-Youngs - Cornell",
+        "page_summary": "\"Inside Journalism: A Conversation with NPR’s Robin Young and the NY Times’ Zolan Kanno-Youngs\" will be moderated by Sophia Dasser ’28, Editor-in-Chief of the Cornell Daily Sun. The conversation will explore careers in journalism today in both pri...",
+        "total_clicks": 12,
+        "unique_clicks": 12
+      },
+      {
+        "url": "https://as.cornell.edu/news/ny-times-writer-and-klarman-79-civil-debate-can-change-minds?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-16-26",
+        "display": "as.cornell.edu/news/ny-times-writer-and-klarman-79-civil-debate-can-change-minds",
+        "page_title": "NY Times writer and Klarman '79: Civil debate can change minds",
+        "page_summary": "A live and online audience of nearly 1,000 tapped into an ongoing conversation between Bret Stephens and Seth Klarman about media, democracy, education and the nature of debate.",
+        "total_clicks": 12,
+        "unique_clicks": 12
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2026/03/stem-cell-registry-drive-will-mobilize-campus-save-lives",
+        "display": "news.cornell.edu/stories/2026/03/stem-cell-registry-drive-will-mobilize-campus-save-lives",
+        "page_title": "Stem-cell registry drive will mobilize campus to save lives | Cornell Chronicle",
+        "page_summary": "To help the son of an alum and thousands of people in need of life-saving intervention, Cornell is hosting a stem-cell cheek swabbing campaign March 13-20 across the Ithaca campus.",
+        "total_clicks": 10,
+        "unique_clicks": 10
+      },
+      {
+        "url": "https://events.cornell.edu/event/professional-directions-a-conversation-with-keri-putnam-ad-white-professor-at-large",
+        "display": "events.cornell.edu/event/professional-directions-a-conversation-with-keri-putnam-ad-white-professor-at-large",
+        "page_title": "Professional Directions: A Conversation with Keri Putnam, A.D. White Professor-at-Large - Cornell",
+        "page_summary": "Join the Department of Performing and Media Arts for Professional Directions: A Conversation with Keri Putnam, A.D. White Professor-at-Large on Thursday, March 19, at 2:00 pm, in the Film Forum, Schwartz Center for the Performing Arts. Free and op...",
+        "total_clicks": 10,
+        "unique_clicks": 10
+      },
+      {
+        "url": "https://events.cornell.edu/event/penumbra-2026-annual-spring-dance-presenting-series",
+        "display": "events.cornell.edu/event/penumbra-2026-annual-spring-dance-presenting-series",
+        "page_title": "PENUMBRA: 2026 ANNUAL SPRING DANCE PRESENTING SERIES - Cornell",
+        "page_summary": "Join the Department of Performing and Media Arts for PENUMBRA: 2026 ANNUAL SPRING DANCE PRESENTING SERIES, an evening of original dance work featuring choreography by Babatunji Johnson and Assistant Professor of the Practice Danielle Russo, on Fri...",
+        "total_clicks": 9,
+        "unique_clicks": 9
+      }
+    ]
+  },
+  {
+    "filename": "faculty-2026-03-09.xml",
+    "type": "faculty",
+    "date": "2026-03-09",
+    "year": 2026,
+    "semester": "Spring",
+    "subject": "This week in A&S: Corporate BS, quantum chaos and Giving Day",
+    "mailed": 715,
+    "unique_opens": 446,
+    "opens": 880,
+    "open_rate": 62.4,
+    "unique_clicks": 74,
+    "total_clicks": 168,
+    "click_rate": 10.3,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://news.cornell.edu/stories/2026/03/cornell-center-social-sciences-names-2026-27-faculty-fellows",
+        "display": "news.cornell.edu/stories/2026/03/cornell-center-social-sciences-names-2026-27-faculty-fellows",
+        "page_title": "Cornell Center for Social Sciences names 2026-27 Faculty Fellows | Cornell Chronicle",
+        "page_summary": "The Cornell Center for Social Sciences has selected 10 faculty members as 2026–27 Faculty Fellows, providing course release and funding to support interdisciplinary social science research with real-world impact.",
+        "total_clicks": 70,
+        "unique_clicks": 36
+      },
+      {
+        "url": "https://as.cornell.edu/news/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-9-26",
+        "display": "as.cornell.edu/news/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
+        "page_title": "Workers who love ‘synergizing paradigms’ might be bad at their jobs",
+        "page_summary": "Employees who are impressed by vague corporate-speak like “synergistic leadership,” or “growth-hacking paradigms” may struggle with practical decision-making, a new Cornell study into “corporate BS” reveals.",
+        "total_clicks": 25,
+        "unique_clicks": 13
+      },
+      {
+        "url": "https://as.cornell.edu/news/planetary-scientist-robert-sullivan-dies-63?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-9-26",
+        "display": "as.cornell.edu/news/planetary-scientist-robert-sullivan-dies-63",
+        "page_title": "Planetary scientist Robert Sullivan dies at 63",
+        "page_summary": "Robert John Sullivan, Jr., one of the world’s foremost authorities on aeolian processes -- how wind can carve and change a landscape -- died Feb. 15 in Ithaca.",
+        "total_clicks": 14,
+        "unique_clicks": 9
+      },
+      {
+        "url": "https://as.cornell.edu/news/holding-chaos-bay-quantum-world?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-9-26",
+        "display": "as.cornell.edu/news/holding-chaos-bay-quantum-world",
+        "page_title": "Holding chaos at bay in the quantum world",
+        "page_summary": "Researchers have found that quantum systems in a frozen state can be stabilized long enough to be a useful strategy for preserving information before it disappears.",
+        "total_clicks": 12,
+        "unique_clicks": 7
+      },
+      {
+        "url": "https://events.cornell.edu/event/bad-bunny-and-the-politics-of-culture",
+        "display": "events.cornell.edu/event/bad-bunny-and-the-politics-of-culture",
+        "page_title": "Bad Bunny and the Politics of Culture - Cornell",
+        "page_summary": "Rebeca Hey-Colon Faculty ENGL, LSP, AMST\n\nPaul Ortiz Faculty ILR, LSP, AMST\n\nSofia Alexandra Meadows-Muriel PhD Student Africana Studies\n\nIsabel Padilla PhD Candidate PMA\n\nAdolfho Romero PhD Candidate ILR\n\n \n\nWhile celebrity culture won't save us,...",
+        "total_clicks": 10,
+        "unique_clicks": 5
+      },
+      {
+        "url": "https://www.cornellstore.com/schools/college-of-arts-sciences",
+        "display": "www.cornellstore.com/schools/college-of-arts-sciences",
+        "page_title": "Shop The Cornell Store For Arts & Sciences Merchandise",
+        "page_summary": "Shop The Cornell Store for Cornell University College of Arts and Sciences merchandise.",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://events.cornell.edu/event/asl-lecture-series-philip-brevin",
+        "display": "events.cornell.edu/event/asl-lecture-series-philip-brevin",
+        "page_title": "ASL Lecture Series: Philip Bravin - Cornell",
+        "page_summary": "The ASL Program at the Department of Linguistics proudly presents Philip Bravin, Trustee Emeritus at Gallaudet University.  Dr. Bravin will present on \"How the World Changed for the Deaf Community in 7 Days\".\n\nControlling Our Destiny: A Board Memb...",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://as.cornell.edu/news/ny-times-journalist-offer-insights-white-house-reporting?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-9-26",
+        "display": "as.cornell.edu/news/ny-times-journalist-offer-insights-white-house-reporting",
+        "page_title": "NY Times journalist to offer insights on White House reporting",
+        "page_summary": "New York Times White House correspondent Zolan Kanno-Youngs will share insights about his work covering immigration, homeland security, criminal justice and inequality in an event March 17 with Dean Peter John Loewen.",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://events.cornell.edu/event/venezuelan-perspectives-on-us-interventionism",
+        "display": "events.cornell.edu/event/venezuelan-perspectives-on-us-interventionism",
+        "page_title": "Venezuelan Perspectives on U.S. Interventionism - Cornell",
+        "page_summary": "Recent U.S. military actions in Venezuela—including strikes on civilian boats, the seizure of oil tankers, and the abduction of President Nicolas Maduro—have raised questions about U.S. ambitions in Latin America and their implications for peace a...",
+        "total_clicks": 4,
+        "unique_clicks": 2
+      },
+      {
+        "url": "https://as.cornell.edu/news/spacecraft-image-center-brings-universe-nys?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-9-26",
+        "display": "as.cornell.edu/news/spacecraft-image-center-brings-universe-nys",
+        "page_title": "Spacecraft image center brings the universe to NYS",
+        "page_summary": "Cornell’s Spacecraft Planetary Image Facility (SPIF), which manages print and online images taken by NASA missions, supports astronomy research and conducts dozens of outreach events every year.",
+        "total_clicks": 3,
+        "unique_clicks": 2
+      }
+    ]
+  },
+  {
+    "filename": "staff-2026-03-09.xml",
+    "type": "staff",
+    "date": "2026-03-09",
+    "year": 2026,
+    "semester": "Spring",
+    "subject": "This week in A&S: Corporate BS, quantum chaos and Giving Day",
+    "mailed": 323,
+    "unique_opens": 183,
+    "opens": 350,
+    "open_rate": 56.7,
+    "unique_clicks": 44,
+    "total_clicks": 159,
+    "click_rate": 13.6,
+    "unsubs": 0,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/news/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-9-26",
+        "display": "as.cornell.edu/news/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
+        "page_title": "Workers who love ‘synergizing paradigms’ might be bad at their jobs",
+        "page_summary": "Employees who are impressed by vague corporate-speak like “synergistic leadership,” or “growth-hacking paradigms” may struggle with practical decision-making, a new Cornell study into “corporate BS” reveals.",
+        "total_clicks": 36,
+        "unique_clicks": 18
+      },
+      {
+        "url": "https://www.cornellstore.com/schools/college-of-arts-sciences",
+        "display": "www.cornellstore.com/schools/college-of-arts-sciences",
+        "page_title": "Shop The Cornell Store For Arts & Sciences Merchandise",
+        "page_summary": "Shop The Cornell Store for Cornell University College of Arts and Sciences merchandise.",
+        "total_clicks": 28,
+        "unique_clicks": 14
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2026/03/cornell-center-social-sciences-names-2026-27-faculty-fellows",
+        "display": "news.cornell.edu/stories/2026/03/cornell-center-social-sciences-names-2026-27-faculty-fellows",
+        "page_title": "Cornell Center for Social Sciences names 2026-27 Faculty Fellows | Cornell Chronicle",
+        "page_summary": "The Cornell Center for Social Sciences has selected 10 faculty members as 2026–27 Faculty Fellows, providing course release and funding to support interdisciplinary social science research with real-world impact.",
+        "total_clicks": 24,
+        "unique_clicks": 11
+      },
+      {
+        "url": "https://as.cornell.edu/news/planetary-scientist-robert-sullivan-dies-63?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-9-26",
+        "display": "as.cornell.edu/news/planetary-scientist-robert-sullivan-dies-63",
+        "page_title": "Planetary scientist Robert Sullivan dies at 63",
+        "page_summary": "Robert John Sullivan, Jr., one of the world’s foremost authorities on aeolian processes -- how wind can carve and change a landscape -- died Feb. 15 in Ithaca.",
+        "total_clicks": 11,
+        "unique_clicks": 6
+      },
+      {
+        "url": "https://as.cornell.edu/newsletter/weekly-newsletter-3-9-26?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-9-26",
+        "display": "as.cornell.edu/newsletter/weekly-newsletter-3-9-26",
+        "page_title": "Weekly newsletter 3-9-26",
+        "page_summary": "Not Available",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/news/holding-chaos-bay-quantum-world?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-9-26",
+        "display": "as.cornell.edu/news/holding-chaos-bay-quantum-world",
+        "page_title": "Holding chaos at bay in the quantum world",
+        "page_summary": "Researchers have found that quantum systems in a frozen state can be stabilized long enough to be a useful strategy for preserving information before it disappears.",
+        "total_clicks": 8,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://as.cornell.edu/news/ny-times-journalist-offer-insights-white-house-reporting?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-9-26",
+        "display": "as.cornell.edu/news/ny-times-journalist-offer-insights-white-house-reporting",
+        "page_title": "NY Times journalist to offer insights on White House reporting",
+        "page_summary": "New York Times White House correspondent Zolan Kanno-Youngs will share insights about his work covering immigration, homeland security, criminal justice and inequality in an event March 17 with Dean Peter John Loewen.",
+        "total_clicks": 7,
+        "unique_clicks": 4
+      },
+      {
+        "url": "https://events.cornell.edu/event/asl-lecture-series-philip-brevin",
+        "display": "events.cornell.edu/event/asl-lecture-series-philip-brevin",
+        "page_title": "ASL Lecture Series: Philip Bravin - Cornell",
+        "page_summary": "The ASL Program at the Department of Linguistics proudly presents Philip Bravin, Trustee Emeritus at Gallaudet University.  Dr. Bravin will present on \"How the World Changed for the Deaf Community in 7 Days\".\n\nControlling Our Destiny: A Board Memb...",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://events.cornell.edu/event/professional-directions-expand-your-scope-working-as-a-creative-in-entertainment-with-carolyn-michelle-smith",
+        "display": "events.cornell.edu/event/professional-directions-expand-your-scope-working-as-a-creative-in-entertainment-with-carolyn-michelle-smith",
+        "page_title": "Professional Directions: Expand Your Scope: Working as a Creative in Entertainment with Carolyn Michelle Smith - Cornell",
+        "page_summary": "Join the Department of Performing and Media Arts for Professional Directions: Expand Your Scope: Working as a Creative in Entertainment with Carolyn Michelle Smith on Friday, March 13, from 12:30 pm - 1:30 pm, in Room 220, Schwartz Center for the ...",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      },
+      {
+        "url": "https://givingday.cornell.edu/organizations/college-of-arts-and-sciences",
+        "display": "givingday.cornell.edu/organizations/college-of-arts-and-sciences",
+        "page_title": "Give to College of Arts & Sciences | Cornell Giving Day",
+        "page_summary": "I’m ready to support College of Arts & Sciences on March 12, 2026 during Cornell Giving Day.\n  Learn more about College of Arts & Sciences and all the other areas\n  participating in Cornell Giving Day.",
+        "total_clicks": 6,
+        "unique_clicks": 3
+      }
+    ]
+  },
+  {
+    "filename": "students-2026-03-09.xml",
+    "type": "students",
+    "date": "2026-03-09",
+    "year": 2026,
+    "semester": "Spring",
+    "subject": "This week in A&S: Corporate BS, quantum chaos and Giving Day",
+    "mailed": 4592,
+    "unique_opens": 3092,
+    "opens": 4736,
+    "open_rate": 67.3,
+    "unique_clicks": 92,
+    "total_clicks": 243,
+    "click_rate": 2.0,
+    "unsubs": 2,
+    "urls": [
+      {
+        "url": "https://as.cornell.edu/news/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-9-26",
+        "display": "as.cornell.edu/news/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
+        "page_title": "Workers who love ‘synergizing paradigms’ might be bad at their jobs",
+        "page_summary": "Employees who are impressed by vague corporate-speak like “synergistic leadership,” or “growth-hacking paradigms” may struggle with practical decision-making, a new Cornell study into “corporate BS” reveals.",
+        "total_clicks": 52,
+        "unique_clicks": 46
+      },
+      {
+        "url": "https://as.cornell.edu/news/holding-chaos-bay-quantum-world?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-9-26",
+        "display": "as.cornell.edu/news/holding-chaos-bay-quantum-world",
+        "page_title": "Holding chaos at bay in the quantum world",
+        "page_summary": "Researchers have found that quantum systems in a frozen state can be stabilized long enough to be a useful strategy for preserving information before it disappears.",
+        "total_clicks": 28,
+        "unique_clicks": 23
+      },
+      {
+        "url": "https://www.cornellstore.com/schools/college-of-arts-sciences",
+        "display": "www.cornellstore.com/schools/college-of-arts-sciences",
+        "page_title": "Shop The Cornell Store For Arts & Sciences Merchandise",
+        "page_summary": "Shop The Cornell Store for Cornell University College of Arts and Sciences merchandise.",
+        "total_clicks": 19,
+        "unique_clicks": 18
+      },
+      {
+        "url": "https://events.cornell.edu/event/bad-bunny-and-the-politics-of-culture",
+        "display": "events.cornell.edu/event/bad-bunny-and-the-politics-of-culture",
+        "page_title": "Bad Bunny and the Politics of Culture - Cornell",
+        "page_summary": "Rebeca Hey-Colon Faculty ENGL, LSP, AMST\n\nPaul Ortiz Faculty ILR, LSP, AMST\n\nSofia Alexandra Meadows-Muriel PhD Student Africana Studies\n\nIsabel Padilla PhD Candidate PMA\n\nAdolfho Romero PhD Candidate ILR\n\n \n\nWhile celebrity culture won't save us,...",
+        "total_clicks": 18,
+        "unique_clicks": 16
+      },
+      {
+        "url": "https://as.cornell.edu/news/spacecraft-image-center-brings-universe-nys?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-9-26",
+        "display": "as.cornell.edu/news/spacecraft-image-center-brings-universe-nys",
+        "page_title": "Spacecraft image center brings the universe to NYS",
+        "page_summary": "Cornell’s Spacecraft Planetary Image Facility (SPIF), which manages print and online images taken by NASA missions, supports astronomy research and conducts dozens of outreach events every year.",
+        "total_clicks": 16,
+        "unique_clicks": 15
+      },
+      {
+        "url": "https://events.cornell.edu/event/venezuelan-perspectives-on-us-interventionism",
+        "display": "events.cornell.edu/event/venezuelan-perspectives-on-us-interventionism",
+        "page_title": "Venezuelan Perspectives on U.S. Interventionism - Cornell",
+        "page_summary": "Recent U.S. military actions in Venezuela—including strikes on civilian boats, the seizure of oil tankers, and the abduction of President Nicolas Maduro—have raised questions about U.S. ambitions in Latin America and their implications for peace a...",
+        "total_clicks": 16,
+        "unique_clicks": 15
+      },
+      {
+        "url": "https://as.cornell.edu/news/ny-times-journalist-offer-insights-white-house-reporting?&utm_campaign=newsletter&utm_source=weekly-newsletter-3-9-26",
+        "display": "as.cornell.edu/news/ny-times-journalist-offer-insights-white-house-reporting",
+        "page_title": "NY Times journalist to offer insights on White House reporting",
+        "page_summary": "New York Times White House correspondent Zolan Kanno-Youngs will share insights about his work covering immigration, homeland security, criminal justice and inequality in an event March 17 with Dean Peter John Loewen.",
+        "total_clicks": 15,
+        "unique_clicks": 15
+      },
+      {
+        "url": "https://events.cornell.edu/event/asl-lecture-series-philip-brevin",
+        "display": "events.cornell.edu/event/asl-lecture-series-philip-brevin",
+        "page_title": "ASL Lecture Series: Philip Bravin - Cornell",
+        "page_summary": "The ASL Program at the Department of Linguistics proudly presents Philip Bravin, Trustee Emeritus at Gallaudet University.  Dr. Bravin will present on \"How the World Changed for the Deaf Community in 7 Days\".\n\nControlling Our Destiny: A Board Memb...",
+        "total_clicks": 15,
+        "unique_clicks": 15
+      },
+      {
+        "url": "https://news.cornell.edu/stories/2026/03/cornell-center-social-sciences-names-2026-27-faculty-fellows",
+        "display": "news.cornell.edu/stories/2026/03/cornell-center-social-sciences-names-2026-27-faculty-fellows",
+        "page_title": "Cornell Center for Social Sciences names 2026-27 Faculty Fellows | Cornell Chronicle",
+        "page_summary": "The Cornell Center for Social Sciences has selected 10 faculty members as 2026–27 Faculty Fellows, providing course release and funding to support interdisciplinary social science research with real-world impact.",
+        "total_clicks": 15,
+        "unique_clicks": 13
+      },
+      {
+        "url": "https://givingday.cornell.edu/organizations/college-of-arts-and-sciences",
+        "display": "givingday.cornell.edu/organizations/college-of-arts-and-sciences",
+        "page_title": "Give to College of Arts & Sciences | Cornell Giving Day",
+        "page_summary": "I’m ready to support College of Arts & Sciences on March 12, 2026 during Cornell Giving Day.\n  Learn more about College of Arts & Sciences and all the other areas\n  participating in Cornell Giving Day.",
+        "total_clicks": 12,
+        "unique_clicks": 11
+      }
+    ]
+  },
+  {
     "filename": "graduatestudents-2026-03-02.xml",
     "type": "graduatestudents",
     "date": "2026-03-02",
@@ -588,6 +1274,23 @@
     ]
   },
   {
+    "filename": "graduatestudents-2026-02-18.xml",
+    "type": "graduatestudents",
+    "date": "2026-02-18",
+    "year": 2026,
+    "semester": "Spring",
+    "subject": "This week in A&S: Recycling cells, small figures and scholarship winners",
+    "mailed": 1450,
+    "unique_opens": 1058,
+    "opens": 1758,
+    "open_rate": 73.0,
+    "unique_clicks": 20,
+    "total_clicks": 33,
+    "click_rate": 1.4,
+    "unsubs": 1,
+    "urls": []
+  },
+  {
     "filename": "staff-2026-02-18.xml",
     "type": "staff",
     "date": "2026-02-18",
@@ -880,6 +1583,23 @@
         "unique_clicks": 2
       }
     ]
+  },
+  {
+    "filename": "graduatestudents-2026-02-09.xml",
+    "type": "graduatestudents",
+    "date": "2026-02-09",
+    "year": 2026,
+    "semester": "Spring",
+    "subject": "This week in A&S: Meet new Klarman fellows, visiting journalists",
+    "mailed": 1450,
+    "unique_opens": 1080,
+    "opens": 1942,
+    "open_rate": 74.5,
+    "unique_clicks": 159,
+    "total_clicks": 236,
+    "click_rate": 11.0,
+    "unsubs": 0,
+    "urls": []
   },
   {
     "filename": "staff-2026-02-09.xml",
@@ -1176,6 +1896,23 @@
     ]
   },
   {
+    "filename": "graduatestudents-2026-02-02.xml",
+    "type": "graduatestudents",
+    "date": "2026-02-02",
+    "year": 2026,
+    "semester": "Spring",
+    "subject": "This week in A&S: Mini-museums on campus, new LA program for students",
+    "mailed": 1450,
+    "unique_opens": 1040,
+    "opens": 1724,
+    "open_rate": 71.7,
+    "unique_clicks": 35,
+    "total_clicks": 56,
+    "click_rate": 2.4,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
     "filename": "staff-2026-02-02.xml",
     "type": "staff",
     "date": "2026-02-02",
@@ -1468,6 +2205,23 @@
         "unique_clicks": 1
       }
     ]
+  },
+  {
+    "filename": "graduatestudents-2026-01-26.xml",
+    "type": "graduatestudents",
+    "date": "2026-01-26",
+    "year": 2026,
+    "semester": "Spring",
+    "subject": "This week in A&S: Cornell Cinema's season, Russian forests and research opps",
+    "mailed": 1451,
+    "unique_opens": 1093,
+    "opens": 1910,
+    "open_rate": 75.3,
+    "unique_clicks": 48,
+    "total_clicks": 82,
+    "click_rate": 3.3,
+    "unsubs": 1,
+    "urls": []
   },
   {
     "filename": "staff-2026-01-26.xml",
@@ -1764,6 +2518,23 @@
     ]
   },
   {
+    "filename": "graduatestudents-2026-01-20.xml",
+    "type": "graduatestudents",
+    "date": "2026-01-20",
+    "year": 2026,
+    "semester": "Spring",
+    "subject": "This week in A&S: Welcome to a new semester!",
+    "mailed": 1451,
+    "unique_opens": 1070,
+    "opens": 1846,
+    "open_rate": 73.7,
+    "unique_clicks": 47,
+    "total_clicks": 96,
+    "click_rate": 3.2,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
     "filename": "staff-2026-01-20.xml",
     "type": "staff",
     "date": "2026-01-20",
@@ -2056,6 +2827,23 @@
         "unique_clicks": 4
       }
     ]
+  },
+  {
+    "filename": "graduatestudents-2025-12-15.xml",
+    "type": "graduatestudents",
+    "date": "2025-12-15",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Our top stories of 2025",
+    "mailed": 1542,
+    "unique_opens": 1070,
+    "opens": 1834,
+    "open_rate": 69.4,
+    "unique_clicks": 50,
+    "total_clicks": 91,
+    "click_rate": 3.2,
+    "unsubs": 0,
+    "urls": []
   },
   {
     "filename": "staff-2025-12-15.xml",
@@ -2352,6 +3140,23 @@
     ]
   },
   {
+    "filename": "graduatestudents-2025-12-08.xml",
+    "type": "graduatestudents",
+    "date": "2025-12-08",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Navy honors, dirty dishes, music and film",
+    "mailed": 1542,
+    "unique_opens": 1124,
+    "opens": 1854,
+    "open_rate": 72.9,
+    "unique_clicks": 24,
+    "total_clicks": 41,
+    "click_rate": 1.6,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
     "filename": "staff-2025-12-08.xml",
     "type": "staff",
     "date": "2025-12-08",
@@ -2646,6 +3451,23 @@
     ]
   },
   {
+    "filename": "graduatestudents-2025-12-01.xml",
+    "type": "graduatestudents",
+    "date": "2025-12-01",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Dean's scholars, nutcrackers and undergrad poets",
+    "mailed": 1542,
+    "unique_opens": 1073,
+    "opens": 1778,
+    "open_rate": 69.6,
+    "unique_clicks": 44,
+    "total_clicks": 63,
+    "click_rate": 2.9,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
     "filename": "staff-2025-12-01.xml",
     "type": "staff",
     "date": "2025-12-01",
@@ -2922,6 +3744,23 @@
         "unique_clicks": 1
       }
     ]
+  },
+  {
+    "filename": "graduatestudents-2025-11-24.xml",
+    "type": "graduatestudents",
+    "date": "2025-11-24",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Atomic dancing, student films and best wishes for break",
+    "mailed": 1542,
+    "unique_opens": 1088,
+    "opens": 1818,
+    "open_rate": 70.6,
+    "unique_clicks": 16,
+    "total_clicks": 25,
+    "click_rate": 1.0,
+    "unsubs": 0,
+    "urls": []
   },
   {
     "filename": "staff-2025-11-24.xml",
@@ -3218,6 +4057,23 @@
     ]
   },
   {
+    "filename": "graduatestudents-2025-11-17.xml",
+    "type": "graduatestudents",
+    "date": "2025-11-17",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Agreeing to disagree, life on other worlds",
+    "mailed": 1542,
+    "unique_opens": 1120,
+    "opens": 1928,
+    "open_rate": 72.6,
+    "unique_clicks": 65,
+    "total_clicks": 119,
+    "click_rate": 4.2,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
     "filename": "staff-2025-11-17.xml",
     "type": "staff",
     "date": "2025-11-17",
@@ -3512,6 +4368,23 @@
     ]
   },
   {
+    "filename": "graduatestudents-2025-11-10.xml",
+    "type": "graduatestudents",
+    "date": "2025-11-10",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Poetry, \"do-gooders\" and using AI for good",
+    "mailed": 1542,
+    "unique_opens": 1127,
+    "opens": 1921,
+    "open_rate": 73.1,
+    "unique_clicks": 36,
+    "total_clicks": 60,
+    "click_rate": 2.3,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
     "filename": "staff-2025-11-10.xml",
     "type": "staff",
     "date": "2025-11-10",
@@ -3798,6 +4671,23 @@
     ]
   },
   {
+    "filename": "graduatestudents-2025-11-03.xml",
+    "type": "graduatestudents",
+    "date": "2025-11-03",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Tadpole evolution and Civil War hauntings",
+    "mailed": 1543,
+    "unique_opens": 1119,
+    "opens": 1915,
+    "open_rate": 72.5,
+    "unique_clicks": 27,
+    "total_clicks": 54,
+    "click_rate": 1.7,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
     "filename": "staff-2025-11-03.xml",
     "type": "staff",
     "date": "2025-11-03",
@@ -4074,6 +4964,23 @@
         "unique_clicks": 1
       }
     ]
+  },
+  {
+    "filename": "graduatestudents-2025-10-27.xml",
+    "type": "graduatestudents",
+    "date": "2025-10-27",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: COVID, cancer and shipwreck artifacts",
+    "mailed": 1544,
+    "unique_opens": 1131,
+    "opens": 1958,
+    "open_rate": 73.3,
+    "unique_clicks": 20,
+    "total_clicks": 36,
+    "click_rate": 1.3,
+    "unsubs": 0,
+    "urls": []
   },
   {
     "filename": "staff-2025-10-27.xml",
@@ -4370,6 +5277,23 @@
     ]
   },
   {
+    "filename": "graduatestudents-2025-10-20.xml",
+    "type": "graduatestudents",
+    "date": "2025-10-20",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Kudos to our faculty award winners",
+    "mailed": 1544,
+    "unique_opens": 1126,
+    "opens": 1988,
+    "open_rate": 72.9,
+    "unique_clicks": 46,
+    "total_clicks": 72,
+    "click_rate": 3.0,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
     "filename": "staff-2025-10-20.xml",
     "type": "staff",
     "date": "2025-10-20",
@@ -4664,6 +5588,23 @@
     ]
   },
   {
+    "filename": "graduatestudents-2025-10-15.xml",
+    "type": "graduatestudents",
+    "date": "2025-10-15",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Welcome back",
+    "mailed": 1544,
+    "unique_opens": 1129,
+    "opens": 1958,
+    "open_rate": 73.1,
+    "unique_clicks": 36,
+    "total_clicks": 58,
+    "click_rate": 2.3,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
     "filename": "staff-2025-10-15.xml",
     "type": "staff",
     "date": "2025-10-15",
@@ -4948,6 +5889,23 @@
         "unique_clicks": 1
       }
     ]
+  },
+  {
+    "filename": "graduatestudents-2025-10-06.xml",
+    "type": "graduatestudents",
+    "date": "2025-10-06",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Meet another Nobel laureate & our distinguished visiting journalist",
+    "mailed": 1544,
+    "unique_opens": 1115,
+    "opens": 1930,
+    "open_rate": 72.2,
+    "unique_clicks": 42,
+    "total_clicks": 95,
+    "click_rate": 2.7,
+    "unsubs": 0,
+    "urls": []
   },
   {
     "filename": "staff-2025-10-06.xml",
@@ -5244,6 +6202,23 @@
     ]
   },
   {
+    "filename": "graduatestudents-2025-09-29.xml",
+    "type": "graduatestudents",
+    "date": "2025-09-29",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Babies, fireworks and a new major",
+    "mailed": 1544,
+    "unique_opens": 1133,
+    "opens": 2004,
+    "open_rate": 73.4,
+    "unique_clicks": 33,
+    "total_clicks": 56,
+    "click_rate": 2.1,
+    "unsubs": 0,
+    "urls": []
+  },
+  {
     "filename": "staff-2025-09-29.xml",
     "type": "staff",
     "date": "2025-09-29",
@@ -5536,6 +6511,23 @@
         "unique_clicks": 2
       }
     ]
+  },
+  {
+    "filename": "graduatestudents-2025-09-22.xml",
+    "type": "graduatestudents",
+    "date": "2025-09-22",
+    "year": 2025,
+    "semester": "Fall",
+    "subject": "This week in A&S: Home, human historians and why women won",
+    "mailed": 1544,
+    "unique_opens": 1143,
+    "opens": 2027,
+    "open_rate": 74.0,
+    "unique_clicks": 34,
+    "total_clicks": 56,
+    "click_rate": 2.2,
+    "unsubs": 0,
+    "urls": []
   },
   {
     "filename": "staff-2025-09-22.xml",

@@ -60,31 +60,24 @@ def parse_xml_file(filepath, filename):
     month = int(date_str[5:7])
     semester = 'Spring' if month <= 6 else 'Fall'
 
+    def normalize_xml(chunk):
+        chunk = re.sub(r'</?[A-Za-z][A-Za-z0-9_-]*', lambda m: m.group().lower(), chunk)
+        chunk = re.sub(r'&(?!(?:[a-zA-Z]+|#\d+|#x[0-9a-fA-F]+);)', '&amp;', chunk)
+        return chunk
+
     try:
-        tree = ET.parse(filepath)
-    except ET.ParseError:
-        # File may have HTML wrapper — strip it and re-parse
         with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read()
-        # Extract just the XML portion
-        start = content.find('<trackingsummarydata>')
-        end = content.find('</trackingsummarydata>') + len('</trackingsummarydata>')
+        lower = content.lower()
+        start = lower.find('<trackingsummarydata>')
+        end   = lower.find('</trackingsummarydata>')
         if start == -1 or end == -1:
             print(f"  WARNING: Could not parse {filename}")
             return None
-        try:
-            root = ET.fromstring(content[start:end])
-        except ET.ParseError as e:
-            print(f"  WARNING: Parse error in {filename}: {e}")
-            return None
-    else:
-        root = tree.getroot()
-        # If root is html/body, find trackingsummarydata
-        if root.tag != 'trackingsummarydata':
-            root = root.find('.//trackingsummarydata')
-            if root is None:
-                print(f"  WARNING: No trackingsummarydata in {filename}")
-                return None
+        root = ET.fromstring(normalize_xml(content[start:end + len('</trackingsummarydata>')]))
+    except ET.ParseError as e:
+        print(f"  WARNING: Parse error in {filename}: {e}")
+        return None
 
     mailed = get_int(root, 'mailed')
     unique_opens = get_int(root, 'unique_opens')

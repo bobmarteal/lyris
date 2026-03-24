@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<trackingsummarydata>
+    <dns_temps>0</dns_temps>
+    <bad_doms>0</bad_doms>
+    <bounces>0</bounces>
+    <invalids>0</invalids>
+    <mes_missings>0</mes_missings>
+    <expirations>0</expirations>
+    <skips>0</skips>
+    <aborts>0</aborts>
+    <paused>0</paused>
+    <mailed>325</mailed>
+    <received>325</received>
+    <soft_fails>0</soft_fails>
+    <hard_fails>0</hard_fails>
+    <active>0</active>
+    <unique_opens>182</unique_opens>
+    <opens>315</opens>
+    <new_members>0</new_members>
+    <unsubs>0</unsubs>
+    <total_clicks>77</total_clicks>
+    <unique_clicks>31</unique_clicks>
+    <trans>0</trans>
+    <unique_trans>0</unique_trans>
+    <streams>0</streams>
+    <unique_streams>0</unique_streams>
+    <trans_amt>0</trans_amt>
+    <units>0</units>
+    <complaints>0</complaints>
+    <successes>325</successes>
+    <immediate_transients>0</immediate_transients>
+    <internal_stops>0</internal_stops>
+    <final_technicals>0</final_technicals>
+    <unknowns>0</unknowns>
+    <invalid_users>0</invalid_users>
+    <blocked_contents>0</blocked_contents>
+    <likely_blocked>0</likely_blocked>
+    <dbversion>1203008</dbversion>
+    <start_date>2026-03-16 13:10:02</start_date>
+    <finish_date>2026-03-16 13:10:10</finish_date>
+    <subject>This week in A&amp;S: White House journalists, Google/physicists collabs</subject>
+    <type>list</type>
+    <subset />
+    <list>as-staff-update-l</list>
+    <title>FSSG - 03/16/26</title>
+    <urls>
+        <opens>24</opens>
+        <uniqueopens>11</uniqueopens>
+        <url>https://as.cornell.edu/news/world-according-sound-offers-immersive-audio-experience-march-23?&amp;utm_campaign=newsletter&amp;utm_source=weekly-newsletter-3-16-26</url>
+        <page_title>World According to Sound offers immersive audio experience March 23</page_title>
+        <page_summary>A sonic experience where the audience sits blindfolded is returning to Cornell March 23 for a 6 p.m. performance in Sage Chapel.</page_summary>
+        <opens>8</opens>
+        <uniqueopens>4</uniqueopens>
+        <url>https://as.cornell.edu/newsletter/weekly-newsletter-3-16-26?&amp;utm_campaign=newsletter&amp;utm_source=weekly-newsletter-3-16-26</url>
+        <page_title>weekly newsletter 3-16-26</page_title>
+        <page_summary>Not Available</page_summary>
+        <opens>8</opens>
+        <uniqueopens>4</uniqueopens>
+        <url>https://as.cornell.edu/public-engagement/arts-unplugged?&amp;utm_campaign=newsletter&amp;utm_source=weekly-newsletter-3-16-26</url>
+        <page_title>Arts Unplugged</page_title>
+        <page_summary>The College of Arts &amp; Sciences’ Arts Unplugged series brings research and creative works into the public sphere for discussion and inspiration. These engaging events invite a broad audience to explore the work of scholars, faculty and creative lum...</page_summary>
+        <opens>8</opens>
+        <uniqueopens>4</uniqueopens>
+        <url>https://news.cornell.edu/stories/2026/03/stem-cell-registry-drive-will-mobilize-campus-save-lives</url>
+        <page_title>Stem-cell registry drive will mobilize campus to save lives | Cornell Chronicle</page_title>
+        <page_summary>To help the son of an alum and thousands of people in need of life-saving intervention, Cornell is hosting a stem-cell cheek swabbing campaign March 13-20 across the Ithaca campus.</page_summary>
+        <opens>6</opens>
+        <uniqueopens>3</uniqueopens>
+        <url>https://events.cornell.edu/event/inside-journalism-a-conversation-with-nprs-robin-young-and-the-ny-times-zolan-kanno-youngs</url>
+        <page_title>Inside Journalism: A Conversation with NPR’s Robin Young and the NY Times’ Zolan Kanno-Youngs - Cornell</page_title>
+        <page_summary>"Inside Journalism: A Conversation with NPR’s Robin Young and the NY Times’ Zolan Kanno-Youngs" will be moderated by Sophia Dasser ’28, Editor-in-Chief of the Cornell Daily Sun. The conversation will explore careers in journalism today in both pri...</page_summary>
+        <opens>5</opens>
+        <uniqueopens>3</uniqueopens>
+        <url>https://as.cornell.edu/news/renowned-pianist-sir-stephen-hough-plays-dallas-morse-coors-concert-series?&amp;utm_campaign=newsletter&amp;utm_source=weekly-newsletter-3-16-26</url>
+        <page_title>Renowned pianist Sir Stephen Hough plays Dallas Morse Coors Concert Series</page_title>
+        <page_summary>In the concert, Hough will play an imaginative program that includes works by Schubert, Brahms, Schoenberg, Beethoven and a suite from "Mary Poppins."</page_summary>
+        <opens>4</opens>
+        <uniqueopens>2</uniqueopens>
+        <url>https://as.cornell.edu/news/ny-times-writer-and-klarman-79-civil-debate-can-change-minds?&amp;utm_campaign=newsletter&amp;utm_source=weekly-newsletter-3-16-26</url>
+        <page_title>NY Times writer and Klarman '79: Civil debate can change minds</page_title>
+        <page_summary>A live and online audience of nearly 1,000 tapped into an ongoing conversation between Bret Stephens and Seth Klarman about media, democracy, education and the nature of debate.</page_summary>
+        <opens>4</opens>
+        <uniqueopens>2</uniqueopens>
+        <url>https://events.cornell.edu/event/penumbra-2026-annual-spring-dance-presenting-series</url>
+        <page_title>PENUMBRA: 2026 ANNUAL SPRING DANCE PRESENTING SERIES - Cornell</page_title>
+        <page_summary>Join the Department of Performing and Media Arts for PENUMBRA: 2026 ANNUAL SPRING DANCE PRESENTING SERIES, an evening of original dance work featuring choreography by Babatunji Johnson and Assistant Professor of the Practice Danielle Russo, on Fri...</page_summary>
+        <opens>2</opens>
+        <uniqueopens>1</uniqueopens>
+        <url>https://news.cornell.edu/stories/2026/03/testing-large-language-models-scientific-literature</url>
+        <page_title>Testing large language models on scientific literature | Cornell Chronicle</page_title>
+        <page_summary>Cornell physicists and Google researchers engaged a panel of 12 human experts to test the ability of six LLM systems to understand scientific literature at the level of a specialist.</page_summary>
+        <opens>2</opens>
+        <uniqueopens>1</uniqueopens>
+        <url>https://events.cornell.edu/event/professional-directions-a-conversation-with-keri-putnam-ad-white-professor-at-large</url>
+        <page_title>Professional Directions: A Conversation with Keri Putnam, A.D. White Professor-at-Large - Cornell</page_title>
+        <page_summary>Join the Department of Performing and Media Arts for Professional Directions: A Conversation with Keri Putnam, A.D. White Professor-at-Large on Thursday, March 19, at 2:00 pm, in the Film Forum, Schwartz Center for the Performing Arts. Free and op...</page_summary>
+    </urls>
+</trackingsummarydata>

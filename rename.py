@@ -83,15 +83,23 @@ def fetch_page_info(url, timeout=8):
 # XML helpers
 # ---------------------------------------------------------------------------
 
+def normalize_xml(xml_chunk):
+    """Lowercase all tag names and escape bare & characters."""
+    xml_chunk = re.sub(r'</?[A-Za-z][A-Za-z0-9_-]*', lambda m: m.group().lower(), xml_chunk)
+    xml_chunk = re.sub(r'&(?!(?:[a-zA-Z]+|#\d+|#x[0-9a-fA-F]+);)', '&amp;', xml_chunk)
+    return xml_chunk
+
+
 def extract_xml_root(filepath):
     """Parse a Lyris file (HTML-wrapped or plain XML). Returns root element or None."""
     with open(filepath, 'r', encoding='utf-8', errors='ignore') as f:
         content = f.read()
-    start = content.find('<trackingsummarydata>')
-    end = content.find('</trackingsummarydata>')
+    lower = content.lower()
+    start = lower.find('<trackingsummarydata>')
+    end   = lower.find('</trackingsummarydata>')
     if start == -1 or end == -1:
         return None
-    xml_chunk = content[start:end + len('</trackingsummarydata>')]
+    xml_chunk = normalize_xml(content[start:end + len('</trackingsummarydata>')])
     try:
         return ET.fromstring(xml_chunk)
     except ET.ParseError:
